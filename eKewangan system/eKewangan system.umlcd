@@ -1,0 +1,2622 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<com.yattasolutions.uml.diagrams.classifier:ClassDiagram xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:com.yattasolutions.uml.diagrams.classifier="http://ns.yatta-solutions.com/umllab/diagrams/classifier/1.1.0" xmi:id="_r10TsI6FEeyjgorm8hfSZw">
+  <modelElement href="eKewangan%20system.uml#_rsZR8I6FEeyjgorm8hfSZw"/>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_6mZzII6FEeyjgorm8hfSZw" sourceAnchor="106.0,0.0" targetAnchor="0.0,173.0" target="_6ny6QI6FEeyjgorm8hfSZw" source="_6ny6QI6FEeyjgorm8hfSZw">
+    <modelElement href="eKewangan%20system.uml#_upxpEY6FEeyjgorm8hfSZw"/>
+    <bendpoints xmi:id="_7zM9cI6FEeyjgorm8hfSZw" sourceY="-100" targetX="106" targetY="-273"/>
+    <bendpoints xmi:id="_7zOLkI6FEeyjgorm8hfSZw" sourceX="-194" sourceY="-100" targetX="-88" targetY="-273"/>
+    <bendpoints xmi:id="_7zOyoI6FEeyjgorm8hfSZw" sourceX="-194" sourceY="173" targetX="-88"/>
+    <stereotypes xmi:id="_6mtVIY6FEeyjgorm8hfSZw" name="Reference">
+      <modelElement href="eKewangan%20system.uml#_upyQII6FEeyjgorm8hfSZw"/>
+    </stereotypes>
+    <nameVisual xmi:id="_6mrf8I6FEeyjgorm8hfSZw" text="">
+      <visualProperties xmi:id="_7zcOAI6FEeyjgorm8hfSZw" position="134.5,-8.5"/>
+    </nameVisual>
+    <sourceRole xmi:id="_6msHAI6FEeyjgorm8hfSZw" aggregationKind="NONE" name="">
+      <modelElement href="eKewangan%20system.uml#_upxpEo6FEeyjgorm8hfSZw"/>
+      <visualProperties xmi:id="_7zaY0Y6FEeyjgorm8hfSZw" position="-20.0,-50.0"/>
+      <visibility xmi:id="_6mw_gY6FEeyjgorm8hfSZw" label="+"/>
+      <cardinality xmi:id="_6mw_gI6FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_6mtVII6FEeyjgorm8hfSZw" aggregationKind="NONE" name="frame" navigable="true">
+      <modelElement href="eKewangan%20system.uml#_ulfmAI6FEeyjgorm8hfSZw"/>
+      <visualProperties xmi:id="_7zc1EI6FEeyjgorm8hfSZw" position="-50.99999999999994,3.5000000000000284"/>
+      <visibility xmi:id="_6myNoI6FEeyjgorm8hfSZw" label="+"/>
+      <cardinality xmi:id="_6mxmkI6FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_6m7-oI6FEeyjgorm8hfSZw" source="_6ny6QI6FEeyjgorm8hfSZw">
+    <modelElement href="eKewangan%20system.uml#_upII0I6FEeyjgorm8hfSZw"/>
+    <stereotypes xmi:id="_6m7-oY6FEeyjgorm8hfSZw" name="Reference">
+      <modelElement href="eKewangan%20system.uml#_upIv4I6FEeyjgorm8hfSZw"/>
+    </stereotypes>
+    <nameVisual xmi:id="_6m7-oo6FEeyjgorm8hfSZw" text=""/>
+    <sourceRole xmi:id="_6m7-o46FEeyjgorm8hfSZw" aggregationKind="NONE" name="">
+      <modelElement href="eKewangan%20system.uml#_upII0Y6FEeyjgorm8hfSZw"/>
+      <visibility xmi:id="_6m7-pI6FEeyjgorm8hfSZw" label="+"/>
+      <cardinality xmi:id="_6m7-pY6FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_6m7-po6FEeyjgorm8hfSZw" aggregationKind="NONE" name="pane" navigable="true">
+      <modelElement href="eKewangan%20system.uml#_ulSKoI6FEeyjgorm8hfSZw"/>
+      <visibility xmi:id="_6m7-p46FEeyjgorm8hfSZw" label="-"/>
+      <cardinality xmi:id="_6m7-qI6FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_6m9z0I6FEeyjgorm8hfSZw" source="_6ny6QI6FEeyjgorm8hfSZw">
+    <modelElement href="eKewangan%20system.uml#_upIv4Y6FEeyjgorm8hfSZw"/>
+    <stereotypes xmi:id="_6m9z0Y6FEeyjgorm8hfSZw" name="Reference">
+      <modelElement href="eKewangan%20system.uml#_upLMII6FEeyjgorm8hfSZw"/>
+    </stereotypes>
+    <nameVisual xmi:id="_6m9z0o6FEeyjgorm8hfSZw" text=""/>
+    <sourceRole xmi:id="_6m9z046FEeyjgorm8hfSZw" aggregationKind="NONE" name="">
+      <modelElement href="eKewangan%20system.uml#_upIv4o6FEeyjgorm8hfSZw"/>
+      <visibility xmi:id="_6m9z1I6FEeyjgorm8hfSZw" label="+"/>
+      <cardinality xmi:id="_6m9z1Y6FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_6m9z1o6FEeyjgorm8hfSZw" aggregationKind="NONE" name="pnl_titlePayment" navigable="true">
+      <modelElement href="eKewangan%20system.uml#_ulSxsY6FEeyjgorm8hfSZw"/>
+      <visibility xmi:id="_6m9z146FEeyjgorm8hfSZw" label="+"/>
+      <cardinality xmi:id="_6m9z2I6FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_6nA3II6FEeyjgorm8hfSZw" source="_6ny6QI6FEeyjgorm8hfSZw">
+    <modelElement href="eKewangan%20system.uml#_upNBUI6FEeyjgorm8hfSZw"/>
+    <stereotypes xmi:id="_6nA3IY6FEeyjgorm8hfSZw" name="Reference">
+      <modelElement href="eKewangan%20system.uml#_upWLQI6FEeyjgorm8hfSZw"/>
+    </stereotypes>
+    <nameVisual xmi:id="_6nA3Io6FEeyjgorm8hfSZw" text=""/>
+    <sourceRole xmi:id="_6nA3I46FEeyjgorm8hfSZw" aggregationKind="NONE" name="">
+      <modelElement href="eKewangan%20system.uml#_upNBUY6FEeyjgorm8hfSZw"/>
+      <visibility xmi:id="_6nA3JI6FEeyjgorm8hfSZw" label="+"/>
+      <cardinality xmi:id="_6nA3JY6FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_6nA3Jo6FEeyjgorm8hfSZw" aggregationKind="NONE" name="lbl_title" navigable="true">
+      <modelElement href="eKewangan%20system.uml#_ulT_0I6FEeyjgorm8hfSZw"/>
+      <visibility xmi:id="_6nA3J46FEeyjgorm8hfSZw" label="-"/>
+      <cardinality xmi:id="_6nBeMI6FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_6nDTYI6FEeyjgorm8hfSZw" source="_6ny6QI6FEeyjgorm8hfSZw">
+    <modelElement href="eKewangan%20system.uml#_upWyUI6FEeyjgorm8hfSZw"/>
+    <stereotypes xmi:id="_6nDTYY6FEeyjgorm8hfSZw" name="Reference">
+      <modelElement href="eKewangan%20system.uml#_upYAcI6FEeyjgorm8hfSZw"/>
+    </stereotypes>
+    <nameVisual xmi:id="_6nDTYo6FEeyjgorm8hfSZw" text=""/>
+    <sourceRole xmi:id="_6nDTY46FEeyjgorm8hfSZw" aggregationKind="NONE" name="">
+      <modelElement href="eKewangan%20system.uml#_upWyUY6FEeyjgorm8hfSZw"/>
+      <visibility xmi:id="_6nDTZI6FEeyjgorm8hfSZw" label="+"/>
+      <cardinality xmi:id="_6nDTZY6FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_6nDTZo6FEeyjgorm8hfSZw" aggregationKind="NONE" name="pnl_paymentform" navigable="true">
+      <modelElement href="eKewangan%20system.uml#_ulVN8Y6FEeyjgorm8hfSZw"/>
+      <visibility xmi:id="_6nDTZ46FEeyjgorm8hfSZw" label="-"/>
+      <cardinality xmi:id="_6nDTaI6FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_6nL2QI6FEeyjgorm8hfSZw" source="_6ny6QI6FEeyjgorm8hfSZw">
+    <modelElement href="eKewangan%20system.uml#_upYngI6FEeyjgorm8hfSZw"/>
+    <stereotypes xmi:id="_6nO5kI6FEeyjgorm8hfSZw" name="Reference">
+      <modelElement href="eKewangan%20system.uml#_upacsI6FEeyjgorm8hfSZw"/>
+    </stereotypes>
+    <nameVisual xmi:id="_6nO5kY6FEeyjgorm8hfSZw" text=""/>
+    <sourceRole xmi:id="_6nO5ko6FEeyjgorm8hfSZw" aggregationKind="NONE" name="">
+      <modelElement href="eKewangan%20system.uml#_upYngY6FEeyjgorm8hfSZw"/>
+      <visibility xmi:id="_6nO5k46FEeyjgorm8hfSZw" label="+"/>
+      <cardinality xmi:id="_6nO5lI6FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_6nO5lY6FEeyjgorm8hfSZw" aggregationKind="NONE" name="lbl_category" navigable="true">
+      <modelElement href="eKewangan%20system.uml#_ulWcEI6FEeyjgorm8hfSZw"/>
+      <visibility xmi:id="_6nO5lo6FEeyjgorm8hfSZw" label="-"/>
+      <cardinality xmi:id="_6nO5l46FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_6nR84I6FEeyjgorm8hfSZw" source="_6ny6QI6FEeyjgorm8hfSZw">
+    <modelElement href="eKewangan%20system.uml#_upbDwI6FEeyjgorm8hfSZw"/>
+    <stereotypes xmi:id="_6nR84Y6FEeyjgorm8hfSZw" name="Reference">
+      <modelElement href="eKewangan%20system.uml#_upkNsI6FEeyjgorm8hfSZw"/>
+    </stereotypes>
+    <nameVisual xmi:id="_6nR84o6FEeyjgorm8hfSZw" text=""/>
+    <sourceRole xmi:id="_6nR8446FEeyjgorm8hfSZw" aggregationKind="NONE" name="">
+      <modelElement href="eKewangan%20system.uml#_upbDwY6FEeyjgorm8hfSZw"/>
+      <visibility xmi:id="_6nR85I6FEeyjgorm8hfSZw" label="+"/>
+      <cardinality xmi:id="_6nR85Y6FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_6nR85o6FEeyjgorm8hfSZw" aggregationKind="NONE" name="cmb_invoiceNo" navigable="true">
+      <modelElement href="eKewangan%20system.uml#_ulXDIY6FEeyjgorm8hfSZw"/>
+      <visibility xmi:id="_6nR8546FEeyjgorm8hfSZw" label="+"/>
+      <cardinality xmi:id="_6nR86I6FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_6nVAMI6FEeyjgorm8hfSZw" source="_6ny6QI6FEeyjgorm8hfSZw">
+    <modelElement href="eKewangan%20system.uml#_upk0wI6FEeyjgorm8hfSZw"/>
+    <stereotypes xmi:id="_6nVAMY6FEeyjgorm8hfSZw" name="Reference">
+      <modelElement href="eKewangan%20system.uml#_uplb0I6FEeyjgorm8hfSZw"/>
+    </stereotypes>
+    <nameVisual xmi:id="_6nVAMo6FEeyjgorm8hfSZw" text=""/>
+    <sourceRole xmi:id="_6nVAM46FEeyjgorm8hfSZw" aggregationKind="NONE" name="">
+      <modelElement href="eKewangan%20system.uml#_upk0wY6FEeyjgorm8hfSZw"/>
+      <visibility xmi:id="_6nVANI6FEeyjgorm8hfSZw" label="+"/>
+      <cardinality xmi:id="_6nVANY6FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_6nVANo6FEeyjgorm8hfSZw" aggregationKind="NONE" name="lbl_paymentfor" navigable="true">
+      <modelElement href="eKewangan%20system.uml#_ulYRQI6FEeyjgorm8hfSZw"/>
+      <visibility xmi:id="_6nVAN46FEeyjgorm8hfSZw" label="-"/>
+      <cardinality xmi:id="_6nVAOI6FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_6nYqkI6FEeyjgorm8hfSZw" source="_6ny6QI6FEeyjgorm8hfSZw">
+    <modelElement href="eKewangan%20system.uml#_uplb0Y6FEeyjgorm8hfSZw"/>
+    <stereotypes xmi:id="_6nYqkY6FEeyjgorm8hfSZw" name="Reference">
+      <modelElement href="eKewangan%20system.uml#_upnRAI6FEeyjgorm8hfSZw"/>
+    </stereotypes>
+    <nameVisual xmi:id="_6nYqko6FEeyjgorm8hfSZw" text=""/>
+    <sourceRole xmi:id="_6nYqk46FEeyjgorm8hfSZw" aggregationKind="NONE" name="">
+      <modelElement href="eKewangan%20system.uml#_uplb0o6FEeyjgorm8hfSZw"/>
+      <visibility xmi:id="_6nYqlI6FEeyjgorm8hfSZw" label="+"/>
+      <cardinality xmi:id="_6nYqlY6FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_6nYqlo6FEeyjgorm8hfSZw" aggregationKind="NONE" name="txt_amount" navigable="true">
+      <modelElement href="eKewangan%20system.uml#_ulY4UI6FEeyjgorm8hfSZw"/>
+      <visibility xmi:id="_6nYql46FEeyjgorm8hfSZw" label="-"/>
+      <cardinality xmi:id="_6nYqmI6FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_6nbt4I6FEeyjgorm8hfSZw" source="_6ny6QI6FEeyjgorm8hfSZw">
+    <modelElement href="eKewangan%20system.uml#_upptQI6FEeyjgorm8hfSZw"/>
+    <stereotypes xmi:id="_6nbt4Y6FEeyjgorm8hfSZw" name="Reference">
+      <modelElement href="eKewangan%20system.uml#_upqUUI6FEeyjgorm8hfSZw"/>
+    </stereotypes>
+    <nameVisual xmi:id="_6nbt4o6FEeyjgorm8hfSZw" text=""/>
+    <sourceRole xmi:id="_6nbt446FEeyjgorm8hfSZw" aggregationKind="NONE" name="">
+      <modelElement href="eKewangan%20system.uml#_upptQY6FEeyjgorm8hfSZw"/>
+      <visibility xmi:id="_6nbt5I6FEeyjgorm8hfSZw" label="+"/>
+      <cardinality xmi:id="_6nbt5Y6FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_6nbt5o6FEeyjgorm8hfSZw" aggregationKind="NONE" name="lbl_amount" navigable="true">
+      <modelElement href="eKewangan%20system.uml#_ulaGcI6FEeyjgorm8hfSZw"/>
+      <visibility xmi:id="_6nbt546FEeyjgorm8hfSZw" label="-"/>
+      <cardinality xmi:id="_6nbt6I6FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_6ndjEI6FEeyjgorm8hfSZw" source="_6ny6QI6FEeyjgorm8hfSZw">
+    <modelElement href="eKewangan%20system.uml#_upq7YI6FEeyjgorm8hfSZw"/>
+    <stereotypes xmi:id="_6neKII6FEeyjgorm8hfSZw" name="Reference">
+      <modelElement href="eKewangan%20system.uml#_upswkI6FEeyjgorm8hfSZw"/>
+    </stereotypes>
+    <nameVisual xmi:id="_6neKIY6FEeyjgorm8hfSZw" text=""/>
+    <sourceRole xmi:id="_6neKIo6FEeyjgorm8hfSZw" aggregationKind="NONE" name="">
+      <modelElement href="eKewangan%20system.uml#_upq7YY6FEeyjgorm8hfSZw"/>
+      <visibility xmi:id="_6neKI46FEeyjgorm8hfSZw" label="+"/>
+      <cardinality xmi:id="_6neKJI6FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_6neKJY6FEeyjgorm8hfSZw" aggregationKind="NONE" name="txt_amountToPay" navigable="true">
+      <modelElement href="eKewangan%20system.uml#_ulatgY6FEeyjgorm8hfSZw"/>
+      <visibility xmi:id="_6neKJo6FEeyjgorm8hfSZw" label="-"/>
+      <cardinality xmi:id="_6neKJ46FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_6njCoI6FEeyjgorm8hfSZw" source="_6ny6QI6FEeyjgorm8hfSZw">
+    <modelElement href="eKewangan%20system.uml#_upt-sI6FEeyjgorm8hfSZw"/>
+    <stereotypes xmi:id="_6njCoY6FEeyjgorm8hfSZw" name="Reference">
+      <modelElement href="eKewangan%20system.uml#_upvM0I6FEeyjgorm8hfSZw"/>
+    </stereotypes>
+    <nameVisual xmi:id="_6njCoo6FEeyjgorm8hfSZw" text=""/>
+    <sourceRole xmi:id="_6njCo46FEeyjgorm8hfSZw" aggregationKind="NONE" name="">
+      <modelElement href="eKewangan%20system.uml#_upt-sY6FEeyjgorm8hfSZw"/>
+      <visibility xmi:id="_6njCpI6FEeyjgorm8hfSZw" label="+"/>
+      <cardinality xmi:id="_6njCpY6FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_6njCpo6FEeyjgorm8hfSZw" aggregationKind="NONE" name="pnl_button" navigable="true">
+      <modelElement href="eKewangan%20system.uml#_ulcisI6FEeyjgorm8hfSZw"/>
+      <visibility xmi:id="_6njCp46FEeyjgorm8hfSZw" label="-"/>
+      <cardinality xmi:id="_6njCqI6FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_6nmtAI6FEeyjgorm8hfSZw" source="_6ny6QI6FEeyjgorm8hfSZw">
+    <modelElement href="eKewangan%20system.uml#_upvM0Y6FEeyjgorm8hfSZw"/>
+    <stereotypes xmi:id="_6nmtAY6FEeyjgorm8hfSZw" name="Reference">
+      <modelElement href="eKewangan%20system.uml#_upwa8I6FEeyjgorm8hfSZw"/>
+    </stereotypes>
+    <nameVisual xmi:id="_6nmtAo6FEeyjgorm8hfSZw" text=""/>
+    <sourceRole xmi:id="_6nmtA46FEeyjgorm8hfSZw" aggregationKind="NONE" name="">
+      <modelElement href="eKewangan%20system.uml#_upvM0o6FEeyjgorm8hfSZw"/>
+      <visibility xmi:id="_6nmtBI6FEeyjgorm8hfSZw" label="+"/>
+      <cardinality xmi:id="_6nmtBY6FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_6nmtBo6FEeyjgorm8hfSZw" aggregationKind="NONE" name="btn_pay" navigable="true">
+      <modelElement href="eKewangan%20system.uml#_uldw0Y6FEeyjgorm8hfSZw"/>
+      <visibility xmi:id="_6nmtB46FEeyjgorm8hfSZw" label="-"/>
+      <cardinality xmi:id="_6nmtCI6FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_6nsMkI6FEeyjgorm8hfSZw" source="_6ny6QI6FEeyjgorm8hfSZw">
+    <modelElement href="eKewangan%20system.uml#_upwa8Y6FEeyjgorm8hfSZw"/>
+    <stereotypes xmi:id="_6nsMkY6FEeyjgorm8hfSZw" name="Reference">
+      <modelElement href="eKewangan%20system.uml#_upxpEI6FEeyjgorm8hfSZw"/>
+    </stereotypes>
+    <nameVisual xmi:id="_6nsMko6FEeyjgorm8hfSZw" text=""/>
+    <sourceRole xmi:id="_6nsMk46FEeyjgorm8hfSZw" aggregationKind="NONE" name="">
+      <modelElement href="eKewangan%20system.uml#_upwa8o6FEeyjgorm8hfSZw"/>
+      <visibility xmi:id="_6nsMlI6FEeyjgorm8hfSZw" label="+"/>
+      <cardinality xmi:id="_6nsMlY6FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_6nsMlo6FEeyjgorm8hfSZw" aggregationKind="NONE" name="pnl_backPayment" navigable="true">
+      <modelElement href="eKewangan%20system.uml#_ule-8I6FEeyjgorm8hfSZw"/>
+      <visibility xmi:id="_6nsMl46FEeyjgorm8hfSZw" label="-"/>
+      <cardinality xmi:id="_6nsMmI6FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_6nuBwI6FEeyjgorm8hfSZw" source="_6ny6QI6FEeyjgorm8hfSZw">
+    <modelElement href="eKewangan%20system.uml#_upy3MI6FEeyjgorm8hfSZw"/>
+    <stereotypes xmi:id="_6nuBwY6FEeyjgorm8hfSZw" name="Reference">
+      <modelElement href="eKewangan%20system.uml#_uqA5oI6FEeyjgorm8hfSZw"/>
+    </stereotypes>
+    <nameVisual xmi:id="_6nuBwo6FEeyjgorm8hfSZw" text=""/>
+    <sourceRole xmi:id="_6nuBw46FEeyjgorm8hfSZw" aggregationKind="NONE" name="">
+      <modelElement href="eKewangan%20system.uml#_upy3MY6FEeyjgorm8hfSZw"/>
+      <visibility xmi:id="_6nuBxI6FEeyjgorm8hfSZw" label="+"/>
+      <cardinality xmi:id="_6nuBxY6FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_6nuBxo6FEeyjgorm8hfSZw" aggregationKind="NONE" name="ok" navigable="true">
+      <modelElement href="eKewangan%20system.uml#_uliCQI6FEeyjgorm8hfSZw"/>
+      <visibility xmi:id="_6nuBx46FEeyjgorm8hfSZw" label="-"/>
+      <cardinality xmi:id="_6nuByI6FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_6nxFEI6FEeyjgorm8hfSZw" sourceAnchor="136.0,0.0" targetAnchor="166.0,0.0" target="_6ws-oI6FEeyjgorm8hfSZw" source="_6ny6QI6FEeyjgorm8hfSZw">
+    <modelElement href="eKewangan%20system.uml#_uqBgsI6FEeyjgorm8hfSZw"/>
+    <bendpoints xmi:id="_7zOyoY6FEeyjgorm8hfSZw" sourceY="-484" targetX="-702" targetY="-283"/>
+    <bendpoints xmi:id="_7zPZsI6FEeyjgorm8hfSZw" sourceX="702" sourceY="-484" targetY="-283"/>
+    <stereotypes xmi:id="_6nxFEY6FEeyjgorm8hfSZw" name="Reference">
+      <modelElement href="eKewangan%20system.uml#_uqCu0I6FEeyjgorm8hfSZw"/>
+    </stereotypes>
+    <nameVisual xmi:id="_6nxFEo6FEeyjgorm8hfSZw" text="">
+      <visualProperties xmi:id="_7zgfcI6FEeyjgorm8hfSZw" position="-372.9391929857917,427.57315200620127"/>
+    </nameVisual>
+    <sourceRole xmi:id="_6nxFE46FEeyjgorm8hfSZw" aggregationKind="NONE" name="">
+      <modelElement href="eKewangan%20system.uml#_uqBgsY6FEeyjgorm8hfSZw"/>
+      <visualProperties xmi:id="_7zeDMI6FEeyjgorm8hfSZw" position="-15.534918135881952,-64.78067138083065"/>
+      <visibility xmi:id="_6nxFFI6FEeyjgorm8hfSZw" label="+"/>
+      <cardinality xmi:id="_6nxFFY6FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_6nxFFo6FEeyjgorm8hfSZw" aggregationKind="NONE" name="controller" navigable="true">
+      <modelElement href="eKewangan%20system.uml#_ulipUY6FEeyjgorm8hfSZw"/>
+      <visualProperties xmi:id="_7zhGgI6FEeyjgorm8hfSZw" position="-743.2318777851715,121.44735492245056"/>
+      <visibility xmi:id="_6nxFF46FEeyjgorm8hfSZw" label="~"/>
+      <cardinality xmi:id="_6nxFGI6FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_6roRYI6FEeyjgorm8hfSZw" sourceAnchor="196.0,0.0" targetAnchor="191.0,0.0" target="_6sM5II6FEeyjgorm8hfSZw" source="_6ws-oI6FEeyjgorm8hfSZw">
+    <modelElement href="eKewangan%20system.uml#_uohr4I6FEeyjgorm8hfSZw"/>
+    <bendpoints xmi:id="_7zSdAI6FEeyjgorm8hfSZw" sourceY="-54" targetX="-740" targetY="-538"/>
+    <bendpoints xmi:id="_7zSdAY6FEeyjgorm8hfSZw" sourceX="740" sourceY="-54" targetY="-538"/>
+    <stereotypes xmi:id="_6r0eoo6FEeyjgorm8hfSZw" name="Reference">
+      <modelElement href="eKewangan%20system.uml#_uoi6AI6FEeyjgorm8hfSZw"/>
+    </stereotypes>
+    <nameVisual xmi:id="_6rz3kI6FEeyjgorm8hfSZw" text="">
+      <visualProperties xmi:id="_7z0ogI6FEeyjgorm8hfSZw" position="-377.5,-116.25"/>
+    </nameVisual>
+    <sourceRole xmi:id="_6r0eoI6FEeyjgorm8hfSZw" aggregationKind="NONE" name="">
+      <modelElement href="eKewangan%20system.uml#_uohr4Y6FEeyjgorm8hfSZw"/>
+      <visualProperties xmi:id="_7zyzUI6FEeyjgorm8hfSZw" position="8.5,-73.25"/>
+      <visibility xmi:id="_6r9okY6FEeyjgorm8hfSZw" label="+"/>
+      <cardinality xmi:id="_6r9okI6FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_6r0eoY6FEeyjgorm8hfSZw" aggregationKind="NONE" name="db" navigable="true">
+      <modelElement href="eKewangan%20system.uml#_ukA_UI6FEeyjgorm8hfSZw"/>
+      <visualProperties xmi:id="_7z0ogY6FEeyjgorm8hfSZw" position="-738.5,-780.25"/>
+      <stereotypes xmi:id="_6r_dwY6FEeyjgorm8hfSZw" name="LegacyStyledElement">
+        <modelElement href="eKewangan%20system.uml#_ukCNcI6FEeyjgorm8hfSZw"/>
+      </stereotypes>
+      <visibility xmi:id="_6r_dwI6FEeyjgorm8hfSZw" label="~"/>
+      <cardinality xmi:id="_6r-2sI6FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_6sB6AI6FEeyjgorm8hfSZw" sourceAnchor="221.0,0.0" targetAnchor="228.0,232.0" target="_6zDIAI6FEeyjgorm8hfSZw" source="_6sM5II6FEeyjgorm8hfSZw">
+    <modelElement href="eKewangan%20system.uml#_uojhEI6FEeyjgorm8hfSZw"/>
+    <stereotypes xmi:id="_6sB6AY6FEeyjgorm8hfSZw" name="Reference">
+      <modelElement href="eKewangan%20system.uml#_uolWQI6FEeyjgorm8hfSZw"/>
+    </stereotypes>
+    <nameVisual xmi:id="_6sB6Ao6FEeyjgorm8hfSZw" text="">
+      <visualProperties xmi:id="_7zjiwI6FEeyjgorm8hfSZw" position="-27.41302861268923,-40.848114240104394"/>
+    </nameVisual>
+    <sourceRole xmi:id="_6sB6A46FEeyjgorm8hfSZw" aggregationKind="NONE" name="">
+      <modelElement href="eKewangan%20system.uml#_uojhEY6FEeyjgorm8hfSZw"/>
+      <visualProperties xmi:id="_7ziUoI6FEeyjgorm8hfSZw" position="-17.758355180581475,-70.75720457930043"/>
+      <visibility xmi:id="_6sB6BI6FEeyjgorm8hfSZw" label="+"/>
+      <cardinality xmi:id="_6sB6BY6FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_6sB6Bo6FEeyjgorm8hfSZw" aggregationKind="NONE" name="lg" navigable="true">
+      <modelElement href="eKewangan%20system.uml#_ukgHgI6FEeyjgorm8hfSZw"/>
+      <visualProperties xmi:id="_7zkJ0I6FEeyjgorm8hfSZw" position="-23.209635611583508,-32.514183602161154"/>
+      <visibility xmi:id="_6sB6B46FEeyjgorm8hfSZw" label="~"/>
+      <cardinality xmi:id="_6sB6CI6FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_6s3ngI6FEeyjgorm8hfSZw" sourceAnchor="102.0,0.0" targetAnchor="0.0,192.0" target="_6t2e8I6FEeyjgorm8hfSZw" source="_6t2e8I6FEeyjgorm8hfSZw">
+    <modelElement href="eKewangan%20system.uml#_uqfawY6FEeyjgorm8hfSZw"/>
+    <bendpoints xmi:id="_7zQAwI6FEeyjgorm8hfSZw" sourceY="-94" targetX="102" targetY="-286"/>
+    <bendpoints xmi:id="_7zQAwY6FEeyjgorm8hfSZw" sourceX="-182" sourceY="-94" targetX="-80" targetY="-286"/>
+    <bendpoints xmi:id="_7zQn0I6FEeyjgorm8hfSZw" sourceX="-182" sourceY="192" targetX="-80"/>
+    <stereotypes xmi:id="_6tGRAo6FEeyjgorm8hfSZw" name="Reference">
+      <modelElement href="eKewangan%20system.uml#_uqgB0I6FEeyjgorm8hfSZw"/>
+    </stereotypes>
+    <nameVisual xmi:id="_6tFp8I6FEeyjgorm8hfSZw" text="">
+      <visualProperties xmi:id="_7znNII6FEeyjgorm8hfSZw" position="122.5,-7.75"/>
+    </nameVisual>
+    <sourceRole xmi:id="_6tGRAI6FEeyjgorm8hfSZw" aggregationKind="NONE" name="">
+      <modelElement href="eKewangan%20system.uml#_uqfawo6FEeyjgorm8hfSZw"/>
+      <visualProperties xmi:id="_7zl_AI6FEeyjgorm8hfSZw" position="-20.0,-49.25"/>
+      <visibility xmi:id="_6tX90Y6FEeyjgorm8hfSZw" label="+"/>
+      <cardinality xmi:id="_6tX90I6FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_6tGRAY6FEeyjgorm8hfSZw" aggregationKind="NONE" name="frame" navigable="true">
+      <modelElement href="eKewangan%20system.uml#_umOl0I6FEeyjgorm8hfSZw"/>
+      <visualProperties xmi:id="_7zn0MI6FEeyjgorm8hfSZw" position="-50.5,4.25"/>
+      <visibility xmi:id="_6tX9046FEeyjgorm8hfSZw" label="-"/>
+      <cardinality xmi:id="_6tX90o6FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_6s41oI6FEeyjgorm8hfSZw" source="_6t2e8I6FEeyjgorm8hfSZw">
+    <modelElement href="eKewangan%20system.uml#_uqCu0Y6FEeyjgorm8hfSZw"/>
+    <stereotypes xmi:id="_6tHfII6FEeyjgorm8hfSZw" name="Reference">
+      <modelElement href="eKewangan%20system.uml#_uqDV4I6FEeyjgorm8hfSZw"/>
+    </stereotypes>
+    <nameVisual xmi:id="_6tGRA46FEeyjgorm8hfSZw" text=""/>
+    <sourceRole xmi:id="_6tGRBI6FEeyjgorm8hfSZw" aggregationKind="NONE" name="">
+      <modelElement href="eKewangan%20system.uml#_uqCu0o6FEeyjgorm8hfSZw"/>
+      <visibility xmi:id="_6tZL8Y6FEeyjgorm8hfSZw" label="+"/>
+      <cardinality xmi:id="_6tZL8I6FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_6tGRBY6FEeyjgorm8hfSZw" aggregationKind="NONE" name="pane" navigable="true">
+      <modelElement href="eKewangan%20system.uml#_ulmTsI6FEeyjgorm8hfSZw"/>
+      <visibility xmi:id="_6taaEI6FEeyjgorm8hfSZw" label="-"/>
+      <cardinality xmi:id="_6tZzAI6FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_6s41oY6FEeyjgorm8hfSZw" source="_6t2e8I6FEeyjgorm8hfSZw">
+    <modelElement href="eKewangan%20system.uml#_uqD88I6FEeyjgorm8hfSZw"/>
+    <stereotypes xmi:id="_6tIGM46FEeyjgorm8hfSZw" name="Reference">
+      <modelElement href="eKewangan%20system.uml#_uqEkAI6FEeyjgorm8hfSZw"/>
+    </stereotypes>
+    <nameVisual xmi:id="_6tIGMI6FEeyjgorm8hfSZw" text=""/>
+    <sourceRole xmi:id="_6tIGMY6FEeyjgorm8hfSZw" aggregationKind="NONE" name="">
+      <modelElement href="eKewangan%20system.uml#_uqD88Y6FEeyjgorm8hfSZw"/>
+      <visibility xmi:id="_6taaE46FEeyjgorm8hfSZw" label="+"/>
+      <cardinality xmi:id="_6taaEo6FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_6tIGMo6FEeyjgorm8hfSZw" aggregationKind="NONE" name="pic_profilepics" navigable="true">
+      <modelElement href="eKewangan%20system.uml#_ulnh0I6FEeyjgorm8hfSZw"/>
+      <visibility xmi:id="_6tbBIY6FEeyjgorm8hfSZw" label="+"/>
+      <cardinality xmi:id="_6tbBII6FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_6s6q0I6FEeyjgorm8hfSZw" source="_6t2e8I6FEeyjgorm8hfSZw">
+    <modelElement href="eKewangan%20system.uml#_uqGZMI6FEeyjgorm8hfSZw"/>
+    <stereotypes xmi:id="_6tItQY6FEeyjgorm8hfSZw" name="Reference">
+      <modelElement href="eKewangan%20system.uml#_uqI1cI6FEeyjgorm8hfSZw"/>
+    </stereotypes>
+    <nameVisual xmi:id="_6tIGNI6FEeyjgorm8hfSZw" text=""/>
+    <sourceRole xmi:id="_6tIGNY6FEeyjgorm8hfSZw" aggregationKind="NONE" name="">
+      <modelElement href="eKewangan%20system.uml#_uqGZMY6FEeyjgorm8hfSZw"/>
+      <visibility xmi:id="_6tbBJI6FEeyjgorm8hfSZw" label="+"/>
+      <cardinality xmi:id="_6tbBI46FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_6tItQI6FEeyjgorm8hfSZw" aggregationKind="NONE" name="pnl_titleProfile" navigable="true">
+      <modelElement href="eKewangan%20system.uml#_ulov8I6FEeyjgorm8hfSZw"/>
+      <visibility xmi:id="_6tcPQI6FEeyjgorm8hfSZw" label="-"/>
+      <cardinality xmi:id="_6tbBJY6FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_6s7R4I6FEeyjgorm8hfSZw" source="_6t2e8I6FEeyjgorm8hfSZw">
+    <modelElement href="eKewangan%20system.uml#_uqI1cY6FEeyjgorm8hfSZw"/>
+    <stereotypes xmi:id="_6tJUUY6FEeyjgorm8hfSZw" name="Reference">
+      <modelElement href="eKewangan%20system.uml#_uqL4wI6FEeyjgorm8hfSZw"/>
+    </stereotypes>
+    <nameVisual xmi:id="_6tItQo6FEeyjgorm8hfSZw" text=""/>
+    <sourceRole xmi:id="_6tItQ46FEeyjgorm8hfSZw" aggregationKind="NONE" name="">
+      <modelElement href="eKewangan%20system.uml#_uqI1co6FEeyjgorm8hfSZw"/>
+      <visibility xmi:id="_6tddYI6FEeyjgorm8hfSZw" label="+"/>
+      <cardinality xmi:id="_6tc2UY6FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_6tJUUI6FEeyjgorm8hfSZw" aggregationKind="NONE" name="lbl_titleProfile" navigable="true">
+      <modelElement href="eKewangan%20system.uml#_ulpXAY6FEeyjgorm8hfSZw"/>
+      <visibility xmi:id="_6tddYo6FEeyjgorm8hfSZw" label="-"/>
+      <cardinality xmi:id="_6tddYY6FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_6s748I6FEeyjgorm8hfSZw" source="_6t2e8I6FEeyjgorm8hfSZw">
+    <modelElement href="eKewangan%20system.uml#_uqMf0I6FEeyjgorm8hfSZw"/>
+    <stereotypes xmi:id="_6tJUVY6FEeyjgorm8hfSZw" name="Reference">
+      <modelElement href="eKewangan%20system.uml#_uqOVAI6FEeyjgorm8hfSZw"/>
+    </stereotypes>
+    <nameVisual xmi:id="_6tJUUo6FEeyjgorm8hfSZw" text=""/>
+    <sourceRole xmi:id="_6tJUU46FEeyjgorm8hfSZw" aggregationKind="NONE" name="">
+      <modelElement href="eKewangan%20system.uml#_uqMf0Y6FEeyjgorm8hfSZw"/>
+      <visibility xmi:id="_6teEco6FEeyjgorm8hfSZw" label="+"/>
+      <cardinality xmi:id="_6teEcY6FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_6tJUVI6FEeyjgorm8hfSZw" aggregationKind="NONE" name="pnl_biodata" navigable="true">
+      <modelElement href="eKewangan%20system.uml#_ultBYI6FEeyjgorm8hfSZw"/>
+      <visibility xmi:id="_6teEdI6FEeyjgorm8hfSZw" label="-"/>
+      <cardinality xmi:id="_6teEc46FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_6s8gAI6FEeyjgorm8hfSZw" source="_6t2e8I6FEeyjgorm8hfSZw">
+    <modelElement href="eKewangan%20system.uml#_uqOVAY6FEeyjgorm8hfSZw"/>
+    <stereotypes xmi:id="_6tJ7Yo6FEeyjgorm8hfSZw" name="Reference">
+      <modelElement href="eKewangan%20system.uml#_uqQKMI6FEeyjgorm8hfSZw"/>
+    </stereotypes>
+    <nameVisual xmi:id="_6tJUVo6FEeyjgorm8hfSZw" text=""/>
+    <sourceRole xmi:id="_6tJ7YI6FEeyjgorm8hfSZw" aggregationKind="NONE" name="">
+      <modelElement href="eKewangan%20system.uml#_uqOVAo6FEeyjgorm8hfSZw"/>
+      <visibility xmi:id="_6tergY6FEeyjgorm8hfSZw" label="+"/>
+      <cardinality xmi:id="_6tergI6FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_6tJ7YY6FEeyjgorm8hfSZw" aggregationKind="NONE" name="lbl_name" navigable="true">
+      <modelElement href="eKewangan%20system.uml#_ulvdoI6FEeyjgorm8hfSZw"/>
+      <visibility xmi:id="_6tfSkI6FEeyjgorm8hfSZw" label="+"/>
+      <cardinality xmi:id="_6tergo6FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_6s9uII6FEeyjgorm8hfSZw" source="_6t2e8I6FEeyjgorm8hfSZw">
+    <modelElement href="eKewangan%20system.uml#_uqQxQI6FEeyjgorm8hfSZw"/>
+    <stereotypes xmi:id="_6tKico6FEeyjgorm8hfSZw" name="Reference">
+      <modelElement href="eKewangan%20system.uml#_uqSmcI6FEeyjgorm8hfSZw"/>
+    </stereotypes>
+    <nameVisual xmi:id="_6tJ7Y46FEeyjgorm8hfSZw" text=""/>
+    <sourceRole xmi:id="_6tKicI6FEeyjgorm8hfSZw" aggregationKind="NONE" name="">
+      <modelElement href="eKewangan%20system.uml#_uqQxQY6FEeyjgorm8hfSZw"/>
+      <visibility xmi:id="_6tggsI6FEeyjgorm8hfSZw" label="+"/>
+      <cardinality xmi:id="_6tfSko6FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_6tKicY6FEeyjgorm8hfSZw" aggregationKind="NONE" name="lbl_faculty" navigable="true">
+      <modelElement href="eKewangan%20system.uml#_ul-uMI6FEeyjgorm8hfSZw"/>
+      <visibility xmi:id="_6thHwI6FEeyjgorm8hfSZw" label="-"/>
+      <cardinality xmi:id="_6tggsY6FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_6s9uIY6FEeyjgorm8hfSZw" source="_6t2e8I6FEeyjgorm8hfSZw">
+    <modelElement href="eKewangan%20system.uml#_uqSmcY6FEeyjgorm8hfSZw"/>
+    <stereotypes xmi:id="_6tKido6FEeyjgorm8hfSZw" name="Reference">
+      <modelElement href="eKewangan%20system.uml#_uqT0kI6FEeyjgorm8hfSZw"/>
+    </stereotypes>
+    <nameVisual xmi:id="_6tKic46FEeyjgorm8hfSZw" text=""/>
+    <sourceRole xmi:id="_6tKidI6FEeyjgorm8hfSZw" aggregationKind="NONE" name="">
+      <modelElement href="eKewangan%20system.uml#_uqSmco6FEeyjgorm8hfSZw"/>
+      <visibility xmi:id="_6thHw46FEeyjgorm8hfSZw" label="+"/>
+      <cardinality xmi:id="_6thHwo6FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_6tKidY6FEeyjgorm8hfSZw" aggregationKind="NONE" name="lbl_course" navigable="true">
+      <modelElement href="eKewangan%20system.uml#_umAjYY6FEeyjgorm8hfSZw"/>
+      <visibility xmi:id="_6thHxY6FEeyjgorm8hfSZw" label="-"/>
+      <cardinality xmi:id="_6thHxI6FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_6s-8QI6FEeyjgorm8hfSZw" source="_6t2e8I6FEeyjgorm8hfSZw">
+    <modelElement href="eKewangan%20system.uml#_uqVpwI6FEeyjgorm8hfSZw"/>
+    <stereotypes xmi:id="_6tLJg46FEeyjgorm8hfSZw" name="Reference">
+      <modelElement href="eKewangan%20system.uml#_uqWQ0I6FEeyjgorm8hfSZw"/>
+    </stereotypes>
+    <nameVisual xmi:id="_6tLJgI6FEeyjgorm8hfSZw" text=""/>
+    <sourceRole xmi:id="_6tLJgY6FEeyjgorm8hfSZw" aggregationKind="NONE" name="">
+      <modelElement href="eKewangan%20system.uml#_uqVpwY6FEeyjgorm8hfSZw"/>
+      <visibility xmi:id="_6thu0o6FEeyjgorm8hfSZw" label="+"/>
+      <cardinality xmi:id="_6thu0Y6FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_6tLJgo6FEeyjgorm8hfSZw" aggregationKind="NONE" name="pnl_finance" navigable="true">
+      <modelElement href="eKewangan%20system.uml#_umBxgI6FEeyjgorm8hfSZw"/>
+      <visibility xmi:id="_6tiV4I6FEeyjgorm8hfSZw" label="-"/>
+      <cardinality xmi:id="_6thu046FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_6s_jUI6FEeyjgorm8hfSZw" source="_6t2e8I6FEeyjgorm8hfSZw">
+    <modelElement href="eKewangan%20system.uml#_uqWQ0Y6FEeyjgorm8hfSZw"/>
+    <stereotypes xmi:id="_6tLwkY6FEeyjgorm8hfSZw" name="Reference">
+      <modelElement href="eKewangan%20system.uml#_uqYGAI6FEeyjgorm8hfSZw"/>
+    </stereotypes>
+    <nameVisual xmi:id="_6tLJhI6FEeyjgorm8hfSZw" text=""/>
+    <sourceRole xmi:id="_6tLJhY6FEeyjgorm8hfSZw" aggregationKind="NONE" name="">
+      <modelElement href="eKewangan%20system.uml#_uqWQ0o6FEeyjgorm8hfSZw"/>
+      <visibility xmi:id="_6ti88o6FEeyjgorm8hfSZw" label="+"/>
+      <cardinality xmi:id="_6ti88Y6FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_6tLwkI6FEeyjgorm8hfSZw" aggregationKind="NONE" name="lbl_advance" navigable="true">
+      <modelElement href="eKewangan%20system.uml#_umENwI6FEeyjgorm8hfSZw"/>
+      <visibility xmi:id="_6ti89I6FEeyjgorm8hfSZw" label="-"/>
+      <cardinality xmi:id="_6ti8846FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_6tAKYI6FEeyjgorm8hfSZw" source="_6t2e8I6FEeyjgorm8hfSZw">
+    <modelElement href="eKewangan%20system.uml#_uqYGAY6FEeyjgorm8hfSZw"/>
+    <stereotypes xmi:id="_6tMXoI6FEeyjgorm8hfSZw" name="Reference">
+      <modelElement href="eKewangan%20system.uml#_uqZUII6FEeyjgorm8hfSZw"/>
+    </stereotypes>
+    <nameVisual xmi:id="_6tLwko6FEeyjgorm8hfSZw" text=""/>
+    <sourceRole xmi:id="_6tLwk46FEeyjgorm8hfSZw" aggregationKind="NONE" name="">
+      <modelElement href="eKewangan%20system.uml#_uqYGAo6FEeyjgorm8hfSZw"/>
+      <visibility xmi:id="_6tjkAo6FEeyjgorm8hfSZw" label="+"/>
+      <cardinality xmi:id="_6tjkAY6FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_6tLwlI6FEeyjgorm8hfSZw" aggregationKind="NONE" name="lbl_amountAdvance" navigable="true">
+      <modelElement href="eKewangan%20system.uml#_umE00Y6FEeyjgorm8hfSZw"/>
+      <visibility xmi:id="_6tkLEY6FEeyjgorm8hfSZw" label="-"/>
+      <cardinality xmi:id="_6tkLEI6FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_6tAKYY6FEeyjgorm8hfSZw" source="_6t2e8I6FEeyjgorm8hfSZw">
+    <modelElement href="eKewangan%20system.uml#_uqZUIY6FEeyjgorm8hfSZw"/>
+    <stereotypes xmi:id="_6tMXpI6FEeyjgorm8hfSZw" name="Reference">
+      <modelElement href="eKewangan%20system.uml#_uqZ7MI6FEeyjgorm8hfSZw"/>
+    </stereotypes>
+    <nameVisual xmi:id="_6tMXoY6FEeyjgorm8hfSZw" text=""/>
+    <sourceRole xmi:id="_6tMXoo6FEeyjgorm8hfSZw" aggregationKind="NONE" name="">
+      <modelElement href="eKewangan%20system.uml#_uqZUIo6FEeyjgorm8hfSZw"/>
+      <visibility xmi:id="_6tkLFI6FEeyjgorm8hfSZw" label="+"/>
+      <cardinality xmi:id="_6tkLE46FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_6tMXo46FEeyjgorm8hfSZw" aggregationKind="NONE" name="lbl_invoice" navigable="true">
+      <modelElement href="eKewangan%20system.uml#_umGqAY6FEeyjgorm8hfSZw"/>
+      <visibility xmi:id="_6tkLFo6FEeyjgorm8hfSZw" label="-"/>
+      <cardinality xmi:id="_6tkLFY6FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_6tAKYo6FEeyjgorm8hfSZw" source="_6t2e8I6FEeyjgorm8hfSZw">
+    <modelElement href="eKewangan%20system.uml#_uqZ7MY6FEeyjgorm8hfSZw"/>
+    <stereotypes xmi:id="_6tM-sY6FEeyjgorm8hfSZw" name="Reference">
+      <modelElement href="eKewangan%20system.uml#_uqbJUI6FEeyjgorm8hfSZw"/>
+    </stereotypes>
+    <nameVisual xmi:id="_6tMXpY6FEeyjgorm8hfSZw" text=""/>
+    <sourceRole xmi:id="_6tMXpo6FEeyjgorm8hfSZw" aggregationKind="NONE" name="">
+      <modelElement href="eKewangan%20system.uml#_uqZ7Mo6FEeyjgorm8hfSZw"/>
+      <visibility xmi:id="_6tkyIo6FEeyjgorm8hfSZw" label="+"/>
+      <cardinality xmi:id="_6tkyIY6FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_6tM-sI6FEeyjgorm8hfSZw" aggregationKind="NONE" name="lbl_amountInvoice" navigable="true">
+      <modelElement href="eKewangan%20system.uml#_umH4II6FEeyjgorm8hfSZw"/>
+      <visibility xmi:id="_6tkyJI6FEeyjgorm8hfSZw" label="-"/>
+      <cardinality xmi:id="_6tkyI46FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_6tAxcI6FEeyjgorm8hfSZw" source="_6t2e8I6FEeyjgorm8hfSZw">
+    <modelElement href="eKewangan%20system.uml#_uqbwYI6FEeyjgorm8hfSZw"/>
+    <stereotypes xmi:id="_6tNlwo6FEeyjgorm8hfSZw" name="Reference">
+      <modelElement href="eKewangan%20system.uml#_uqcXcI6FEeyjgorm8hfSZw"/>
+    </stereotypes>
+    <nameVisual xmi:id="_6tM-so6FEeyjgorm8hfSZw" text=""/>
+    <sourceRole xmi:id="_6tNlwI6FEeyjgorm8hfSZw" aggregationKind="NONE" name="">
+      <modelElement href="eKewangan%20system.uml#_uqbwYY6FEeyjgorm8hfSZw"/>
+      <visibility xmi:id="_6tlZMY6FEeyjgorm8hfSZw" label="+"/>
+      <cardinality xmi:id="_6tlZMI6FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_6tNlwY6FEeyjgorm8hfSZw" aggregationKind="NONE" name="lbl_eft" navigable="true">
+      <modelElement href="eKewangan%20system.uml#_umJGQY6FEeyjgorm8hfSZw"/>
+      <visibility xmi:id="_6tlZM46FEeyjgorm8hfSZw" label="+"/>
+      <cardinality xmi:id="_6tlZMo6FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_6tAxcY6FEeyjgorm8hfSZw" source="_6t2e8I6FEeyjgorm8hfSZw">
+    <modelElement href="eKewangan%20system.uml#_uqcXcY6FEeyjgorm8hfSZw"/>
+    <stereotypes xmi:id="_6tOM0I6FEeyjgorm8hfSZw" name="Reference">
+      <modelElement href="eKewangan%20system.uml#_uqdlkI6FEeyjgorm8hfSZw"/>
+    </stereotypes>
+    <nameVisual xmi:id="_6tNlw46FEeyjgorm8hfSZw" text=""/>
+    <sourceRole xmi:id="_6tNlxI6FEeyjgorm8hfSZw" aggregationKind="NONE" name="">
+      <modelElement href="eKewangan%20system.uml#_uqcXco6FEeyjgorm8hfSZw"/>
+      <visibility xmi:id="_6tmAQI6FEeyjgorm8hfSZw" label="+"/>
+      <cardinality xmi:id="_6tlZNY6FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_6tNlxY6FEeyjgorm8hfSZw" aggregationKind="NONE" name="lbl_amountEFT" navigable="true">
+      <modelElement href="eKewangan%20system.uml#_umK7cI6FEeyjgorm8hfSZw"/>
+      <visibility xmi:id="_6tmAQo6FEeyjgorm8hfSZw" label="-"/>
+      <cardinality xmi:id="_6tmAQY6FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_6tBYgI6FEeyjgorm8hfSZw" source="_6t2e8I6FEeyjgorm8hfSZw">
+    <modelElement href="eKewangan%20system.uml#_uqeMoI6FEeyjgorm8hfSZw"/>
+    <stereotypes xmi:id="_6tOM1I6FEeyjgorm8hfSZw" name="Reference">
+      <modelElement href="eKewangan%20system.uml#_uqfawI6FEeyjgorm8hfSZw"/>
+    </stereotypes>
+    <nameVisual xmi:id="_6tOM0Y6FEeyjgorm8hfSZw" text=""/>
+    <sourceRole xmi:id="_6tOM0o6FEeyjgorm8hfSZw" aggregationKind="NONE" name="">
+      <modelElement href="eKewangan%20system.uml#_uqeMoY6FEeyjgorm8hfSZw"/>
+      <visibility xmi:id="_6tmnUY6FEeyjgorm8hfSZw" label="+"/>
+      <cardinality xmi:id="_6tmnUI6FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_6tOM046FEeyjgorm8hfSZw" aggregationKind="NONE" name="pnl_profile" navigable="true">
+      <modelElement href="eKewangan%20system.uml#_umNXsI6FEeyjgorm8hfSZw"/>
+      <visibility xmi:id="_6tmnU46FEeyjgorm8hfSZw" label="-"/>
+      <cardinality xmi:id="_6tmnUo6FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_6u9SMI6FEeyjgorm8hfSZw" sourceAnchor="95.0,0.0" targetAnchor="0.0,153.0" target="_6vonoI6FEeyjgorm8hfSZw" source="_6vonoI6FEeyjgorm8hfSZw">
+    <modelElement href="eKewangan%20system.uml#_uo3DEY6FEeyjgorm8hfSZw"/>
+    <bendpoints xmi:id="_7zRO4I6FEeyjgorm8hfSZw" sourceY="-93" targetX="95" targetY="-246"/>
+    <bendpoints xmi:id="_7zRO4Y6FEeyjgorm8hfSZw" sourceX="-182" sourceY="-93" targetX="-87" targetY="-246"/>
+    <bendpoints xmi:id="_7zRO4o6FEeyjgorm8hfSZw" sourceX="-182" sourceY="153" targetX="-87"/>
+    <stereotypes xmi:id="_6vHqQo6FEeyjgorm8hfSZw" name="Reference">
+      <modelElement href="eKewangan%20system.uml#_uo3qII6FEeyjgorm8hfSZw"/>
+    </stereotypes>
+    <nameVisual xmi:id="_6vHDMI6FEeyjgorm8hfSZw" text="">
+      <visualProperties xmi:id="_7zvwAI6FEeyjgorm8hfSZw" position="122.5,-8.75"/>
+    </nameVisual>
+    <sourceRole xmi:id="_6vHqQI6FEeyjgorm8hfSZw" aggregationKind="NONE" name="">
+      <modelElement href="eKewangan%20system.uml#_uo3DEo6FEeyjgorm8hfSZw"/>
+      <visualProperties xmi:id="_7zt60I6FEeyjgorm8hfSZw" position="-20.0,-50.25"/>
+      <visibility xmi:id="_6vL7sY6FEeyjgorm8hfSZw" label="+"/>
+      <cardinality xmi:id="_6vL7sI6FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_6vHqQY6FEeyjgorm8hfSZw" aggregationKind="NONE" name="frame" navigable="true">
+      <modelElement href="eKewangan%20system.uml#_uk6XMI6FEeyjgorm8hfSZw"/>
+      <visualProperties xmi:id="_7zwXEI6FEeyjgorm8hfSZw" position="-50.5,4.249999999999943"/>
+      <visibility xmi:id="_6vMiwY6FEeyjgorm8hfSZw" label="-"/>
+      <cardinality xmi:id="_6vMiwI6FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_6u-gUI6FEeyjgorm8hfSZw" source="_6vonoI6FEeyjgorm8hfSZw">
+    <modelElement href="eKewangan%20system.uml#_uol9UI6FEeyjgorm8hfSZw"/>
+    <stereotypes xmi:id="_6vIRUI6FEeyjgorm8hfSZw" name="Reference">
+      <modelElement href="eKewangan%20system.uml#_uoqOwI6FEeyjgorm8hfSZw"/>
+    </stereotypes>
+    <nameVisual xmi:id="_6vHqQ46FEeyjgorm8hfSZw" text=""/>
+    <sourceRole xmi:id="_6vHqRI6FEeyjgorm8hfSZw" aggregationKind="NONE" name="">
+      <modelElement href="eKewangan%20system.uml#_uol9UY6FEeyjgorm8hfSZw"/>
+      <visibility xmi:id="_6vNJ0Y6FEeyjgorm8hfSZw" label="+"/>
+      <cardinality xmi:id="_6vNJ0I6FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_6vHqRY6FEeyjgorm8hfSZw" aggregationKind="NONE" name="pane" navigable="true">
+      <modelElement href="eKewangan%20system.uml#_ukh8sI6FEeyjgorm8hfSZw"/>
+      <visibility xmi:id="_6vNJ046FEeyjgorm8hfSZw" label="-"/>
+      <cardinality xmi:id="_6vNJ0o6FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_6u-gUY6FEeyjgorm8hfSZw" source="_6vonoI6FEeyjgorm8hfSZw">
+    <modelElement href="eKewangan%20system.uml#_uoqOwY6FEeyjgorm8hfSZw"/>
+    <stereotypes xmi:id="_6vI4YY6FEeyjgorm8hfSZw" name="Reference">
+      <modelElement href="eKewangan%20system.uml#_uosD8I6FEeyjgorm8hfSZw"/>
+    </stereotypes>
+    <nameVisual xmi:id="_6vIRUY6FEeyjgorm8hfSZw" text=""/>
+    <sourceRole xmi:id="_6vIRUo6FEeyjgorm8hfSZw" aggregationKind="NONE" name="">
+      <modelElement href="eKewangan%20system.uml#_uoqOwo6FEeyjgorm8hfSZw"/>
+      <visibility xmi:id="_6vNw4Y6FEeyjgorm8hfSZw" label="+"/>
+      <cardinality xmi:id="_6vNw4I6FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_6vI4YI6FEeyjgorm8hfSZw" aggregationKind="NONE" name="pnl_titleReceipt" navigable="true">
+      <modelElement href="eKewangan%20system.uml#_ukp4gI6FEeyjgorm8hfSZw"/>
+      <visibility xmi:id="_6vNw446FEeyjgorm8hfSZw" label="+"/>
+      <cardinality xmi:id="_6vNw4o6FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_6u_HYI6FEeyjgorm8hfSZw" source="_6vonoI6FEeyjgorm8hfSZw">
+    <modelElement href="eKewangan%20system.uml#_uosD8Y6FEeyjgorm8hfSZw"/>
+    <stereotypes xmi:id="_6vI4ZY6FEeyjgorm8hfSZw" name="Reference">
+      <modelElement href="eKewangan%20system.uml#_uotSEI6FEeyjgorm8hfSZw"/>
+    </stereotypes>
+    <nameVisual xmi:id="_6vI4Yo6FEeyjgorm8hfSZw" text=""/>
+    <sourceRole xmi:id="_6vI4Y46FEeyjgorm8hfSZw" aggregationKind="NONE" name="">
+      <modelElement href="eKewangan%20system.uml#_uosD8o6FEeyjgorm8hfSZw"/>
+      <visibility xmi:id="_6vOX8o6FEeyjgorm8hfSZw" label="+"/>
+      <cardinality xmi:id="_6vOX8Y6FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_6vI4ZI6FEeyjgorm8hfSZw" aggregationKind="NONE" name="lbl_titleReceipt" navigable="true">
+      <modelElement href="eKewangan%20system.uml#_ukrGoI6FEeyjgorm8hfSZw"/>
+      <visibility xmi:id="_6vO_AY6FEeyjgorm8hfSZw" label="-"/>
+      <cardinality xmi:id="_6vO_AI6FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_6u_ucI6FEeyjgorm8hfSZw" source="_6vonoI6FEeyjgorm8hfSZw">
+    <modelElement href="eKewangan%20system.uml#_uotSEY6FEeyjgorm8hfSZw"/>
+    <stereotypes xmi:id="_6vJfc46FEeyjgorm8hfSZw" name="Reference">
+      <modelElement href="eKewangan%20system.uml#_uot5II6FEeyjgorm8hfSZw"/>
+    </stereotypes>
+    <nameVisual xmi:id="_6vJfcI6FEeyjgorm8hfSZw" text=""/>
+    <sourceRole xmi:id="_6vJfcY6FEeyjgorm8hfSZw" aggregationKind="NONE" name="">
+      <modelElement href="eKewangan%20system.uml#_uotSEo6FEeyjgorm8hfSZw"/>
+      <visibility xmi:id="_6vPmEY6FEeyjgorm8hfSZw" label="+"/>
+      <cardinality xmi:id="_6vPmEI6FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_6vJfco6FEeyjgorm8hfSZw" aggregationKind="NONE" name="pnl_2021" navigable="true">
+      <modelElement href="eKewangan%20system.uml#_ukuJ8I6FEeyjgorm8hfSZw"/>
+      <visibility xmi:id="_6vPmE46FEeyjgorm8hfSZw" label="-"/>
+      <cardinality xmi:id="_6vPmEo6FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_6vCxwI6FEeyjgorm8hfSZw" source="_6vonoI6FEeyjgorm8hfSZw">
+    <modelElement href="eKewangan%20system.uml#_uougMI6FEeyjgorm8hfSZw"/>
+    <stereotypes xmi:id="_6vKGgY6FEeyjgorm8hfSZw" name="Reference">
+      <modelElement href="eKewangan%20system.uml#_uovuUI6FEeyjgorm8hfSZw"/>
+    </stereotypes>
+    <nameVisual xmi:id="_6vJfdI6FEeyjgorm8hfSZw" text=""/>
+    <sourceRole xmi:id="_6vJfdY6FEeyjgorm8hfSZw" aggregationKind="NONE" name="">
+      <modelElement href="eKewangan%20system.uml#_uougMY6FEeyjgorm8hfSZw"/>
+      <visibility xmi:id="_6vPmFo6FEeyjgorm8hfSZw" label="+"/>
+      <cardinality xmi:id="_6vPmFY6FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_6vKGgI6FEeyjgorm8hfSZw" aggregationKind="NONE" name="lbl_2021" navigable="true">
+      <modelElement href="eKewangan%20system.uml#_ukvYEI6FEeyjgorm8hfSZw"/>
+      <visibility xmi:id="_6vQNIY6FEeyjgorm8hfSZw" label="-"/>
+      <cardinality xmi:id="_6vQNII6FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_6vDY0I6FEeyjgorm8hfSZw" source="_6vonoI6FEeyjgorm8hfSZw">
+    <modelElement href="eKewangan%20system.uml#_uoyKkI6FEeyjgorm8hfSZw"/>
+    <stereotypes xmi:id="_6vKGhY6FEeyjgorm8hfSZw" name="Reference">
+      <modelElement href="eKewangan%20system.uml#_uoyxoI6FEeyjgorm8hfSZw"/>
+    </stereotypes>
+    <nameVisual xmi:id="_6vKGgo6FEeyjgorm8hfSZw" text=""/>
+    <sourceRole xmi:id="_6vKGg46FEeyjgorm8hfSZw" aggregationKind="NONE" name="">
+      <modelElement href="eKewangan%20system.uml#_uoyKkY6FEeyjgorm8hfSZw"/>
+      <visibility xmi:id="_6vQNJI6FEeyjgorm8hfSZw" label="+"/>
+      <cardinality xmi:id="_6vQNI46FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_6vKGhI6FEeyjgorm8hfSZw" aggregationKind="NONE" name="pnl_2020" navigable="true">
+      <modelElement href="eKewangan%20system.uml#_uk1esI6FEeyjgorm8hfSZw"/>
+      <visibility xmi:id="_6vQ0MY6FEeyjgorm8hfSZw" label="-"/>
+      <cardinality xmi:id="_6vQ0MI6FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_6vDY0Y6FEeyjgorm8hfSZw" source="_6vonoI6FEeyjgorm8hfSZw">
+    <modelElement href="eKewangan%20system.uml#_uoyxoY6FEeyjgorm8hfSZw"/>
+    <stereotypes xmi:id="_6vKtkY6FEeyjgorm8hfSZw" name="Reference">
+      <modelElement href="eKewangan%20system.uml#_uoz_wI6FEeyjgorm8hfSZw"/>
+    </stereotypes>
+    <nameVisual xmi:id="_6vKGho6FEeyjgorm8hfSZw" text=""/>
+    <sourceRole xmi:id="_6vKGh46FEeyjgorm8hfSZw" aggregationKind="NONE" name="">
+      <modelElement href="eKewangan%20system.uml#_uoyxoo6FEeyjgorm8hfSZw"/>
+      <visibility xmi:id="_6vQ0NI6FEeyjgorm8hfSZw" label="+"/>
+      <cardinality xmi:id="_6vQ0M46FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_6vKtkI6FEeyjgorm8hfSZw" aggregationKind="NONE" name="lbl_2020" navigable="true">
+      <modelElement href="eKewangan%20system.uml#_uk3T4I6FEeyjgorm8hfSZw"/>
+      <visibility xmi:id="_6vQ0No6FEeyjgorm8hfSZw" label="-"/>
+      <cardinality xmi:id="_6vQ0NY6FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_6vD_4I6FEeyjgorm8hfSZw" source="_6vonoI6FEeyjgorm8hfSZw">
+    <modelElement href="eKewangan%20system.uml#_uo108Y6FEeyjgorm8hfSZw"/>
+    <stereotypes xmi:id="_6vLUoI6FEeyjgorm8hfSZw" name="Reference">
+      <modelElement href="eKewangan%20system.uml#_uo3DEI6FEeyjgorm8hfSZw"/>
+    </stereotypes>
+    <nameVisual xmi:id="_6vKtko6FEeyjgorm8hfSZw" text=""/>
+    <sourceRole xmi:id="_6vKtk46FEeyjgorm8hfSZw" aggregationKind="NONE" name="">
+      <modelElement href="eKewangan%20system.uml#_uo108o6FEeyjgorm8hfSZw"/>
+      <visibility xmi:id="_6vRbQo6FEeyjgorm8hfSZw" label="+"/>
+      <cardinality xmi:id="_6vRbQY6FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_6vKtlI6FEeyjgorm8hfSZw" aggregationKind="NONE" name="pnl_backReceipt" navigable="true">
+      <modelElement href="eKewangan%20system.uml#_uk5wII6FEeyjgorm8hfSZw"/>
+      <visibility xmi:id="_6vRbRI6FEeyjgorm8hfSZw" label="-"/>
+      <cardinality xmi:id="_6vRbQ46FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_6vbMQI6FEeyjgorm8hfSZw" source="_6vonoI6FEeyjgorm8hfSZw">
+    <modelElement href="eKewangan%20system.uml#_uovuUY6FEeyjgorm8hfSZw"/>
+    <stereotypes xmi:id="_6vbMQY6FEeyjgorm8hfSZw" name="Reference">
+      <modelElement href="eKewangan%20system.uml#_uowVYI6FEeyjgorm8hfSZw"/>
+    </stereotypes>
+    <nameVisual xmi:id="_6vbMQo6FEeyjgorm8hfSZw" text=""/>
+    <sourceRole xmi:id="_6vbMQ46FEeyjgorm8hfSZw" aggregationKind="NONE" name="">
+      <modelElement href="eKewangan%20system.uml#_uovuUo6FEeyjgorm8hfSZw"/>
+      <visibility xmi:id="_6vbMRI6FEeyjgorm8hfSZw" label="+"/>
+      <cardinality xmi:id="_6vbMRY6FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_6vbMRo6FEeyjgorm8hfSZw" aggregationKind="NONE" name="sp_2021" navigable="true">
+      <modelElement href="eKewangan%20system.uml#_ukv_IY6FEeyjgorm8hfSZw"/>
+      <visibility xmi:id="_6vbMR46FEeyjgorm8hfSZw" label="+"/>
+      <cardinality xmi:id="_6vbMSI6FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_6vdBcI6FEeyjgorm8hfSZw" source="_6vonoI6FEeyjgorm8hfSZw">
+    <modelElement href="eKewangan%20system.uml#_uowVYY6FEeyjgorm8hfSZw"/>
+    <stereotypes xmi:id="_6vdBcY6FEeyjgorm8hfSZw" name="Reference">
+      <modelElement href="eKewangan%20system.uml#_uoxjgI6FEeyjgorm8hfSZw"/>
+    </stereotypes>
+    <nameVisual xmi:id="_6vdBco6FEeyjgorm8hfSZw" text=""/>
+    <sourceRole xmi:id="_6vdBc46FEeyjgorm8hfSZw" aggregationKind="NONE" name="">
+      <modelElement href="eKewangan%20system.uml#_uowVYo6FEeyjgorm8hfSZw"/>
+      <visibility xmi:id="_6vdBdI6FEeyjgorm8hfSZw" label="+"/>
+      <cardinality xmi:id="_6vdBdY6FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_6vdBdo6FEeyjgorm8hfSZw" aggregationKind="NONE" name="tbl_2021" navigable="true">
+      <modelElement href="eKewangan%20system.uml#_ukzpgI6FEeyjgorm8hfSZw"/>
+      <visibility xmi:id="_6vdBd46FEeyjgorm8hfSZw" label="-"/>
+      <cardinality xmi:id="_6vdBeI6FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_6vePkI6FEeyjgorm8hfSZw" source="_6vonoI6FEeyjgorm8hfSZw">
+    <modelElement href="eKewangan%20system.uml#_uoz_wY6FEeyjgorm8hfSZw"/>
+    <stereotypes xmi:id="_6vePkY6FEeyjgorm8hfSZw" name="Reference">
+      <modelElement href="eKewangan%20system.uml#_uo0m0I6FEeyjgorm8hfSZw"/>
+    </stereotypes>
+    <nameVisual xmi:id="_6vePko6FEeyjgorm8hfSZw" text=""/>
+    <sourceRole xmi:id="_6vePk46FEeyjgorm8hfSZw" aggregationKind="NONE" name="">
+      <modelElement href="eKewangan%20system.uml#_uoz_wo6FEeyjgorm8hfSZw"/>
+      <visibility xmi:id="_6vePlI6FEeyjgorm8hfSZw" label="+"/>
+      <cardinality xmi:id="_6vePlY6FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_6vePlo6FEeyjgorm8hfSZw" aggregationKind="NONE" name="sp_2020" navigable="true">
+      <modelElement href="eKewangan%20system.uml#_uk368I6FEeyjgorm8hfSZw"/>
+      <visibility xmi:id="_6vePl46FEeyjgorm8hfSZw" label="-"/>
+      <cardinality xmi:id="_6vePmI6FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_6vkWMI6FEeyjgorm8hfSZw" source="_6vonoI6FEeyjgorm8hfSZw">
+    <modelElement href="eKewangan%20system.uml#_uo1N4I6FEeyjgorm8hfSZw"/>
+    <stereotypes xmi:id="_6vkWMY6FEeyjgorm8hfSZw" name="Reference">
+      <modelElement href="eKewangan%20system.uml#_uo108I6FEeyjgorm8hfSZw"/>
+    </stereotypes>
+    <nameVisual xmi:id="_6vkWMo6FEeyjgorm8hfSZw" text=""/>
+    <sourceRole xmi:id="_6vkWM46FEeyjgorm8hfSZw" aggregationKind="NONE" name="">
+      <modelElement href="eKewangan%20system.uml#_uo1N4Y6FEeyjgorm8hfSZw"/>
+      <visibility xmi:id="_6vkWNI6FEeyjgorm8hfSZw" label="+"/>
+      <cardinality xmi:id="_6vkWNY6FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_6vkWNo6FEeyjgorm8hfSZw" aggregationKind="NONE" name="tbl_2020" navigable="true">
+      <modelElement href="eKewangan%20system.uml#_uk4iAY6FEeyjgorm8hfSZw"/>
+      <visibility xmi:id="_6vkWN46FEeyjgorm8hfSZw" label="-"/>
+      <cardinality xmi:id="_6vkWOI6FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_6wgxYI6FEeyjgorm8hfSZw" sourceAnchor="0.0,194.0" targetAnchor="199.0,92.0" target="_6ws-oI6FEeyjgorm8hfSZw" source="_6zDIAI6FEeyjgorm8hfSZw">
+    <modelElement href="eKewangan%20system.uml#_upCpQY6FEeyjgorm8hfSZw"/>
+    <bendpoints xmi:id="_7zVgUI6FEeyjgorm8hfSZw" sourceX="-424" targetX="115" targetY="299"/>
+    <bendpoints xmi:id="_7zWucI6FEeyjgorm8hfSZw" sourceX="-424" sourceY="-120" targetX="115" targetY="179"/>
+    <bendpoints xmi:id="_7zYjoI6FEeyjgorm8hfSZw" sourceX="-539" sourceY="-120" targetY="179"/>
+    <stereotypes xmi:id="_6wlp4Y6FEeyjgorm8hfSZw" name="Reference">
+      <modelElement href="eKewangan%20system.uml#_upGToI6FEeyjgorm8hfSZw"/>
+    </stereotypes>
+    <nameVisual xmi:id="_6wlC0I6FEeyjgorm8hfSZw" text="">
+      <visualProperties xmi:id="_70CD4I6FEeyjgorm8hfSZw" position="382.1648922899317,102.13132219855586"/>
+    </nameVisual>
+    <sourceRole xmi:id="_6wlC0Y6FEeyjgorm8hfSZw" aggregationKind="NONE" name="">
+      <modelElement href="eKewangan%20system.uml#_upCpQo6FEeyjgorm8hfSZw"/>
+      <visualProperties xmi:id="_70A1wI6FEeyjgorm8hfSZw" position="-59.4672182297104,-32.318396814841634"/>
+      <visibility xmi:id="_6wpUQY6FEeyjgorm8hfSZw" label="+"/>
+      <cardinality xmi:id="_6wpUQI6FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_6wlp4I6FEeyjgorm8hfSZw" aggregationKind="NONE" name="controller" navigable="true">
+      <modelElement href="eKewangan%20system.uml#_ulQ8gI6FEeyjgorm8hfSZw"/>
+      <visualProperties xmi:id="_70Cq8I6FEeyjgorm8hfSZw" position="501.44066109927803,265.81964174281313"/>
+      <stereotypes xmi:id="_6wpURI6FEeyjgorm8hfSZw" name="LegacyStyledElement">
+        <modelElement href="eKewangan%20system.uml#_ulRjkI6FEeyjgorm8hfSZw"/>
+      </stereotypes>
+      <visibility xmi:id="_6wpUQ46FEeyjgorm8hfSZw" label="-"/>
+      <cardinality xmi:id="_6wpUQo6FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_6xFZII6FEeyjgorm8hfSZw" sourceAnchor="95.0,0.0" targetAnchor="0.0,154.0" target="_6x54gI6FEeyjgorm8hfSZw" source="_6x54gI6FEeyjgorm8hfSZw">
+    <modelElement href="eKewangan%20system.uml#_uqzj0Y6FEeyjgorm8hfSZw"/>
+    <bendpoints xmi:id="_7zTEEI6FEeyjgorm8hfSZw" sourceY="-93" targetX="95" targetY="-247"/>
+    <bendpoints xmi:id="_7zTEEY6FEeyjgorm8hfSZw" sourceX="-182" sourceY="-93" targetX="-87" targetY="-247"/>
+    <bendpoints xmi:id="_7zTEEo6FEeyjgorm8hfSZw" sourceX="-182" sourceY="154" targetX="-87"/>
+    <stereotypes xmi:id="_6xN8AI6FEeyjgorm8hfSZw" name="Reference">
+      <modelElement href="eKewangan%20system.uml#_uq0x8I6FEeyjgorm8hfSZw"/>
+    </stereotypes>
+    <nameVisual xmi:id="_6xNU8I6FEeyjgorm8hfSZw" text="">
+      <visualProperties xmi:id="_7z458I6FEeyjgorm8hfSZw" position="122.5,-7.75"/>
+    </nameVisual>
+    <sourceRole xmi:id="_6xNU8Y6FEeyjgorm8hfSZw" aggregationKind="NONE" name="">
+      <modelElement href="eKewangan%20system.uml#_uqzj0o6FEeyjgorm8hfSZw"/>
+      <visualProperties xmi:id="_7z2dsI6FEeyjgorm8hfSZw" position="-20.0,-49.25"/>
+      <visibility xmi:id="_6xVQwI6FEeyjgorm8hfSZw" label="+"/>
+      <cardinality xmi:id="_6xUpsI6FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_6xNU8o6FEeyjgorm8hfSZw" aggregationKind="NONE" name="frame" navigable="true">
+      <modelElement href="eKewangan%20system.uml#_umhgwY6FEeyjgorm8hfSZw"/>
+      <visualProperties xmi:id="_7z5hAI6FEeyjgorm8hfSZw" position="-50.5,4.25"/>
+      <visibility xmi:id="_6xVQwo6FEeyjgorm8hfSZw" label="-"/>
+      <cardinality xmi:id="_6xVQwY6FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_6xFZIY6FEeyjgorm8hfSZw" source="_6x54gI6FEeyjgorm8hfSZw">
+    <modelElement href="eKewangan%20system.uml#_uqgo4I6FEeyjgorm8hfSZw"/>
+    <stereotypes xmi:id="_6xN8BI6FEeyjgorm8hfSZw" name="Reference">
+      <modelElement href="eKewangan%20system.uml#_uqh3AI6FEeyjgorm8hfSZw"/>
+    </stereotypes>
+    <nameVisual xmi:id="_6xN8AY6FEeyjgorm8hfSZw" text=""/>
+    <sourceRole xmi:id="_6xN8Ao6FEeyjgorm8hfSZw" aggregationKind="NONE" name="">
+      <modelElement href="eKewangan%20system.uml#_uqgo4Y6FEeyjgorm8hfSZw"/>
+      <visibility xmi:id="_6xVQxY6FEeyjgorm8hfSZw" label="+"/>
+      <cardinality xmi:id="_6xVQxI6FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_6xN8A46FEeyjgorm8hfSZw" aggregationKind="NONE" name="pane" navigable="true">
+      <modelElement href="eKewangan%20system.uml#_umQbAI6FEeyjgorm8hfSZw"/>
+      <visibility xmi:id="_6xV30Y6FEeyjgorm8hfSZw" label="-"/>
+      <cardinality xmi:id="_6xV30I6FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_6xGAMI6FEeyjgorm8hfSZw" source="_6x54gI6FEeyjgorm8hfSZw">
+    <modelElement href="eKewangan%20system.uml#_uqh3AY6FEeyjgorm8hfSZw"/>
+    <stereotypes xmi:id="_6xOjE46FEeyjgorm8hfSZw" name="Reference">
+      <modelElement href="eKewangan%20system.uml#_uqieEI6FEeyjgorm8hfSZw"/>
+    </stereotypes>
+    <nameVisual xmi:id="_6xOjEI6FEeyjgorm8hfSZw" text=""/>
+    <sourceRole xmi:id="_6xOjEY6FEeyjgorm8hfSZw" aggregationKind="NONE" name="">
+      <modelElement href="eKewangan%20system.uml#_uqh3Ao6FEeyjgorm8hfSZw"/>
+      <visibility xmi:id="_6xV31I6FEeyjgorm8hfSZw" label="+"/>
+      <cardinality xmi:id="_6xV3046FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_6xOjEo6FEeyjgorm8hfSZw" aggregationKind="NONE" name="pnl_titleReceipt" navigable="true">
+      <modelElement href="eKewangan%20system.uml#_umRpIY6FEeyjgorm8hfSZw"/>
+      <visibility xmi:id="_6xWe4Y6FEeyjgorm8hfSZw" label="+"/>
+      <cardinality xmi:id="_6xWe4I6FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_6xGAMY6FEeyjgorm8hfSZw" source="_6x54gI6FEeyjgorm8hfSZw">
+    <modelElement href="eKewangan%20system.uml#_uqjsMI6FEeyjgorm8hfSZw"/>
+    <stereotypes xmi:id="_6xPKII6FEeyjgorm8hfSZw" name="Reference">
+      <modelElement href="eKewangan%20system.uml#_uqkTQI6FEeyjgorm8hfSZw"/>
+    </stereotypes>
+    <nameVisual xmi:id="_6xOjFI6FEeyjgorm8hfSZw" text=""/>
+    <sourceRole xmi:id="_6xOjFY6FEeyjgorm8hfSZw" aggregationKind="NONE" name="">
+      <modelElement href="eKewangan%20system.uml#_uqjsMY6FEeyjgorm8hfSZw"/>
+      <visibility xmi:id="_6xXF8Y6FEeyjgorm8hfSZw" label="+"/>
+      <cardinality xmi:id="_6xXF8I6FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_6xOjFo6FEeyjgorm8hfSZw" aggregationKind="NONE" name="lbl_titleReceipt" navigable="true">
+      <modelElement href="eKewangan%20system.uml#_umTeUI6FEeyjgorm8hfSZw"/>
+      <visibility xmi:id="_6xXF846FEeyjgorm8hfSZw" label="-"/>
+      <cardinality xmi:id="_6xXF8o6FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_6xGAMo6FEeyjgorm8hfSZw" source="_6x54gI6FEeyjgorm8hfSZw">
+    <modelElement href="eKewangan%20system.uml#_uqk6UI6FEeyjgorm8hfSZw"/>
+    <stereotypes xmi:id="_6xPKJI6FEeyjgorm8hfSZw" name="Reference">
+      <modelElement href="eKewangan%20system.uml#_uqlhYI6FEeyjgorm8hfSZw"/>
+    </stereotypes>
+    <nameVisual xmi:id="_6xPKIY6FEeyjgorm8hfSZw" text=""/>
+    <sourceRole xmi:id="_6xPKIo6FEeyjgorm8hfSZw" aggregationKind="NONE" name="">
+      <modelElement href="eKewangan%20system.uml#_uqk6UY6FEeyjgorm8hfSZw"/>
+      <visibility xmi:id="_6xXtAo6FEeyjgorm8hfSZw" label="+"/>
+      <cardinality xmi:id="_6xXtAY6FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_6xPKI46FEeyjgorm8hfSZw" aggregationKind="NONE" name="pnl_2021" navigable="true">
+      <modelElement href="eKewangan%20system.uml#_umUscY6FEeyjgorm8hfSZw"/>
+      <visibility xmi:id="_6xXtBI6FEeyjgorm8hfSZw" label="-"/>
+      <cardinality xmi:id="_6xXtA46FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_6xGAM46FEeyjgorm8hfSZw" source="_6x54gI6FEeyjgorm8hfSZw">
+    <modelElement href="eKewangan%20system.uml#_uqlhYY6FEeyjgorm8hfSZw"/>
+    <stereotypes xmi:id="_6xPKKI6FEeyjgorm8hfSZw" name="Reference">
+      <modelElement href="eKewangan%20system.uml#_uqnWkI6FEeyjgorm8hfSZw"/>
+    </stereotypes>
+    <nameVisual xmi:id="_6xPKJY6FEeyjgorm8hfSZw" text=""/>
+    <sourceRole xmi:id="_6xPKJo6FEeyjgorm8hfSZw" aggregationKind="NONE" name="">
+      <modelElement href="eKewangan%20system.uml#_uqlhYo6FEeyjgorm8hfSZw"/>
+      <visibility xmi:id="_6xYUEI6FEeyjgorm8hfSZw" label="+"/>
+      <cardinality xmi:id="_6xXtBo6FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_6xPKJ46FEeyjgorm8hfSZw" aggregationKind="NONE" name="lbl_2021" navigable="true">
+      <modelElement href="eKewangan%20system.uml#_umV6kY6FEeyjgorm8hfSZw"/>
+      <visibility xmi:id="_6xYUEo6FEeyjgorm8hfSZw" label="-"/>
+      <cardinality xmi:id="_6xYUEY6FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_6xGnQI6FEeyjgorm8hfSZw" source="_6x54gI6FEeyjgorm8hfSZw">
+    <modelElement href="eKewangan%20system.uml#_uqn9oI6FEeyjgorm8hfSZw"/>
+    <stereotypes xmi:id="_6xQ_UY6FEeyjgorm8hfSZw" name="Reference">
+      <modelElement href="eKewangan%20system.uml#_uqpLwI6FEeyjgorm8hfSZw"/>
+    </stereotypes>
+    <nameVisual xmi:id="_6xPxMI6FEeyjgorm8hfSZw" text=""/>
+    <sourceRole xmi:id="_6xQYQI6FEeyjgorm8hfSZw" aggregationKind="NONE" name="">
+      <modelElement href="eKewangan%20system.uml#_uqn9oY6FEeyjgorm8hfSZw"/>
+      <visibility xmi:id="_6xYUFY6FEeyjgorm8hfSZw" label="+"/>
+      <cardinality xmi:id="_6xYUFI6FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_6xQ_UI6FEeyjgorm8hfSZw" aggregationKind="NONE" name="sp_2021" navigable="true">
+      <modelElement href="eKewangan%20system.uml#_umY94I6FEeyjgorm8hfSZw"/>
+      <visibility xmi:id="_6xY7IY6FEeyjgorm8hfSZw" label="+"/>
+      <cardinality xmi:id="_6xY7II6FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_6xGnQY6FEeyjgorm8hfSZw" source="_6x54gI6FEeyjgorm8hfSZw">
+    <modelElement href="eKewangan%20system.uml#_uqpLwY6FEeyjgorm8hfSZw"/>
+    <stereotypes xmi:id="_6xSNcI6FEeyjgorm8hfSZw" name="Reference">
+      <modelElement href="eKewangan%20system.uml#_uqrA8I6FEeyjgorm8hfSZw"/>
+    </stereotypes>
+    <nameVisual xmi:id="_6xRmYI6FEeyjgorm8hfSZw" text=""/>
+    <sourceRole xmi:id="_6xRmYY6FEeyjgorm8hfSZw" aggregationKind="NONE" name="">
+      <modelElement href="eKewangan%20system.uml#_uqpLwo6FEeyjgorm8hfSZw"/>
+      <visibility xmi:id="_6xY7JI6FEeyjgorm8hfSZw" label="+"/>
+      <cardinality xmi:id="_6xY7I46FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_6xRmYo6FEeyjgorm8hfSZw" aggregationKind="NONE" name="tbl_2021" navigable="true">
+      <modelElement href="eKewangan%20system.uml#_umaMAI6FEeyjgorm8hfSZw"/>
+      <visibility xmi:id="_6xY7Jo6FEeyjgorm8hfSZw" label="-"/>
+      <cardinality xmi:id="_6xY7JY6FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_6xHOUI6FEeyjgorm8hfSZw" source="_6x54gI6FEeyjgorm8hfSZw">
+    <modelElement href="eKewangan%20system.uml#_uqrA8Y6FEeyjgorm8hfSZw"/>
+    <stereotypes xmi:id="_6xSNdI6FEeyjgorm8hfSZw" name="Reference">
+      <modelElement href="eKewangan%20system.uml#_uqsPEI6FEeyjgorm8hfSZw"/>
+    </stereotypes>
+    <nameVisual xmi:id="_6xSNcY6FEeyjgorm8hfSZw" text=""/>
+    <sourceRole xmi:id="_6xSNco6FEeyjgorm8hfSZw" aggregationKind="NONE" name="">
+      <modelElement href="eKewangan%20system.uml#_uqrA8o6FEeyjgorm8hfSZw"/>
+      <visibility xmi:id="_6xZiMo6FEeyjgorm8hfSZw" label="+"/>
+      <cardinality xmi:id="_6xZiMY6FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_6xSNc46FEeyjgorm8hfSZw" aggregationKind="NONE" name="pnl_2020" navigable="true">
+      <modelElement href="eKewangan%20system.uml#_umbaII6FEeyjgorm8hfSZw"/>
+      <visibility xmi:id="_6xZiNI6FEeyjgorm8hfSZw" label="-"/>
+      <cardinality xmi:id="_6xZiM46FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_6xHOUY6FEeyjgorm8hfSZw" source="_6x54gI6FEeyjgorm8hfSZw">
+    <modelElement href="eKewangan%20system.uml#_uqsPEY6FEeyjgorm8hfSZw"/>
+    <stereotypes xmi:id="_6xS0gY6FEeyjgorm8hfSZw" name="Reference">
+      <modelElement href="eKewangan%20system.uml#_uqs2II6FEeyjgorm8hfSZw"/>
+    </stereotypes>
+    <nameVisual xmi:id="_6xSNdY6FEeyjgorm8hfSZw" text=""/>
+    <sourceRole xmi:id="_6xSNdo6FEeyjgorm8hfSZw" aggregationKind="NONE" name="">
+      <modelElement href="eKewangan%20system.uml#_uqsPEo6FEeyjgorm8hfSZw"/>
+      <visibility xmi:id="_6xaJQI6FEeyjgorm8hfSZw" label="+"/>
+      <cardinality xmi:id="_6xZiNo6FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_6xS0gI6FEeyjgorm8hfSZw" aggregationKind="NONE" name="lbl_2020" navigable="true">
+      <modelElement href="eKewangan%20system.uml#_umcBMI6FEeyjgorm8hfSZw"/>
+      <visibility xmi:id="_6xaJQo6FEeyjgorm8hfSZw" label="-"/>
+      <cardinality xmi:id="_6xaJQY6FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_6xH1YI6FEeyjgorm8hfSZw" source="_6x54gI6FEeyjgorm8hfSZw">
+    <modelElement href="eKewangan%20system.uml#_uquEQI6FEeyjgorm8hfSZw"/>
+    <stereotypes xmi:id="_6xS0hY6FEeyjgorm8hfSZw" name="Reference">
+      <modelElement href="eKewangan%20system.uml#_uqvSYI6FEeyjgorm8hfSZw"/>
+    </stereotypes>
+    <nameVisual xmi:id="_6xS0go6FEeyjgorm8hfSZw" text=""/>
+    <sourceRole xmi:id="_6xS0g46FEeyjgorm8hfSZw" aggregationKind="NONE" name="">
+      <modelElement href="eKewangan%20system.uml#_uquEQY6FEeyjgorm8hfSZw"/>
+      <visibility xmi:id="_6xawUI6FEeyjgorm8hfSZw" label="+"/>
+      <cardinality xmi:id="_6xaJRI6FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_6xS0hI6FEeyjgorm8hfSZw" aggregationKind="NONE" name="sp_2020" navigable="true">
+      <modelElement href="eKewangan%20system.uml#_umdPUI6FEeyjgorm8hfSZw"/>
+      <visibility xmi:id="_6xawUo6FEeyjgorm8hfSZw" label="-"/>
+      <cardinality xmi:id="_6xawUY6FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_6xH1YY6FEeyjgorm8hfSZw" source="_6x54gI6FEeyjgorm8hfSZw">
+    <modelElement href="eKewangan%20system.uml#_uqv5cI6FEeyjgorm8hfSZw"/>
+    <stereotypes xmi:id="_6xTbk46FEeyjgorm8hfSZw" name="Reference">
+      <modelElement href="eKewangan%20system.uml#_uqyVsI6FEeyjgorm8hfSZw"/>
+    </stereotypes>
+    <nameVisual xmi:id="_6xTbkI6FEeyjgorm8hfSZw" text=""/>
+    <sourceRole xmi:id="_6xTbkY6FEeyjgorm8hfSZw" aggregationKind="NONE" name="">
+      <modelElement href="eKewangan%20system.uml#_uqv5cY6FEeyjgorm8hfSZw"/>
+      <visibility xmi:id="_6xawVY6FEeyjgorm8hfSZw" label="+"/>
+      <cardinality xmi:id="_6xawVI6FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_6xTbko6FEeyjgorm8hfSZw" aggregationKind="NONE" name="tbl_2020" navigable="true">
+      <modelElement href="eKewangan%20system.uml#_umfEgI6FEeyjgorm8hfSZw"/>
+      <visibility xmi:id="_6xb-cI6FEeyjgorm8hfSZw" label="-"/>
+      <cardinality xmi:id="_6xawVo6FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_6xJqkI6FEeyjgorm8hfSZw" source="_6x54gI6FEeyjgorm8hfSZw">
+    <modelElement href="eKewangan%20system.uml#_uqyVsY6FEeyjgorm8hfSZw"/>
+    <stereotypes xmi:id="_6xTbl46FEeyjgorm8hfSZw" name="Reference">
+      <modelElement href="eKewangan%20system.uml#_uqzj0I6FEeyjgorm8hfSZw"/>
+    </stereotypes>
+    <nameVisual xmi:id="_6xTblI6FEeyjgorm8hfSZw" text=""/>
+    <sourceRole xmi:id="_6xTblY6FEeyjgorm8hfSZw" aggregationKind="NONE" name="">
+      <modelElement href="eKewangan%20system.uml#_uqyVso6FEeyjgorm8hfSZw"/>
+      <visibility xmi:id="_6xb-c46FEeyjgorm8hfSZw" label="+"/>
+      <cardinality xmi:id="_6xb-co6FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_6xTblo6FEeyjgorm8hfSZw" aggregationKind="NONE" name="pnl_backReceipt" navigable="true">
+      <modelElement href="eKewangan%20system.uml#_umfrkY6FEeyjgorm8hfSZw"/>
+      <visibility xmi:id="_6xclgY6FEeyjgorm8hfSZw" label="-"/>
+      <cardinality xmi:id="_6xclgI6FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_6ynqMI6FEeyjgorm8hfSZw" sourceAnchor="122.0,0.0" targetAnchor="0.0,116.0" target="_6zDIAI6FEeyjgorm8hfSZw" source="_6zDIAI6FEeyjgorm8hfSZw">
+    <modelElement href="eKewangan%20system.uml#_upA0EY6FEeyjgorm8hfSZw"/>
+    <bendpoints xmi:id="_7zU5QI6FEeyjgorm8hfSZw" sourceY="-92" targetX="122" targetY="-208"/>
+    <bendpoints xmi:id="_7zU5QY6FEeyjgorm8hfSZw" sourceX="-208" sourceY="-92" targetX="-86" targetY="-208"/>
+    <bendpoints xmi:id="_7zU5Qo6FEeyjgorm8hfSZw" sourceX="-208" sourceY="116" targetX="-86"/>
+    <stereotypes xmi:id="_6yu-846FEeyjgorm8hfSZw" name="Reference">
+      <modelElement href="eKewangan%20system.uml#_upCpQI6FEeyjgorm8hfSZw"/>
+    </stereotypes>
+    <nameVisual xmi:id="_6yu-8I6FEeyjgorm8hfSZw" text="">
+      <visualProperties xmi:id="_7z79QI6FEeyjgorm8hfSZw" position="148.5,-8.5"/>
+    </nameVisual>
+    <sourceRole xmi:id="_6yu-8Y6FEeyjgorm8hfSZw" aggregationKind="NONE" name="">
+      <modelElement href="eKewangan%20system.uml#_upA0Eo6FEeyjgorm8hfSZw"/>
+      <visualProperties xmi:id="_7z6vII6FEeyjgorm8hfSZw" position="-20.0,-50.0"/>
+      <visibility xmi:id="_6y0egI6FEeyjgorm8hfSZw" label="+"/>
+      <cardinality xmi:id="_6yz3cI6FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_6yu-8o6FEeyjgorm8hfSZw" aggregationKind="NONE" name="frame" navigable="true">
+      <modelElement href="eKewangan%20system.uml#_ulPuYI6FEeyjgorm8hfSZw"/>
+      <visualProperties xmi:id="_7z8kUI6FEeyjgorm8hfSZw" position="-50.5,3.5"/>
+      <visibility xmi:id="_6y0ego6FEeyjgorm8hfSZw" label="-"/>
+      <cardinality xmi:id="_6y0egY6FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_6ypfYI6FEeyjgorm8hfSZw" source="_6zDIAI6FEeyjgorm8hfSZw">
+    <modelElement href="eKewangan%20system.uml#_uo3qIY6FEeyjgorm8hfSZw"/>
+    <stereotypes xmi:id="_6yw0IY6FEeyjgorm8hfSZw" name="Reference">
+      <modelElement href="eKewangan%20system.uml#_uo5fUI6FEeyjgorm8hfSZw"/>
+    </stereotypes>
+    <nameVisual xmi:id="_6ywNEI6FEeyjgorm8hfSZw" text=""/>
+    <sourceRole xmi:id="_6ywNEY6FEeyjgorm8hfSZw" aggregationKind="NONE" name="">
+      <modelElement href="eKewangan%20system.uml#_uo3qIo6FEeyjgorm8hfSZw"/>
+      <visibility xmi:id="_6y1FkY6FEeyjgorm8hfSZw" label="+"/>
+      <cardinality xmi:id="_6y1FkI6FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_6yw0II6FEeyjgorm8hfSZw" aggregationKind="NONE" name="userLabel" navigable="true">
+      <modelElement href="eKewangan%20system.uml#_uk8zcI6FEeyjgorm8hfSZw"/>
+      <visibility xmi:id="_6y1soI6FEeyjgorm8hfSZw" label="-"/>
+      <cardinality xmi:id="_6y1Fko6FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_6yqtgI6FEeyjgorm8hfSZw" source="_6zDIAI6FEeyjgorm8hfSZw">
+    <modelElement href="eKewangan%20system.uml#_uo5fUY6FEeyjgorm8hfSZw"/>
+    <stereotypes xmi:id="_6yw0JY6FEeyjgorm8hfSZw" name="Reference">
+      <modelElement href="eKewangan%20system.uml#_uo6tcI6FEeyjgorm8hfSZw"/>
+    </stereotypes>
+    <nameVisual xmi:id="_6yw0Io6FEeyjgorm8hfSZw" text=""/>
+    <sourceRole xmi:id="_6yw0I46FEeyjgorm8hfSZw" aggregationKind="NONE" name="">
+      <modelElement href="eKewangan%20system.uml#_uo5fUo6FEeyjgorm8hfSZw"/>
+      <visibility xmi:id="_6y26wY6FEeyjgorm8hfSZw" label="+"/>
+      <cardinality xmi:id="_6y26wI6FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_6yw0JI6FEeyjgorm8hfSZw" aggregationKind="NONE" name="userText" navigable="true">
+      <modelElement href="eKewangan%20system.uml#_uk9agY6FEeyjgorm8hfSZw"/>
+      <visibility xmi:id="_6y26w46FEeyjgorm8hfSZw" label="~"/>
+      <cardinality xmi:id="_6y26wo6FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_6yqtgY6FEeyjgorm8hfSZw" source="_6zDIAI6FEeyjgorm8hfSZw">
+    <modelElement href="eKewangan%20system.uml#_uo6tcY6FEeyjgorm8hfSZw"/>
+    <stereotypes xmi:id="_6yxbMo6FEeyjgorm8hfSZw" name="Reference">
+      <modelElement href="eKewangan%20system.uml#_uo7UgI6FEeyjgorm8hfSZw"/>
+    </stereotypes>
+    <nameVisual xmi:id="_6yw0Jo6FEeyjgorm8hfSZw" text=""/>
+    <sourceRole xmi:id="_6yxbMI6FEeyjgorm8hfSZw" aggregationKind="NONE" name="">
+      <modelElement href="eKewangan%20system.uml#_uo6tco6FEeyjgorm8hfSZw"/>
+      <visibility xmi:id="_6y3h0o6FEeyjgorm8hfSZw" label="+"/>
+      <cardinality xmi:id="_6y3h0Y6FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_6yxbMY6FEeyjgorm8hfSZw" aggregationKind="NONE" name="passwordLabel" navigable="true">
+      <modelElement href="eKewangan%20system.uml#_uk-ooI6FEeyjgorm8hfSZw"/>
+      <visibility xmi:id="_6y3h1I6FEeyjgorm8hfSZw" label="-"/>
+      <cardinality xmi:id="_6y3h046FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_6yqtgo6FEeyjgorm8hfSZw" source="_6zDIAI6FEeyjgorm8hfSZw">
+    <modelElement href="eKewangan%20system.uml#_uo9JsY6FEeyjgorm8hfSZw"/>
+    <stereotypes xmi:id="_6yyCQI6FEeyjgorm8hfSZw" name="Reference">
+      <modelElement href="eKewangan%20system.uml#_uo-X0I6FEeyjgorm8hfSZw"/>
+    </stereotypes>
+    <nameVisual xmi:id="_6yxbM46FEeyjgorm8hfSZw" text=""/>
+    <sourceRole xmi:id="_6yxbNI6FEeyjgorm8hfSZw" aggregationKind="NONE" name="">
+      <modelElement href="eKewangan%20system.uml#_uo9Jso6FEeyjgorm8hfSZw"/>
+      <visibility xmi:id="_6y4I4I6FEeyjgorm8hfSZw" label="+"/>
+      <cardinality xmi:id="_6y3h1o6FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_6yxbNY6FEeyjgorm8hfSZw" aggregationKind="NONE" name="success" navigable="true">
+      <modelElement href="eKewangan%20system.uml#_uk_2wY6FEeyjgorm8hfSZw"/>
+      <visibility xmi:id="_6y4I4o6FEeyjgorm8hfSZw" label="~"/>
+      <cardinality xmi:id="_6y4I4Y6FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_6yrUkI6FEeyjgorm8hfSZw" source="_6zDIAI6FEeyjgorm8hfSZw">
+    <modelElement href="eKewangan%20system.uml#_uo--4I6FEeyjgorm8hfSZw"/>
+    <stereotypes xmi:id="_6yypUI6FEeyjgorm8hfSZw" name="Reference">
+      <modelElement href="eKewangan%20system.uml#_upANAI6FEeyjgorm8hfSZw"/>
+    </stereotypes>
+    <nameVisual xmi:id="_6yyCQY6FEeyjgorm8hfSZw" text=""/>
+    <sourceRole xmi:id="_6yyCQo6FEeyjgorm8hfSZw" aggregationKind="NONE" name="">
+      <modelElement href="eKewangan%20system.uml#_uo--4Y6FEeyjgorm8hfSZw"/>
+      <visibility xmi:id="_6y4I5Y6FEeyjgorm8hfSZw" label="+"/>
+      <cardinality xmi:id="_6y4I5I6FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_6yyCQ46FEeyjgorm8hfSZw" aggregationKind="NONE" name="panel" navigable="true">
+      <modelElement href="eKewangan%20system.uml#_ulAd0Y6FEeyjgorm8hfSZw"/>
+      <visibility xmi:id="_6y4v8Y6FEeyjgorm8hfSZw" label="-"/>
+      <cardinality xmi:id="_6y4v8I6FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_6yrUkY6FEeyjgorm8hfSZw" source="_6zDIAI6FEeyjgorm8hfSZw">
+    <modelElement href="eKewangan%20system.uml#_upANAY6FEeyjgorm8hfSZw"/>
+    <stereotypes xmi:id="_6yzQYY6FEeyjgorm8hfSZw" name="Reference">
+      <modelElement href="eKewangan%20system.uml#_upA0EI6FEeyjgorm8hfSZw"/>
+    </stereotypes>
+    <nameVisual xmi:id="_6yypUY6FEeyjgorm8hfSZw" text=""/>
+    <sourceRole xmi:id="_6yypUo6FEeyjgorm8hfSZw" aggregationKind="NONE" name="">
+      <modelElement href="eKewangan%20system.uml#_upANAo6FEeyjgorm8hfSZw"/>
+      <visibility xmi:id="_6y5XAY6FEeyjgorm8hfSZw" label="+"/>
+      <cardinality xmi:id="_6y5XAI6FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_6yzQYI6FEeyjgorm8hfSZw" aggregationKind="NONE" name="pic_ukmpics" navigable="true">
+      <modelElement href="eKewangan%20system.uml#_ulCTAI6FEeyjgorm8hfSZw"/>
+      <visibility xmi:id="_6y5XA46FEeyjgorm8hfSZw" label="+"/>
+      <cardinality xmi:id="_6y5XAo6FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_6zBS0I6FEeyjgorm8hfSZw" source="_6zDIAI6FEeyjgorm8hfSZw">
+    <modelElement href="eKewangan%20system.uml#_uo7UgY6FEeyjgorm8hfSZw"/>
+    <stereotypes xmi:id="_6zBS0Y6FEeyjgorm8hfSZw" name="Reference">
+      <modelElement href="eKewangan%20system.uml#_uo9JsI6FEeyjgorm8hfSZw"/>
+    </stereotypes>
+    <nameVisual xmi:id="_6zBS0o6FEeyjgorm8hfSZw" text=""/>
+    <sourceRole xmi:id="_6zBS046FEeyjgorm8hfSZw" aggregationKind="NONE" name="">
+      <modelElement href="eKewangan%20system.uml#_uo7Ugo6FEeyjgorm8hfSZw"/>
+      <visibility xmi:id="_6zBS1I6FEeyjgorm8hfSZw" label="+"/>
+      <cardinality xmi:id="_6zBS1Y6FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_6zBS1o6FEeyjgorm8hfSZw" aggregationKind="NONE" name="passwordText" navigable="true">
+      <modelElement href="eKewangan%20system.uml#_uk_PsI6FEeyjgorm8hfSZw"/>
+      <visibility xmi:id="_6zBS146FEeyjgorm8hfSZw" label="~"/>
+      <cardinality xmi:id="_6zBS2I6FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_6zvrkI6FEeyjgorm8hfSZw" sourceAnchor="98.0,0.0" targetAnchor="0.0,107.0" target="_60ItII6FEeyjgorm8hfSZw" source="_60ItII6FEeyjgorm8hfSZw">
+    <modelElement href="eKewangan%20system.uml#_uq8GsI6FEeyjgorm8hfSZw"/>
+    <bendpoints xmi:id="_7zZxwI6FEeyjgorm8hfSZw" sourceY="-101" targetX="98" targetY="-208"/>
+    <bendpoints xmi:id="_7zZxwY6FEeyjgorm8hfSZw" sourceX="-182" sourceY="-101" targetX="-84" targetY="-208"/>
+    <bendpoints xmi:id="_7zaY0I6FEeyjgorm8hfSZw" sourceX="-182" sourceY="107" targetX="-84"/>
+    <stereotypes xmi:id="_6z2ZQo6FEeyjgorm8hfSZw" name="Reference">
+      <modelElement href="eKewangan%20system.uml#_uq8twI6FEeyjgorm8hfSZw"/>
+    </stereotypes>
+    <nameVisual xmi:id="_6z1yMI6FEeyjgorm8hfSZw" text="">
+      <visualProperties xmi:id="_70Mb8I6FEeyjgorm8hfSZw" position="122.5,-8.250000000000014"/>
+    </nameVisual>
+    <sourceRole xmi:id="_6z2ZQI6FEeyjgorm8hfSZw" aggregationKind="NONE" name="">
+      <modelElement href="eKewangan%20system.uml#_uq8GsY6FEeyjgorm8hfSZw"/>
+      <visualProperties xmi:id="_70IKgI6FEeyjgorm8hfSZw" position="-20.0,-49.25"/>
+      <visibility xmi:id="_6z7RwY6FEeyjgorm8hfSZw" label="+"/>
+      <cardinality xmi:id="_6z7RwI6FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_6z2ZQY6FEeyjgorm8hfSZw" aggregationKind="NONE" name="frame" navigable="true">
+      <modelElement href="eKewangan%20system.uml#_umqqsY6FEeyjgorm8hfSZw"/>
+      <visualProperties xmi:id="_70NDAI6FEeyjgorm8hfSZw" position="-51.0,3.75"/>
+      <visibility xmi:id="_6z7Rw46FEeyjgorm8hfSZw" label="-"/>
+      <cardinality xmi:id="_6z7Rwo6FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_6zw5sI6FEeyjgorm8hfSZw" source="_60ItII6FEeyjgorm8hfSZw">
+    <modelElement href="eKewangan%20system.uml#_uq0x8Y6FEeyjgorm8hfSZw"/>
+    <stereotypes xmi:id="_6z3AUI6FEeyjgorm8hfSZw" name="Reference">
+      <modelElement href="eKewangan%20system.uml#_uq1ZAI6FEeyjgorm8hfSZw"/>
+    </stereotypes>
+    <nameVisual xmi:id="_6z2ZQ46FEeyjgorm8hfSZw" text=""/>
+    <sourceRole xmi:id="_6z2ZRI6FEeyjgorm8hfSZw" aggregationKind="NONE" name="">
+      <modelElement href="eKewangan%20system.uml#_uq0x8o6FEeyjgorm8hfSZw"/>
+      <visibility xmi:id="_6z8f4I6FEeyjgorm8hfSZw" label="+"/>
+      <cardinality xmi:id="_6z740I6FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_6z2ZRY6FEeyjgorm8hfSZw" aggregationKind="NONE" name="pane" navigable="true">
+      <modelElement href="eKewangan%20system.uml#_umj9AI6FEeyjgorm8hfSZw"/>
+      <visibility xmi:id="_6z8f4o6FEeyjgorm8hfSZw" label="-"/>
+      <cardinality xmi:id="_6z8f4Y6FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_6zw5sY6FEeyjgorm8hfSZw" source="_60ItII6FEeyjgorm8hfSZw">
+    <modelElement href="eKewangan%20system.uml#_uq2AEI6FEeyjgorm8hfSZw"/>
+    <stereotypes xmi:id="_6z3nYI6FEeyjgorm8hfSZw" name="Reference">
+      <modelElement href="eKewangan%20system.uml#_uq2nII6FEeyjgorm8hfSZw"/>
+    </stereotypes>
+    <nameVisual xmi:id="_6z3AUY6FEeyjgorm8hfSZw" text=""/>
+    <sourceRole xmi:id="_6z3AUo6FEeyjgorm8hfSZw" aggregationKind="NONE" name="">
+      <modelElement href="eKewangan%20system.uml#_uq2AEY6FEeyjgorm8hfSZw"/>
+      <visibility xmi:id="_6z9G8I6FEeyjgorm8hfSZw" label="+"/>
+      <cardinality xmi:id="_6z8f5I6FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_6z3AU46FEeyjgorm8hfSZw" aggregationKind="NONE" name="pnl_titleVoucher" navigable="true">
+      <modelElement href="eKewangan%20system.uml#_umlLII6FEeyjgorm8hfSZw"/>
+      <visibility xmi:id="_6z9uAY6FEeyjgorm8hfSZw" label="+"/>
+      <cardinality xmi:id="_6z9uAI6FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_6zw5so6FEeyjgorm8hfSZw" source="_60ItII6FEeyjgorm8hfSZw">
+    <modelElement href="eKewangan%20system.uml#_uq2nIY6FEeyjgorm8hfSZw"/>
+    <stereotypes xmi:id="_6z3nZI6FEeyjgorm8hfSZw" name="Reference">
+      <modelElement href="eKewangan%20system.uml#_uq3OMI6FEeyjgorm8hfSZw"/>
+    </stereotypes>
+    <nameVisual xmi:id="_6z3nYY6FEeyjgorm8hfSZw" text=""/>
+    <sourceRole xmi:id="_6z3nYo6FEeyjgorm8hfSZw" aggregationKind="NONE" name="">
+      <modelElement href="eKewangan%20system.uml#_uq2nIo6FEeyjgorm8hfSZw"/>
+      <visibility xmi:id="_6z-VEI6FEeyjgorm8hfSZw" label="+"/>
+      <cardinality xmi:id="_6z9uA46FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_6z3nY46FEeyjgorm8hfSZw" aggregationKind="NONE" name="lbl_titleVoucher" navigable="true">
+      <modelElement href="eKewangan%20system.uml#_umlyMI6FEeyjgorm8hfSZw"/>
+      <visibility xmi:id="_6z-VEo6FEeyjgorm8hfSZw" label="-"/>
+      <cardinality xmi:id="_6z-VEY6FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_6zxgwI6FEeyjgorm8hfSZw" source="_60ItII6FEeyjgorm8hfSZw">
+    <modelElement href="eKewangan%20system.uml#_uq31QI6FEeyjgorm8hfSZw"/>
+    <stereotypes xmi:id="_6z4OcY6FEeyjgorm8hfSZw" name="Reference">
+      <modelElement href="eKewangan%20system.uml#_uq4cUI6FEeyjgorm8hfSZw"/>
+    </stereotypes>
+    <nameVisual xmi:id="_6z3nZY6FEeyjgorm8hfSZw" text=""/>
+    <sourceRole xmi:id="_6z3nZo6FEeyjgorm8hfSZw" aggregationKind="NONE" name="">
+      <modelElement href="eKewangan%20system.uml#_uq31QY6FEeyjgorm8hfSZw"/>
+      <visibility xmi:id="_6z-VFY6FEeyjgorm8hfSZw" label="+"/>
+      <cardinality xmi:id="_6z-VFI6FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_6z4OcI6FEeyjgorm8hfSZw" aggregationKind="NONE" name="pnl_allvoucher" navigable="true">
+      <modelElement href="eKewangan%20system.uml#_umnnYI6FEeyjgorm8hfSZw"/>
+      <visibility xmi:id="_6z-8IY6FEeyjgorm8hfSZw" label="-"/>
+      <cardinality xmi:id="_6z-8II6FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_6zxgwY6FEeyjgorm8hfSZw" source="_60ItII6FEeyjgorm8hfSZw">
+    <modelElement href="eKewangan%20system.uml#_uq4cUY6FEeyjgorm8hfSZw"/>
+    <stereotypes xmi:id="_6z41gI6FEeyjgorm8hfSZw" name="Reference">
+      <modelElement href="eKewangan%20system.uml#_uq5qcI6FEeyjgorm8hfSZw"/>
+    </stereotypes>
+    <nameVisual xmi:id="_6z4Oco6FEeyjgorm8hfSZw" text=""/>
+    <sourceRole xmi:id="_6z4Oc46FEeyjgorm8hfSZw" aggregationKind="NONE" name="">
+      <modelElement href="eKewangan%20system.uml#_uq4cUo6FEeyjgorm8hfSZw"/>
+      <visibility xmi:id="_6z-8JI6FEeyjgorm8hfSZw" label="+"/>
+      <cardinality xmi:id="_6z-8I46FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_6z4OdI6FEeyjgorm8hfSZw" aggregationKind="NONE" name="sp_allvoucher" navigable="true">
+      <modelElement href="eKewangan%20system.uml#_umoOcY6FEeyjgorm8hfSZw"/>
+      <visibility xmi:id="_60AKQI6FEeyjgorm8hfSZw" label="-"/>
+      <cardinality xmi:id="_6z_jMI6FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_6zxgwo6FEeyjgorm8hfSZw" source="_60ItII6FEeyjgorm8hfSZw">
+    <modelElement href="eKewangan%20system.uml#_uq5qcY6FEeyjgorm8hfSZw"/>
+    <stereotypes xmi:id="_6z41hI6FEeyjgorm8hfSZw" name="Reference">
+      <modelElement href="eKewangan%20system.uml#_uq6RgI6FEeyjgorm8hfSZw"/>
+    </stereotypes>
+    <nameVisual xmi:id="_6z41gY6FEeyjgorm8hfSZw" text=""/>
+    <sourceRole xmi:id="_6z41go6FEeyjgorm8hfSZw" aggregationKind="NONE" name="">
+      <modelElement href="eKewangan%20system.uml#_uq5qco6FEeyjgorm8hfSZw"/>
+      <visibility xmi:id="_60AxUo6FEeyjgorm8hfSZw" label="+"/>
+      <cardinality xmi:id="_60AxUY6FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_6z41g46FEeyjgorm8hfSZw" aggregationKind="NONE" name="tbl_allvoucher" navigable="true">
+      <modelElement href="eKewangan%20system.uml#_umo1gY6FEeyjgorm8hfSZw"/>
+      <visibility xmi:id="_60BYYY6FEeyjgorm8hfSZw" label="+"/>
+      <cardinality xmi:id="_60BYYI6FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_6zxgw46FEeyjgorm8hfSZw" source="_60ItII6FEeyjgorm8hfSZw">
+    <modelElement href="eKewangan%20system.uml#_uq64kI6FEeyjgorm8hfSZw"/>
+    <stereotypes xmi:id="_6z6DoI6FEeyjgorm8hfSZw" name="Reference">
+      <modelElement href="eKewangan%20system.uml#_uq7foI6FEeyjgorm8hfSZw"/>
+    </stereotypes>
+    <nameVisual xmi:id="_6z41hY6FEeyjgorm8hfSZw" text=""/>
+    <sourceRole xmi:id="_6z41ho6FEeyjgorm8hfSZw" aggregationKind="NONE" name="">
+      <modelElement href="eKewangan%20system.uml#_uq64kY6FEeyjgorm8hfSZw"/>
+      <visibility xmi:id="_60BYZI6FEeyjgorm8hfSZw" label="+"/>
+      <cardinality xmi:id="_60BYY46FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_6z5ckI6FEeyjgorm8hfSZw" aggregationKind="NONE" name="pnl_backVoucher" navigable="true">
+      <modelElement href="eKewangan%20system.uml#_umqDoI6FEeyjgorm8hfSZw"/>
+      <visibility xmi:id="_60B_cY6FEeyjgorm8hfSZw" label="-"/>
+      <cardinality xmi:id="_60B_cI6FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_6ny6QI6FEeyjgorm8hfSZw" name="pay" associationsIn="_6mZzII6FEeyjgorm8hfSZw" associationsOut="_6mZzII6FEeyjgorm8hfSZw _6m7-oI6FEeyjgorm8hfSZw _6m9z0I6FEeyjgorm8hfSZw _6nA3II6FEeyjgorm8hfSZw _6nDTYI6FEeyjgorm8hfSZw _6nL2QI6FEeyjgorm8hfSZw _6nR84I6FEeyjgorm8hfSZw _6nVAMI6FEeyjgorm8hfSZw _6nYqkI6FEeyjgorm8hfSZw _6nbt4I6FEeyjgorm8hfSZw _6ndjEI6FEeyjgorm8hfSZw _6njCoI6FEeyjgorm8hfSZw _6nmtAI6FEeyjgorm8hfSZw _6nsMkI6FEeyjgorm8hfSZw _6nuBwI6FEeyjgorm8hfSZw _6nxFEI6FEeyjgorm8hfSZw">
+    <modelElement href="eKewangan%20system.uml#_uO0LYI6FEeyjgorm8hfSZw"/>
+    <visualProperties xmi:id="_6ny6QY6FEeyjgorm8hfSZw" position="30.0,30.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_6ny6Qo6FEeyjgorm8hfSZw" label="+"/>
+    <attributes xmi:id="_6nzhUI6FEeyjgorm8hfSZw" name="pane" staticAttribute="true">
+      <modelElement href="eKewangan%20system.uml#_ulSKoI6FEeyjgorm8hfSZw"/>
+      <stereotypes xmi:id="_6nzhUY6FEeyjgorm8hfSZw" name="LegacyStyledElement">
+        <modelElement href="eKewangan%20system.uml#_ulSxsI6FEeyjgorm8hfSZw"/>
+      </stereotypes>
+      <visibility xmi:id="_6nzhUo6FEeyjgorm8hfSZw" label="-"/>
+      <cardinality xmi:id="_6nzhU46FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+      <type xmi:id="_6nzhVI6FEeyjgorm8hfSZw" name="Container">
+        <modelElement href="eKewangan%20system.uml#_uiA0MI6FEeyjgorm8hfSZw"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_6nzhVY6FEeyjgorm8hfSZw" name="pnl_titlePayment" staticAttribute="true">
+      <modelElement href="eKewangan%20system.uml#_ulSxsY6FEeyjgorm8hfSZw"/>
+      <stereotypes xmi:id="_6nzhVo6FEeyjgorm8hfSZw" name="LegacyStyledElement">
+        <modelElement href="eKewangan%20system.uml#_ulTYwI6FEeyjgorm8hfSZw"/>
+      </stereotypes>
+      <visibility xmi:id="_6nzhV46FEeyjgorm8hfSZw" label="+"/>
+      <cardinality xmi:id="_6nzhWI6FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+      <type xmi:id="_6nzhWY6FEeyjgorm8hfSZw" name="JPanel">
+        <modelElement href="eKewangan%20system.uml#_uiFFoI6FEeyjgorm8hfSZw"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_6nzhWo6FEeyjgorm8hfSZw" name="lbl_title" staticAttribute="true">
+      <modelElement href="eKewangan%20system.uml#_ulT_0I6FEeyjgorm8hfSZw"/>
+      <stereotypes xmi:id="_6nzhW46FEeyjgorm8hfSZw" name="LegacyStyledElement">
+        <modelElement href="eKewangan%20system.uml#_ulVN8I6FEeyjgorm8hfSZw"/>
+      </stereotypes>
+      <visibility xmi:id="_6nzhXI6FEeyjgorm8hfSZw" label="-"/>
+      <cardinality xmi:id="_6nzhXY6FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+      <type xmi:id="_6nzhXo6FEeyjgorm8hfSZw" name="JLabel">
+        <modelElement href="eKewangan%20system.uml#_uiHh4I6FEeyjgorm8hfSZw"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_6nzhX46FEeyjgorm8hfSZw" name="pnl_paymentform" staticAttribute="true">
+      <modelElement href="eKewangan%20system.uml#_ulVN8Y6FEeyjgorm8hfSZw"/>
+      <stereotypes xmi:id="_6nzhYI6FEeyjgorm8hfSZw" name="LegacyStyledElement">
+        <modelElement href="eKewangan%20system.uml#_ulV1AI6FEeyjgorm8hfSZw"/>
+      </stereotypes>
+      <visibility xmi:id="_6nzhYY6FEeyjgorm8hfSZw" label="-"/>
+      <cardinality xmi:id="_6nzhYo6FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+      <type xmi:id="_6nzhY46FEeyjgorm8hfSZw" name="JPanel">
+        <modelElement href="eKewangan%20system.uml#_uiFFoI6FEeyjgorm8hfSZw"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_6nzhZI6FEeyjgorm8hfSZw" name="lbl_category" staticAttribute="true">
+      <modelElement href="eKewangan%20system.uml#_ulWcEI6FEeyjgorm8hfSZw"/>
+      <stereotypes xmi:id="_6nzhZY6FEeyjgorm8hfSZw" name="LegacyStyledElement">
+        <modelElement href="eKewangan%20system.uml#_ulXDII6FEeyjgorm8hfSZw"/>
+      </stereotypes>
+      <visibility xmi:id="_6nzhZo6FEeyjgorm8hfSZw" label="-"/>
+      <cardinality xmi:id="_6nzhZ46FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+      <type xmi:id="_6nzhaI6FEeyjgorm8hfSZw" name="JLabel">
+        <modelElement href="eKewangan%20system.uml#_uiHh4I6FEeyjgorm8hfSZw"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_6nzhaY6FEeyjgorm8hfSZw" name="cmb_invoiceNo" staticAttribute="true">
+      <modelElement href="eKewangan%20system.uml#_ulXDIY6FEeyjgorm8hfSZw"/>
+      <stereotypes xmi:id="_6nzhao6FEeyjgorm8hfSZw" name="LegacyStyledElement">
+        <modelElement href="eKewangan%20system.uml#_ulXDIo6FEeyjgorm8hfSZw"/>
+      </stereotypes>
+      <visibility xmi:id="_6nzha46FEeyjgorm8hfSZw" label="+"/>
+      <cardinality xmi:id="_6nzhbI6FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+      <type xmi:id="_6nzhbY6FEeyjgorm8hfSZw" name="JComboBox">
+        <modelElement href="eKewangan%20system.uml#_ujDWAI6FEeyjgorm8hfSZw"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_6nzhbo6FEeyjgorm8hfSZw" name="lbl_paymentfor" staticAttribute="true">
+      <modelElement href="eKewangan%20system.uml#_ulYRQI6FEeyjgorm8hfSZw"/>
+      <stereotypes xmi:id="_6nzhb46FEeyjgorm8hfSZw" name="LegacyStyledElement">
+        <modelElement href="eKewangan%20system.uml#_ulYRQY6FEeyjgorm8hfSZw"/>
+      </stereotypes>
+      <visibility xmi:id="_6nzhcI6FEeyjgorm8hfSZw" label="-"/>
+      <cardinality xmi:id="_6nzhcY6FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+      <type xmi:id="_6nzhco6FEeyjgorm8hfSZw" name="JLabel">
+        <modelElement href="eKewangan%20system.uml#_uiHh4I6FEeyjgorm8hfSZw"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_6nzhc46FEeyjgorm8hfSZw" name="txt_amount" staticAttribute="true">
+      <modelElement href="eKewangan%20system.uml#_ulY4UI6FEeyjgorm8hfSZw"/>
+      <stereotypes xmi:id="_6nzhdI6FEeyjgorm8hfSZw" name="LegacyStyledElement">
+        <modelElement href="eKewangan%20system.uml#_ulY4UY6FEeyjgorm8hfSZw"/>
+      </stereotypes>
+      <visibility xmi:id="_6nzhdY6FEeyjgorm8hfSZw" label="-"/>
+      <cardinality xmi:id="_6nzhdo6FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+      <type xmi:id="_6nzhd46FEeyjgorm8hfSZw" name="JTextField">
+        <modelElement href="eKewangan%20system.uml#_ui4W4I6FEeyjgorm8hfSZw"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_6nzheI6FEeyjgorm8hfSZw" name="lbl_amount" staticAttribute="true">
+      <modelElement href="eKewangan%20system.uml#_ulaGcI6FEeyjgorm8hfSZw"/>
+      <stereotypes xmi:id="_6nzheY6FEeyjgorm8hfSZw" name="LegacyStyledElement">
+        <modelElement href="eKewangan%20system.uml#_ulatgI6FEeyjgorm8hfSZw"/>
+      </stereotypes>
+      <visibility xmi:id="_6nzheo6FEeyjgorm8hfSZw" label="-"/>
+      <cardinality xmi:id="_6nzhe46FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+      <type xmi:id="_6nzhfI6FEeyjgorm8hfSZw" name="JLabel">
+        <modelElement href="eKewangan%20system.uml#_uiHh4I6FEeyjgorm8hfSZw"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_6nzhfY6FEeyjgorm8hfSZw" name="txt_amountToPay" staticAttribute="true">
+      <modelElement href="eKewangan%20system.uml#_ulatgY6FEeyjgorm8hfSZw"/>
+      <stereotypes xmi:id="_6nzhfo6FEeyjgorm8hfSZw" name="LegacyStyledElement">
+        <modelElement href="eKewangan%20system.uml#_ulb7oI6FEeyjgorm8hfSZw"/>
+      </stereotypes>
+      <visibility xmi:id="_6nzhf46FEeyjgorm8hfSZw" label="-"/>
+      <cardinality xmi:id="_6nzhgI6FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+      <type xmi:id="_6nzhgY6FEeyjgorm8hfSZw" name="JTextField">
+        <modelElement href="eKewangan%20system.uml#_ui4W4I6FEeyjgorm8hfSZw"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_6nzhgo6FEeyjgorm8hfSZw" name="pnl_button" staticAttribute="true">
+      <modelElement href="eKewangan%20system.uml#_ulcisI6FEeyjgorm8hfSZw"/>
+      <stereotypes xmi:id="_6nzhg46FEeyjgorm8hfSZw" name="LegacyStyledElement">
+        <modelElement href="eKewangan%20system.uml#_uldw0I6FEeyjgorm8hfSZw"/>
+      </stereotypes>
+      <visibility xmi:id="_6nzhhI6FEeyjgorm8hfSZw" label="-"/>
+      <cardinality xmi:id="_6nzhhY6FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+      <type xmi:id="_6nzhho6FEeyjgorm8hfSZw" name="JPanel">
+        <modelElement href="eKewangan%20system.uml#_uiFFoI6FEeyjgorm8hfSZw"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_6nzhh46FEeyjgorm8hfSZw" name="btn_pay" staticAttribute="true">
+      <modelElement href="eKewangan%20system.uml#_uldw0Y6FEeyjgorm8hfSZw"/>
+      <stereotypes xmi:id="_6nzhiI6FEeyjgorm8hfSZw" name="LegacyStyledElement">
+        <modelElement href="eKewangan%20system.uml#_uleX4I6FEeyjgorm8hfSZw"/>
+      </stereotypes>
+      <visibility xmi:id="_6nzhiY6FEeyjgorm8hfSZw" label="-"/>
+      <cardinality xmi:id="_6nzhio6FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+      <type xmi:id="_6nzhi46FEeyjgorm8hfSZw" name="JButton">
+        <modelElement href="eKewangan%20system.uml#_ujFLMI6FEeyjgorm8hfSZw"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_6nzhjI6FEeyjgorm8hfSZw" name="pnl_backPayment" staticAttribute="true">
+      <modelElement href="eKewangan%20system.uml#_ule-8I6FEeyjgorm8hfSZw"/>
+      <stereotypes xmi:id="_6nzhjY6FEeyjgorm8hfSZw" name="LegacyStyledElement">
+        <modelElement href="eKewangan%20system.uml#_ule-8Y6FEeyjgorm8hfSZw"/>
+      </stereotypes>
+      <visibility xmi:id="_6nzhjo6FEeyjgorm8hfSZw" label="-"/>
+      <cardinality xmi:id="_6nzhj46FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+      <type xmi:id="_6nzhkI6FEeyjgorm8hfSZw" name="JPanel">
+        <modelElement href="eKewangan%20system.uml#_uiFFoI6FEeyjgorm8hfSZw"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_6nzhkY6FEeyjgorm8hfSZw" name="frame" staticAttribute="true">
+      <modelElement href="eKewangan%20system.uml#_ulfmAI6FEeyjgorm8hfSZw"/>
+      <stereotypes xmi:id="_6nzhko6FEeyjgorm8hfSZw" name="LegacyStyledElement">
+        <modelElement href="eKewangan%20system.uml#_ulgNEI6FEeyjgorm8hfSZw"/>
+      </stereotypes>
+      <visibility xmi:id="_6nzhk46FEeyjgorm8hfSZw" label="+"/>
+      <cardinality xmi:id="_6nzhlI6FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+      <type xmi:id="_6nzhlY6FEeyjgorm8hfSZw" name="pay">
+        <modelElement href="eKewangan%20system.uml#_uO0LYI6FEeyjgorm8hfSZw"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_6nzhlo6FEeyjgorm8hfSZw" name="ok" staticAttribute="true">
+      <modelElement href="eKewangan%20system.uml#_uliCQI6FEeyjgorm8hfSZw"/>
+      <stereotypes xmi:id="_6nzhl46FEeyjgorm8hfSZw" name="LegacyStyledElement">
+        <modelElement href="eKewangan%20system.uml#_ulipUI6FEeyjgorm8hfSZw"/>
+      </stereotypes>
+      <visibility xmi:id="_6nzhmI6FEeyjgorm8hfSZw" label="-"/>
+      <cardinality xmi:id="_6nzhmY6FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+      <type xmi:id="_6nzhmo6FEeyjgorm8hfSZw" name="JLabel">
+        <modelElement href="eKewangan%20system.uml#_uiHh4I6FEeyjgorm8hfSZw"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_6nzhm46FEeyjgorm8hfSZw" defaultValue="new controller()" name="controller">
+      <modelElement href="eKewangan%20system.uml#_ulipUY6FEeyjgorm8hfSZw"/>
+      <stereotypes xmi:id="_6nzhnI6FEeyjgorm8hfSZw" name="LegacyStyledElement">
+        <modelElement href="eKewangan%20system.uml#_ulkegI6FEeyjgorm8hfSZw"/>
+      </stereotypes>
+      <visibility xmi:id="_6nzhnY6FEeyjgorm8hfSZw" label="~"/>
+      <cardinality xmi:id="_6nzhno6FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+      <type xmi:id="_6nzhn46FEeyjgorm8hfSZw" name="controller">
+        <modelElement href="eKewangan%20system.uml#_uMugsI6FEeyjgorm8hfSZw"/>
+      </type>
+    </attributes>
+    <operations xmi:id="_6nzhoI6FEeyjgorm8hfSZw" name="pay">
+      <modelElement href="eKewangan%20system.uml#_uPF4MI6FEeyjgorm8hfSZw"/>
+      <keywords xmi:id="_6nzhoY6FEeyjgorm8hfSZw" keyword="create"/>
+      <visibility xmi:id="_6nzhoo6FEeyjgorm8hfSZw" label="+"/>
+      <cardinality xmi:id="_6nzho46FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_6nzhpI6FEeyjgorm8hfSZw">
+        <modelElement href="eKewangan%20system.uml#_uPGfQY6FEeyjgorm8hfSZw"/>
+        <type xmi:id="_6nzhpY6FEeyjgorm8hfSZw" name="pay">
+          <modelElement href="eKewangan%20system.uml#_uO0LYI6FEeyjgorm8hfSZw"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_6nzhpo6FEeyjgorm8hfSZw" name="main" staticOperation="true">
+      <modelElement href="eKewangan%20system.uml#_uPHtYI6FEeyjgorm8hfSZw"/>
+      <visibility xmi:id="_6nzhp46FEeyjgorm8hfSZw" label="+"/>
+      <cardinality xmi:id="_6nzhqI6FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+      <parameters xmi:id="_6nzhqY6FEeyjgorm8hfSZw" name="args">
+        <modelElement href="eKewangan%20system.uml#_uPIUcI6FEeyjgorm8hfSZw"/>
+        <cardinality xmi:id="_6nzhqo6FEeyjgorm8hfSZw" label="1..*" max="-1" min="1"/>
+        <type xmi:id="_6nzhq46FEeyjgorm8hfSZw" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_6sM5II6FEeyjgorm8hfSZw" name="database" associationsIn="_6roRYI6FEeyjgorm8hfSZw" associationsOut="_6sB6AI6FEeyjgorm8hfSZw">
+    <modelElement href="eKewangan%20system.uml#_uNHiQI6FEeyjgorm8hfSZw"/>
+    <visualProperties xmi:id="_6sM5IY6FEeyjgorm8hfSZw" position="1447.0,313.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_6sM5Io6FEeyjgorm8hfSZw" label="+"/>
+    <attributes xmi:id="_6sNgMI6FEeyjgorm8hfSZw" defaultValue="&quot;A179830&quot;" name="username">
+      <modelElement href="eKewangan%20system.uml#_ukEpsI6FEeyjgorm8hfSZw"/>
+      <stereotypes xmi:id="_6sNgMY6FEeyjgorm8hfSZw" name="LegacyStyledElement">
+        <modelElement href="eKewangan%20system.uml#_ukFQwI6FEeyjgorm8hfSZw"/>
+      </stereotypes>
+      <visibility xmi:id="_6sNgMo6FEeyjgorm8hfSZw" label="~"/>
+      <cardinality xmi:id="_6sNgM46FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+      <type xmi:id="_6sNgNI6FEeyjgorm8hfSZw" name="String">
+        <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_6sNgNY6FEeyjgorm8hfSZw" defaultValue="&quot;akmal&quot;" name="password">
+      <modelElement href="eKewangan%20system.uml#_ukF30I6FEeyjgorm8hfSZw"/>
+      <stereotypes xmi:id="_6sNgNo6FEeyjgorm8hfSZw" name="LegacyStyledElement">
+        <modelElement href="eKewangan%20system.uml#_ukHF8I6FEeyjgorm8hfSZw"/>
+      </stereotypes>
+      <visibility xmi:id="_6sNgN46FEeyjgorm8hfSZw" label="~"/>
+      <cardinality xmi:id="_6sNgOI6FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+      <type xmi:id="_6sNgOY6FEeyjgorm8hfSZw" name="String">
+        <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_6sNgOo6FEeyjgorm8hfSZw" defaultValue="{&quot;INV 1128142&quot;, &quot;INV 1098467&quot;}" name="invoiceNo">
+      <modelElement href="eKewangan%20system.uml#_ukHtAI6FEeyjgorm8hfSZw"/>
+      <stereotypes xmi:id="_6sNgO46FEeyjgorm8hfSZw" name="Array">
+        <modelElement href="eKewangan%20system.uml#_ukHtAo6FEeyjgorm8hfSZw"/>
+      </stereotypes>
+      <stereotypes xmi:id="_6sNgPI6FEeyjgorm8hfSZw" name="LegacyStyledElement">
+        <modelElement href="eKewangan%20system.uml#_ukJiMI6FEeyjgorm8hfSZw"/>
+      </stereotypes>
+      <visibility xmi:id="_6sNgPY6FEeyjgorm8hfSZw" label="~"/>
+      <cardinality xmi:id="_6sNgPo6FEeyjgorm8hfSZw" label="1..*" max="-1" min="1"/>
+      <type xmi:id="_6sNgP46FEeyjgorm8hfSZw" name="String">
+        <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_6sNgQI6FEeyjgorm8hfSZw" defaultValue="{&quot;RM 940.00&quot;, &quot;RM 1,200.00&quot;}" name="invoiceAmount">
+      <modelElement href="eKewangan%20system.uml#_ukJiMY6FEeyjgorm8hfSZw"/>
+      <stereotypes xmi:id="_6sNgQY6FEeyjgorm8hfSZw" name="Array">
+        <modelElement href="eKewangan%20system.uml#_ukeSUI6FEeyjgorm8hfSZw"/>
+      </stereotypes>
+      <stereotypes xmi:id="_6sNgQo6FEeyjgorm8hfSZw" name="LegacyStyledElement">
+        <modelElement href="eKewangan%20system.uml#_ukfgcI6FEeyjgorm8hfSZw"/>
+      </stereotypes>
+      <visibility xmi:id="_6sNgQ46FEeyjgorm8hfSZw" label="~"/>
+      <cardinality xmi:id="_6sNgRI6FEeyjgorm8hfSZw" label="1..*" max="-1" min="1"/>
+      <type xmi:id="_6sNgRY6FEeyjgorm8hfSZw" name="String">
+        <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_6sNgRo6FEeyjgorm8hfSZw" defaultValue="new login()" name="lg">
+      <modelElement href="eKewangan%20system.uml#_ukgHgI6FEeyjgorm8hfSZw"/>
+      <stereotypes xmi:id="_6sNgR46FEeyjgorm8hfSZw" name="LegacyStyledElement">
+        <modelElement href="eKewangan%20system.uml#_ukhVoI6FEeyjgorm8hfSZw"/>
+      </stereotypes>
+      <visibility xmi:id="_6sNgSI6FEeyjgorm8hfSZw" label="~"/>
+      <cardinality xmi:id="_6sNgSY6FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+      <type xmi:id="_6sNgSo6FEeyjgorm8hfSZw" name="login">
+        <modelElement href="eKewangan%20system.uml#_uOOVgI6FEeyjgorm8hfSZw"/>
+      </type>
+    </attributes>
+    <operations xmi:id="_6sNgS46FEeyjgorm8hfSZw" name="getUsername">
+      <modelElement href="eKewangan%20system.uml#_uNQsMI6FEeyjgorm8hfSZw"/>
+      <visibility xmi:id="_6sNgTI6FEeyjgorm8hfSZw" label="~"/>
+      <cardinality xmi:id="_6sNgTY6FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_6sNgTo6FEeyjgorm8hfSZw">
+        <modelElement href="eKewangan%20system.uml#_uNR6UI6FEeyjgorm8hfSZw"/>
+        <type xmi:id="_6sNgT46FEeyjgorm8hfSZw" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_6sNgUI6FEeyjgorm8hfSZw" name="getPassword">
+      <modelElement href="eKewangan%20system.uml#_uNTIcI6FEeyjgorm8hfSZw"/>
+      <visibility xmi:id="_6sNgUY6FEeyjgorm8hfSZw" label="~"/>
+      <cardinality xmi:id="_6sNgUo6FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_6sNgU46FEeyjgorm8hfSZw">
+        <modelElement href="eKewangan%20system.uml#_uNTvgI6FEeyjgorm8hfSZw"/>
+        <type xmi:id="_6sNgVI6FEeyjgorm8hfSZw" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_6sNgVY6FEeyjgorm8hfSZw" name="validateUser">
+      <modelElement href="eKewangan%20system.uml#_uNUWkI6FEeyjgorm8hfSZw"/>
+      <visibility xmi:id="_6sNgVo6FEeyjgorm8hfSZw" label="~"/>
+      <cardinality xmi:id="_6sNgV46FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_6sNgWI6FEeyjgorm8hfSZw">
+        <modelElement href="eKewangan%20system.uml#_uNVksI6FEeyjgorm8hfSZw"/>
+        <type xmi:id="_6sNgWY6FEeyjgorm8hfSZw" name="boolean">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#boolean"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_6sNgWo6FEeyjgorm8hfSZw" name="username">
+        <modelElement href="eKewangan%20system.uml#_uNU9oI6FEeyjgorm8hfSZw"/>
+        <cardinality xmi:id="_6sNgW46FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+        <type xmi:id="_6sNgXI6FEeyjgorm8hfSZw" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_6sNgXY6FEeyjgorm8hfSZw" name="password">
+        <modelElement href="eKewangan%20system.uml#_uNU9oY6FEeyjgorm8hfSZw"/>
+        <cardinality xmi:id="_6sNgXo6FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+        <type xmi:id="_6sNgX46FEeyjgorm8hfSZw" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_6sNgYI6FEeyjgorm8hfSZw" name="getInvoiceNo">
+      <modelElement href="eKewangan%20system.uml#_uNVksY6FEeyjgorm8hfSZw"/>
+      <stereotypes xmi:id="_6sNgYY6FEeyjgorm8hfSZw" name="Array">
+        <modelElement href="eKewangan%20system.uml#_uNWy0I6FEeyjgorm8hfSZw"/>
+      </stereotypes>
+      <visibility xmi:id="_6sNgYo6FEeyjgorm8hfSZw" label="~"/>
+      <cardinality xmi:id="_6sNgY46FEeyjgorm8hfSZw" label="1..*" max="-1" min="1"/>
+      <outParameters xmi:id="_6sNgZI6FEeyjgorm8hfSZw">
+        <modelElement href="eKewangan%20system.uml#_uNWLwI6FEeyjgorm8hfSZw"/>
+        <type xmi:id="_6sNgZY6FEeyjgorm8hfSZw" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_6sNgZo6FEeyjgorm8hfSZw" name="getInvoiceAmount">
+      <modelElement href="eKewangan%20system.uml#_uNYoAI6FEeyjgorm8hfSZw"/>
+      <visibility xmi:id="_6sNgZ46FEeyjgorm8hfSZw" label="~"/>
+      <cardinality xmi:id="_6sNgaI6FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_6sNgaY6FEeyjgorm8hfSZw">
+        <modelElement href="eKewangan%20system.uml#_uNZPEY6FEeyjgorm8hfSZw"/>
+        <type xmi:id="_6sNgao6FEeyjgorm8hfSZw" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_6sNga46FEeyjgorm8hfSZw" name="selectedIndex">
+        <modelElement href="eKewangan%20system.uml#_uNZPEI6FEeyjgorm8hfSZw"/>
+        <cardinality xmi:id="_6sNgbI6FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+        <type xmi:id="_6sNgbY6FEeyjgorm8hfSZw" name="int">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+        </type>
+      </parameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_6t2e8I6FEeyjgorm8hfSZw" name="profile" associationsIn="_6s3ngI6FEeyjgorm8hfSZw" associationsOut="_6s3ngI6FEeyjgorm8hfSZw _6s41oI6FEeyjgorm8hfSZw _6s41oY6FEeyjgorm8hfSZw _6s6q0I6FEeyjgorm8hfSZw _6s7R4I6FEeyjgorm8hfSZw _6s748I6FEeyjgorm8hfSZw _6s8gAI6FEeyjgorm8hfSZw _6s9uII6FEeyjgorm8hfSZw _6s9uIY6FEeyjgorm8hfSZw _6s-8QI6FEeyjgorm8hfSZw _6s_jUI6FEeyjgorm8hfSZw _6tAKYI6FEeyjgorm8hfSZw _6tAKYY6FEeyjgorm8hfSZw _6tAKYo6FEeyjgorm8hfSZw _6tAxcI6FEeyjgorm8hfSZw _6tAxcY6FEeyjgorm8hfSZw _6tBYgI6FEeyjgorm8hfSZw">
+    <modelElement href="eKewangan%20system.uml#_uPfg0I6FEeyjgorm8hfSZw"/>
+    <visualProperties xmi:id="_6t2e8Y6FEeyjgorm8hfSZw" position="463.0,376.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_6t2e8o6FEeyjgorm8hfSZw" label="+"/>
+    <attributes xmi:id="_6t2e846FEeyjgorm8hfSZw" name="pane" staticAttribute="true">
+      <modelElement href="eKewangan%20system.uml#_ulmTsI6FEeyjgorm8hfSZw"/>
+      <stereotypes xmi:id="_6t2e9I6FEeyjgorm8hfSZw" name="LegacyStyledElement">
+        <modelElement href="eKewangan%20system.uml#_ulm6wI6FEeyjgorm8hfSZw"/>
+      </stereotypes>
+      <visibility xmi:id="_6t2e9Y6FEeyjgorm8hfSZw" label="-"/>
+      <cardinality xmi:id="_6t2e9o6FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+      <type xmi:id="_6t2e946FEeyjgorm8hfSZw" name="Container">
+        <modelElement href="eKewangan%20system.uml#_uiA0MI6FEeyjgorm8hfSZw"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_6t2e-I6FEeyjgorm8hfSZw" name="pic_profilepics" staticAttribute="true">
+      <modelElement href="eKewangan%20system.uml#_ulnh0I6FEeyjgorm8hfSZw"/>
+      <stereotypes xmi:id="_6t2e-Y6FEeyjgorm8hfSZw" name="LegacyStyledElement">
+        <modelElement href="eKewangan%20system.uml#_uloI4I6FEeyjgorm8hfSZw"/>
+      </stereotypes>
+      <visibility xmi:id="_6t2e-o6FEeyjgorm8hfSZw" label="+"/>
+      <cardinality xmi:id="_6t2e-46FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+      <type xmi:id="_6t2e_I6FEeyjgorm8hfSZw" name="JLabel">
+        <modelElement href="eKewangan%20system.uml#_uiHh4I6FEeyjgorm8hfSZw"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_6t2e_Y6FEeyjgorm8hfSZw" name="pnl_titleProfile" staticAttribute="true">
+      <modelElement href="eKewangan%20system.uml#_ulov8I6FEeyjgorm8hfSZw"/>
+      <stereotypes xmi:id="_6t2e_o6FEeyjgorm8hfSZw" name="LegacyStyledElement">
+        <modelElement href="eKewangan%20system.uml#_ulpXAI6FEeyjgorm8hfSZw"/>
+      </stereotypes>
+      <visibility xmi:id="_6t2e_46FEeyjgorm8hfSZw" label="-"/>
+      <cardinality xmi:id="_6t2fAI6FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+      <type xmi:id="_6t2fAY6FEeyjgorm8hfSZw" name="JPanel">
+        <modelElement href="eKewangan%20system.uml#_uiFFoI6FEeyjgorm8hfSZw"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_6t2fAo6FEeyjgorm8hfSZw" name="lbl_titleProfile" staticAttribute="true">
+      <modelElement href="eKewangan%20system.uml#_ulpXAY6FEeyjgorm8hfSZw"/>
+      <stereotypes xmi:id="_6t2fA46FEeyjgorm8hfSZw" name="LegacyStyledElement">
+        <modelElement href="eKewangan%20system.uml#_ulsaUI6FEeyjgorm8hfSZw"/>
+      </stereotypes>
+      <visibility xmi:id="_6t2fBI6FEeyjgorm8hfSZw" label="-"/>
+      <cardinality xmi:id="_6t2fBY6FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+      <type xmi:id="_6t2fBo6FEeyjgorm8hfSZw" name="JLabel">
+        <modelElement href="eKewangan%20system.uml#_uiHh4I6FEeyjgorm8hfSZw"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_6t2fB46FEeyjgorm8hfSZw" name="pnl_biodata" staticAttribute="true">
+      <modelElement href="eKewangan%20system.uml#_ultBYI6FEeyjgorm8hfSZw"/>
+      <stereotypes xmi:id="_6t2fCI6FEeyjgorm8hfSZw" name="LegacyStyledElement">
+        <modelElement href="eKewangan%20system.uml#_uluPgI6FEeyjgorm8hfSZw"/>
+      </stereotypes>
+      <visibility xmi:id="_6t2fCY6FEeyjgorm8hfSZw" label="-"/>
+      <cardinality xmi:id="_6t2fCo6FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+      <type xmi:id="_6t3GAI6FEeyjgorm8hfSZw" name="JPanel">
+        <modelElement href="eKewangan%20system.uml#_uiFFoI6FEeyjgorm8hfSZw"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_6t3GAY6FEeyjgorm8hfSZw" name="lbl_name" staticAttribute="true">
+      <modelElement href="eKewangan%20system.uml#_ulvdoI6FEeyjgorm8hfSZw"/>
+      <stereotypes xmi:id="_6t3GAo6FEeyjgorm8hfSZw" name="LegacyStyledElement">
+        <modelElement href="eKewangan%20system.uml#_ulvdoY6FEeyjgorm8hfSZw"/>
+      </stereotypes>
+      <visibility xmi:id="_6t3GA46FEeyjgorm8hfSZw" label="+"/>
+      <cardinality xmi:id="_6t3GBI6FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+      <type xmi:id="_6t3GBY6FEeyjgorm8hfSZw" name="JLabel">
+        <modelElement href="eKewangan%20system.uml#_uiHh4I6FEeyjgorm8hfSZw"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_6t3GBo6FEeyjgorm8hfSZw" name="lbl_faculty" staticAttribute="true">
+      <modelElement href="eKewangan%20system.uml#_ul-uMI6FEeyjgorm8hfSZw"/>
+      <stereotypes xmi:id="_6t3GB46FEeyjgorm8hfSZw" name="LegacyStyledElement">
+        <modelElement href="eKewangan%20system.uml#_umAjYI6FEeyjgorm8hfSZw"/>
+      </stereotypes>
+      <visibility xmi:id="_6t3GCI6FEeyjgorm8hfSZw" label="-"/>
+      <cardinality xmi:id="_6t3GCY6FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+      <type xmi:id="_6t3GCo6FEeyjgorm8hfSZw" name="JLabel">
+        <modelElement href="eKewangan%20system.uml#_uiHh4I6FEeyjgorm8hfSZw"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_6t3GC46FEeyjgorm8hfSZw" name="lbl_course" staticAttribute="true">
+      <modelElement href="eKewangan%20system.uml#_umAjYY6FEeyjgorm8hfSZw"/>
+      <stereotypes xmi:id="_6t3GDI6FEeyjgorm8hfSZw" name="LegacyStyledElement">
+        <modelElement href="eKewangan%20system.uml#_umBKcI6FEeyjgorm8hfSZw"/>
+      </stereotypes>
+      <visibility xmi:id="_6t3GDY6FEeyjgorm8hfSZw" label="-"/>
+      <cardinality xmi:id="_6t3GDo6FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+      <type xmi:id="_6t3GD46FEeyjgorm8hfSZw" name="JLabel">
+        <modelElement href="eKewangan%20system.uml#_uiHh4I6FEeyjgorm8hfSZw"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_6t3GEI6FEeyjgorm8hfSZw" name="pnl_finance" staticAttribute="true">
+      <modelElement href="eKewangan%20system.uml#_umBxgI6FEeyjgorm8hfSZw"/>
+      <stereotypes xmi:id="_6t3GEY6FEeyjgorm8hfSZw" name="LegacyStyledElement">
+        <modelElement href="eKewangan%20system.uml#_umDmsI6FEeyjgorm8hfSZw"/>
+      </stereotypes>
+      <visibility xmi:id="_6t3GEo6FEeyjgorm8hfSZw" label="-"/>
+      <cardinality xmi:id="_6t3GE46FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+      <type xmi:id="_6t3GFI6FEeyjgorm8hfSZw" name="JPanel">
+        <modelElement href="eKewangan%20system.uml#_uiFFoI6FEeyjgorm8hfSZw"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_6t3GFY6FEeyjgorm8hfSZw" name="lbl_advance" staticAttribute="true">
+      <modelElement href="eKewangan%20system.uml#_umENwI6FEeyjgorm8hfSZw"/>
+      <stereotypes xmi:id="_6t3GFo6FEeyjgorm8hfSZw" name="LegacyStyledElement">
+        <modelElement href="eKewangan%20system.uml#_umE00I6FEeyjgorm8hfSZw"/>
+      </stereotypes>
+      <visibility xmi:id="_6t3GF46FEeyjgorm8hfSZw" label="-"/>
+      <cardinality xmi:id="_6t3GGI6FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+      <type xmi:id="_6t3GGY6FEeyjgorm8hfSZw" name="JLabel">
+        <modelElement href="eKewangan%20system.uml#_uiHh4I6FEeyjgorm8hfSZw"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_6t3GGo6FEeyjgorm8hfSZw" name="lbl_amountAdvance" staticAttribute="true">
+      <modelElement href="eKewangan%20system.uml#_umE00Y6FEeyjgorm8hfSZw"/>
+      <stereotypes xmi:id="_6t3GG46FEeyjgorm8hfSZw" name="LegacyStyledElement">
+        <modelElement href="eKewangan%20system.uml#_umGqAI6FEeyjgorm8hfSZw"/>
+      </stereotypes>
+      <visibility xmi:id="_6t3GHI6FEeyjgorm8hfSZw" label="-"/>
+      <cardinality xmi:id="_6t3GHY6FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+      <type xmi:id="_6t3GHo6FEeyjgorm8hfSZw" name="JLabel">
+        <modelElement href="eKewangan%20system.uml#_uiHh4I6FEeyjgorm8hfSZw"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_6t3GH46FEeyjgorm8hfSZw" name="lbl_invoice" staticAttribute="true">
+      <modelElement href="eKewangan%20system.uml#_umGqAY6FEeyjgorm8hfSZw"/>
+      <stereotypes xmi:id="_6t3GII6FEeyjgorm8hfSZw" name="LegacyStyledElement">
+        <modelElement href="eKewangan%20system.uml#_umHREI6FEeyjgorm8hfSZw"/>
+      </stereotypes>
+      <visibility xmi:id="_6t3GIY6FEeyjgorm8hfSZw" label="-"/>
+      <cardinality xmi:id="_6t3GIo6FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+      <type xmi:id="_6t3GI46FEeyjgorm8hfSZw" name="JLabel">
+        <modelElement href="eKewangan%20system.uml#_uiHh4I6FEeyjgorm8hfSZw"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_6t3GJI6FEeyjgorm8hfSZw" name="lbl_amountInvoice" staticAttribute="true">
+      <modelElement href="eKewangan%20system.uml#_umH4II6FEeyjgorm8hfSZw"/>
+      <stereotypes xmi:id="_6t3GJY6FEeyjgorm8hfSZw" name="LegacyStyledElement">
+        <modelElement href="eKewangan%20system.uml#_umJGQI6FEeyjgorm8hfSZw"/>
+      </stereotypes>
+      <visibility xmi:id="_6t3GJo6FEeyjgorm8hfSZw" label="-"/>
+      <cardinality xmi:id="_6t3GJ46FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+      <type xmi:id="_6t3GKI6FEeyjgorm8hfSZw" name="JLabel">
+        <modelElement href="eKewangan%20system.uml#_uiHh4I6FEeyjgorm8hfSZw"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_6t3GKY6FEeyjgorm8hfSZw" name="lbl_eft" staticAttribute="true">
+      <modelElement href="eKewangan%20system.uml#_umJGQY6FEeyjgorm8hfSZw"/>
+      <stereotypes xmi:id="_6t3GKo6FEeyjgorm8hfSZw" name="LegacyStyledElement">
+        <modelElement href="eKewangan%20system.uml#_umJtUI6FEeyjgorm8hfSZw"/>
+      </stereotypes>
+      <visibility xmi:id="_6t3GK46FEeyjgorm8hfSZw" label="+"/>
+      <cardinality xmi:id="_6t3GLI6FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+      <type xmi:id="_6t3GLY6FEeyjgorm8hfSZw" name="JLabel">
+        <modelElement href="eKewangan%20system.uml#_uiHh4I6FEeyjgorm8hfSZw"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_6t3GLo6FEeyjgorm8hfSZw" name="lbl_amountEFT" staticAttribute="true">
+      <modelElement href="eKewangan%20system.uml#_umK7cI6FEeyjgorm8hfSZw"/>
+      <stereotypes xmi:id="_6t3GL46FEeyjgorm8hfSZw" name="LegacyStyledElement">
+        <modelElement href="eKewangan%20system.uml#_umMwoI6FEeyjgorm8hfSZw"/>
+      </stereotypes>
+      <visibility xmi:id="_6t3GMI6FEeyjgorm8hfSZw" label="-"/>
+      <cardinality xmi:id="_6t3GMY6FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+      <type xmi:id="_6t3GMo6FEeyjgorm8hfSZw" name="JLabel">
+        <modelElement href="eKewangan%20system.uml#_uiHh4I6FEeyjgorm8hfSZw"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_6t3GM46FEeyjgorm8hfSZw" name="pnl_profile" staticAttribute="true">
+      <modelElement href="eKewangan%20system.uml#_umNXsI6FEeyjgorm8hfSZw"/>
+      <stereotypes xmi:id="_6t3GNI6FEeyjgorm8hfSZw" name="LegacyStyledElement">
+        <modelElement href="eKewangan%20system.uml#_umN-wI6FEeyjgorm8hfSZw"/>
+      </stereotypes>
+      <visibility xmi:id="_6t3GNY6FEeyjgorm8hfSZw" label="-"/>
+      <cardinality xmi:id="_6t3GNo6FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+      <type xmi:id="_6t3GN46FEeyjgorm8hfSZw" name="JPanel">
+        <modelElement href="eKewangan%20system.uml#_uiFFoI6FEeyjgorm8hfSZw"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_6t3GOI6FEeyjgorm8hfSZw" name="frame" staticAttribute="true">
+      <modelElement href="eKewangan%20system.uml#_umOl0I6FEeyjgorm8hfSZw"/>
+      <stereotypes xmi:id="_6t3GOY6FEeyjgorm8hfSZw" name="LegacyStyledElement">
+        <modelElement href="eKewangan%20system.uml#_umPM4I6FEeyjgorm8hfSZw"/>
+      </stereotypes>
+      <visibility xmi:id="_6t3GOo6FEeyjgorm8hfSZw" label="-"/>
+      <cardinality xmi:id="_6t3GO46FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+      <type xmi:id="_6t3GPI6FEeyjgorm8hfSZw" name="profile">
+        <modelElement href="eKewangan%20system.uml#_uPfg0I6FEeyjgorm8hfSZw"/>
+      </type>
+    </attributes>
+    <operations xmi:id="_6t3GPY6FEeyjgorm8hfSZw" name="profile">
+      <modelElement href="eKewangan%20system.uml#_uPjyQI6FEeyjgorm8hfSZw"/>
+      <keywords xmi:id="_6t3GPo6FEeyjgorm8hfSZw" keyword="create"/>
+      <visibility xmi:id="_6t3GP46FEeyjgorm8hfSZw" label="+"/>
+      <cardinality xmi:id="_6t3GQI6FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_6t3GQY6FEeyjgorm8hfSZw">
+        <modelElement href="eKewangan%20system.uml#_uPkZUo6FEeyjgorm8hfSZw"/>
+        <type xmi:id="_6t3GQo6FEeyjgorm8hfSZw" name="profile">
+          <modelElement href="eKewangan%20system.uml#_uPfg0I6FEeyjgorm8hfSZw"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_6t3GQ46FEeyjgorm8hfSZw" name="main" staticOperation="true">
+      <modelElement href="eKewangan%20system.uml#_uPruEI6FEeyjgorm8hfSZw"/>
+      <visibility xmi:id="_6t3GRI6FEeyjgorm8hfSZw" label="+"/>
+      <cardinality xmi:id="_6t3GRY6FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+      <parameters xmi:id="_6t3GRo6FEeyjgorm8hfSZw" name="args">
+        <modelElement href="eKewangan%20system.uml#_uPruEY6FEeyjgorm8hfSZw"/>
+        <cardinality xmi:id="_6t3GR46FEeyjgorm8hfSZw" label="1..*" max="-1" min="1"/>
+        <type xmi:id="_6t3GSI6FEeyjgorm8hfSZw" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_6vonoI6FEeyjgorm8hfSZw" name="invoice" associationsIn="_6u9SMI6FEeyjgorm8hfSZw" associationsOut="_6u9SMI6FEeyjgorm8hfSZw _6u-gUI6FEeyjgorm8hfSZw _6u-gUY6FEeyjgorm8hfSZw _6u_HYI6FEeyjgorm8hfSZw _6u_ucI6FEeyjgorm8hfSZw _6vCxwI6FEeyjgorm8hfSZw _6vDY0I6FEeyjgorm8hfSZw _6vDY0Y6FEeyjgorm8hfSZw _6vD_4I6FEeyjgorm8hfSZw _6vbMQI6FEeyjgorm8hfSZw _6vdBcI6FEeyjgorm8hfSZw _6vePkI6FEeyjgorm8hfSZw _6vkWMI6FEeyjgorm8hfSZw">
+    <modelElement href="eKewangan%20system.uml#_uNgj0I6FEeyjgorm8hfSZw"/>
+    <visualProperties xmi:id="_6vonoY6FEeyjgorm8hfSZw" position="1103.0,-102.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_6vonoo6FEeyjgorm8hfSZw" label="+"/>
+    <attributes xmi:id="_6vono46FEeyjgorm8hfSZw" name="pane" staticAttribute="true">
+      <modelElement href="eKewangan%20system.uml#_ukh8sI6FEeyjgorm8hfSZw"/>
+      <stereotypes xmi:id="_6vonpI6FEeyjgorm8hfSZw" name="LegacyStyledElement">
+        <modelElement href="eKewangan%20system.uml#_ukkY8I6FEeyjgorm8hfSZw"/>
+      </stereotypes>
+      <visibility xmi:id="_6vonpY6FEeyjgorm8hfSZw" label="-"/>
+      <cardinality xmi:id="_6vonpo6FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+      <type xmi:id="_6vonp46FEeyjgorm8hfSZw" name="Container">
+        <modelElement href="eKewangan%20system.uml#_uiA0MI6FEeyjgorm8hfSZw"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_6vonqI6FEeyjgorm8hfSZw" name="pnl_titleReceipt" staticAttribute="true">
+      <modelElement href="eKewangan%20system.uml#_ukp4gI6FEeyjgorm8hfSZw"/>
+      <stereotypes xmi:id="_6vonqY6FEeyjgorm8hfSZw" name="LegacyStyledElement">
+        <modelElement href="eKewangan%20system.uml#_ukqfkI6FEeyjgorm8hfSZw"/>
+      </stereotypes>
+      <visibility xmi:id="_6vonqo6FEeyjgorm8hfSZw" label="+"/>
+      <cardinality xmi:id="_6vonq46FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+      <type xmi:id="_6vonrI6FEeyjgorm8hfSZw" name="JPanel">
+        <modelElement href="eKewangan%20system.uml#_uiFFoI6FEeyjgorm8hfSZw"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_6vonrY6FEeyjgorm8hfSZw" name="lbl_titleReceipt" staticAttribute="true">
+      <modelElement href="eKewangan%20system.uml#_ukrGoI6FEeyjgorm8hfSZw"/>
+      <stereotypes xmi:id="_6vonro6FEeyjgorm8hfSZw" name="LegacyStyledElement">
+        <modelElement href="eKewangan%20system.uml#_ukrtsI6FEeyjgorm8hfSZw"/>
+      </stereotypes>
+      <visibility xmi:id="_6vonr46FEeyjgorm8hfSZw" label="-"/>
+      <cardinality xmi:id="_6vonsI6FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+      <type xmi:id="_6vonsY6FEeyjgorm8hfSZw" name="JLabel">
+        <modelElement href="eKewangan%20system.uml#_uiHh4I6FEeyjgorm8hfSZw"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_6vonso6FEeyjgorm8hfSZw" name="pnl_2021" staticAttribute="true">
+      <modelElement href="eKewangan%20system.uml#_ukuJ8I6FEeyjgorm8hfSZw"/>
+      <stereotypes xmi:id="_6vons46FEeyjgorm8hfSZw" name="LegacyStyledElement">
+        <modelElement href="eKewangan%20system.uml#_ukuxAI6FEeyjgorm8hfSZw"/>
+      </stereotypes>
+      <visibility xmi:id="_6vontI6FEeyjgorm8hfSZw" label="-"/>
+      <cardinality xmi:id="_6vontY6FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+      <type xmi:id="_6vonto6FEeyjgorm8hfSZw" name="JPanel">
+        <modelElement href="eKewangan%20system.uml#_uiFFoI6FEeyjgorm8hfSZw"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_6vont46FEeyjgorm8hfSZw" name="lbl_2021" staticAttribute="true">
+      <modelElement href="eKewangan%20system.uml#_ukvYEI6FEeyjgorm8hfSZw"/>
+      <stereotypes xmi:id="_6vonuI6FEeyjgorm8hfSZw" name="LegacyStyledElement">
+        <modelElement href="eKewangan%20system.uml#_ukv_II6FEeyjgorm8hfSZw"/>
+      </stereotypes>
+      <visibility xmi:id="_6vonuY6FEeyjgorm8hfSZw" label="-"/>
+      <cardinality xmi:id="_6vonuo6FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+      <type xmi:id="_6vonu46FEeyjgorm8hfSZw" name="JLabel">
+        <modelElement href="eKewangan%20system.uml#_uiHh4I6FEeyjgorm8hfSZw"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_6vonvI6FEeyjgorm8hfSZw" name="sp_2021" staticAttribute="true">
+      <modelElement href="eKewangan%20system.uml#_ukv_IY6FEeyjgorm8hfSZw"/>
+      <stereotypes xmi:id="_6vonvY6FEeyjgorm8hfSZw" name="LegacyStyledElement">
+        <modelElement href="eKewangan%20system.uml#_ukx0UI6FEeyjgorm8hfSZw"/>
+      </stereotypes>
+      <visibility xmi:id="_6vonvo6FEeyjgorm8hfSZw" label="+"/>
+      <cardinality xmi:id="_6vonv46FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+      <type xmi:id="_6vonwI6FEeyjgorm8hfSZw" name="JScrollPane">
+        <modelElement href="eKewangan%20system.uml#_uiUWMI6FEeyjgorm8hfSZw"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_6vonwY6FEeyjgorm8hfSZw" name="tbl_2021" staticAttribute="true">
+      <modelElement href="eKewangan%20system.uml#_ukzpgI6FEeyjgorm8hfSZw"/>
+      <stereotypes xmi:id="_6vonwo6FEeyjgorm8hfSZw" name="LegacyStyledElement">
+        <modelElement href="eKewangan%20system.uml#_uk03oI6FEeyjgorm8hfSZw"/>
+      </stereotypes>
+      <visibility xmi:id="_6vonw46FEeyjgorm8hfSZw" label="-"/>
+      <cardinality xmi:id="_6vonxI6FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+      <type xmi:id="_6vonxY6FEeyjgorm8hfSZw" name="JTable">
+        <modelElement href="eKewangan%20system.uml#_uidgII6FEeyjgorm8hfSZw"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_6vonxo6FEeyjgorm8hfSZw" name="pnl_2020" staticAttribute="true">
+      <modelElement href="eKewangan%20system.uml#_uk1esI6FEeyjgorm8hfSZw"/>
+      <stereotypes xmi:id="_6vonx46FEeyjgorm8hfSZw" name="LegacyStyledElement">
+        <modelElement href="eKewangan%20system.uml#_uk2s0I6FEeyjgorm8hfSZw"/>
+      </stereotypes>
+      <visibility xmi:id="_6vonyI6FEeyjgorm8hfSZw" label="-"/>
+      <cardinality xmi:id="_6vonyY6FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+      <type xmi:id="_6vonyo6FEeyjgorm8hfSZw" name="JPanel">
+        <modelElement href="eKewangan%20system.uml#_uiFFoI6FEeyjgorm8hfSZw"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_6vony46FEeyjgorm8hfSZw" name="lbl_2020" staticAttribute="true">
+      <modelElement href="eKewangan%20system.uml#_uk3T4I6FEeyjgorm8hfSZw"/>
+      <stereotypes xmi:id="_6vonzI6FEeyjgorm8hfSZw" name="LegacyStyledElement">
+        <modelElement href="eKewangan%20system.uml#_uk3T4Y6FEeyjgorm8hfSZw"/>
+      </stereotypes>
+      <visibility xmi:id="_6vonzY6FEeyjgorm8hfSZw" label="-"/>
+      <cardinality xmi:id="_6vonzo6FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+      <type xmi:id="_6vonz46FEeyjgorm8hfSZw" name="JLabel">
+        <modelElement href="eKewangan%20system.uml#_uiHh4I6FEeyjgorm8hfSZw"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_6von0I6FEeyjgorm8hfSZw" name="sp_2020" staticAttribute="true">
+      <modelElement href="eKewangan%20system.uml#_uk368I6FEeyjgorm8hfSZw"/>
+      <stereotypes xmi:id="_6von0Y6FEeyjgorm8hfSZw" name="LegacyStyledElement">
+        <modelElement href="eKewangan%20system.uml#_uk4iAI6FEeyjgorm8hfSZw"/>
+      </stereotypes>
+      <visibility xmi:id="_6von0o6FEeyjgorm8hfSZw" label="-"/>
+      <cardinality xmi:id="_6von046FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+      <type xmi:id="_6von1I6FEeyjgorm8hfSZw" name="JScrollPane">
+        <modelElement href="eKewangan%20system.uml#_uiUWMI6FEeyjgorm8hfSZw"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_6von1Y6FEeyjgorm8hfSZw" name="tbl_2020" staticAttribute="true">
+      <modelElement href="eKewangan%20system.uml#_uk4iAY6FEeyjgorm8hfSZw"/>
+      <stereotypes xmi:id="_6von1o6FEeyjgorm8hfSZw" name="LegacyStyledElement">
+        <modelElement href="eKewangan%20system.uml#_uk5JEI6FEeyjgorm8hfSZw"/>
+      </stereotypes>
+      <visibility xmi:id="_6von146FEeyjgorm8hfSZw" label="-"/>
+      <cardinality xmi:id="_6von2I6FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+      <type xmi:id="_6von2Y6FEeyjgorm8hfSZw" name="JTable">
+        <modelElement href="eKewangan%20system.uml#_uidgII6FEeyjgorm8hfSZw"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_6von2o6FEeyjgorm8hfSZw" name="pnl_backReceipt" staticAttribute="true">
+      <modelElement href="eKewangan%20system.uml#_uk5wII6FEeyjgorm8hfSZw"/>
+      <stereotypes xmi:id="_6von246FEeyjgorm8hfSZw" name="LegacyStyledElement">
+        <modelElement href="eKewangan%20system.uml#_uk5wIY6FEeyjgorm8hfSZw"/>
+      </stereotypes>
+      <visibility xmi:id="_6von3I6FEeyjgorm8hfSZw" label="-"/>
+      <cardinality xmi:id="_6von3Y6FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+      <type xmi:id="_6von3o6FEeyjgorm8hfSZw" name="JPanel">
+        <modelElement href="eKewangan%20system.uml#_uiFFoI6FEeyjgorm8hfSZw"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_6von346FEeyjgorm8hfSZw" name="frame" staticAttribute="true">
+      <modelElement href="eKewangan%20system.uml#_uk6XMI6FEeyjgorm8hfSZw"/>
+      <stereotypes xmi:id="_6von4I6FEeyjgorm8hfSZw" name="LegacyStyledElement">
+        <modelElement href="eKewangan%20system.uml#_uk7lUI6FEeyjgorm8hfSZw"/>
+      </stereotypes>
+      <visibility xmi:id="_6von4Y6FEeyjgorm8hfSZw" label="-"/>
+      <cardinality xmi:id="_6von4o6FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+      <type xmi:id="_6von446FEeyjgorm8hfSZw" name="invoice">
+        <modelElement href="eKewangan%20system.uml#_uNgj0I6FEeyjgorm8hfSZw"/>
+      </type>
+    </attributes>
+    <operations xmi:id="_6von5I6FEeyjgorm8hfSZw" name="invoice">
+      <modelElement href="eKewangan%20system.uml#_uNtYII6FEeyjgorm8hfSZw"/>
+      <keywords xmi:id="_6von5Y6FEeyjgorm8hfSZw" keyword="create"/>
+      <visibility xmi:id="_6von5o6FEeyjgorm8hfSZw" label="+"/>
+      <cardinality xmi:id="_6von546FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_6von6I6FEeyjgorm8hfSZw">
+        <modelElement href="eKewangan%20system.uml#_uNt_MY6FEeyjgorm8hfSZw"/>
+        <type xmi:id="_6von6Y6FEeyjgorm8hfSZw" name="invoice">
+          <modelElement href="eKewangan%20system.uml#_uNgj0I6FEeyjgorm8hfSZw"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_6von6o6FEeyjgorm8hfSZw" name="main" staticOperation="true">
+      <modelElement href="eKewangan%20system.uml#_uNvNUI6FEeyjgorm8hfSZw"/>
+      <visibility xmi:id="_6von646FEeyjgorm8hfSZw" label="+"/>
+      <cardinality xmi:id="_6von7I6FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+      <parameters xmi:id="_6von7Y6FEeyjgorm8hfSZw" name="args">
+        <modelElement href="eKewangan%20system.uml#_uNvNUY6FEeyjgorm8hfSZw"/>
+        <cardinality xmi:id="_6von7o6FEeyjgorm8hfSZw" label="1..*" max="-1" min="1"/>
+        <type xmi:id="_6von746FEeyjgorm8hfSZw" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_6ws-oI6FEeyjgorm8hfSZw" name="controller" associationsIn="_6nxFEI6FEeyjgorm8hfSZw _6wgxYI6FEeyjgorm8hfSZw" associationsOut="_6roRYI6FEeyjgorm8hfSZw">
+    <modelElement href="eKewangan%20system.uml#_uMugsI6FEeyjgorm8hfSZw"/>
+    <visualProperties xmi:id="_6ws-oY6FEeyjgorm8hfSZw" position="702.0,-171.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_6ws-oo6FEeyjgorm8hfSZw" label="+"/>
+    <attributes xmi:id="_6ws-o46FEeyjgorm8hfSZw" defaultValue="new database()" name="db">
+      <modelElement href="eKewangan%20system.uml#_ukA_UI6FEeyjgorm8hfSZw"/>
+      <visibility xmi:id="_6ws-pI6FEeyjgorm8hfSZw" label="~"/>
+      <cardinality xmi:id="_6ws-pY6FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+      <type xmi:id="_6ws-po6FEeyjgorm8hfSZw" name="database">
+        <modelElement href="eKewangan%20system.uml#_uNHiQI6FEeyjgorm8hfSZw"/>
+      </type>
+    </attributes>
+    <operations xmi:id="_6ws-p46FEeyjgorm8hfSZw" name="getInvoiceNo">
+      <modelElement href="eKewangan%20system.uml#_uM6G4I6FEeyjgorm8hfSZw"/>
+      <stereotypes xmi:id="_6ws-qI6FEeyjgorm8hfSZw" name="Array">
+        <modelElement href="eKewangan%20system.uml#_uM9KMI6FEeyjgorm8hfSZw"/>
+      </stereotypes>
+      <visibility xmi:id="_6ws-qY6FEeyjgorm8hfSZw" label="~"/>
+      <cardinality xmi:id="_6ws-qo6FEeyjgorm8hfSZw" label="1..*" max="-1" min="1"/>
+      <outParameters xmi:id="_6ws-q46FEeyjgorm8hfSZw">
+        <modelElement href="eKewangan%20system.uml#_uM8jII6FEeyjgorm8hfSZw"/>
+        <type xmi:id="_6ws-rI6FEeyjgorm8hfSZw" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_6ws-rY6FEeyjgorm8hfSZw" name="getAmount">
+      <modelElement href="eKewangan%20system.uml#_uNANgI6FEeyjgorm8hfSZw"/>
+      <visibility xmi:id="_6ws-ro6FEeyjgorm8hfSZw" label="~"/>
+      <cardinality xmi:id="_6ws-r46FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_6ws-sI6FEeyjgorm8hfSZw">
+        <modelElement href="eKewangan%20system.uml#_uNA0kI6FEeyjgorm8hfSZw"/>
+        <type xmi:id="_6ws-sY6FEeyjgorm8hfSZw" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_6ws-so6FEeyjgorm8hfSZw" name="selectedIndex">
+        <modelElement href="eKewangan%20system.uml#_uNANgY6FEeyjgorm8hfSZw"/>
+        <cardinality xmi:id="_6ws-s46FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+        <type xmi:id="_6ws-tI6FEeyjgorm8hfSZw" name="int">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_6ws-tY6FEeyjgorm8hfSZw" name="getLogin">
+      <modelElement href="eKewangan%20system.uml#_ugDFUI6FEeyjgorm8hfSZw"/>
+      <visibility xmi:id="_6ws-to6FEeyjgorm8hfSZw" label="~"/>
+      <cardinality xmi:id="_6ws-t46FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+      <parameters xmi:id="_6ws-uI6FEeyjgorm8hfSZw" name="login">
+        <modelElement href="eKewangan%20system.uml#_ugDFUY6FEeyjgorm8hfSZw"/>
+        <cardinality xmi:id="_6ws-uY6FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+        <type xmi:id="_6ws-uo6FEeyjgorm8hfSZw" name="login">
+          <modelElement href="eKewangan%20system.uml#_uOOVgI6FEeyjgorm8hfSZw"/>
+        </type>
+      </parameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_6x54gI6FEeyjgorm8hfSZw" name="receipt" associationsIn="_6xFZII6FEeyjgorm8hfSZw" associationsOut="_6xFZII6FEeyjgorm8hfSZw _6xFZIY6FEeyjgorm8hfSZw _6xGAMI6FEeyjgorm8hfSZw _6xGAMY6FEeyjgorm8hfSZw _6xGAMo6FEeyjgorm8hfSZw _6xGAM46FEeyjgorm8hfSZw _6xGnQI6FEeyjgorm8hfSZw _6xGnQY6FEeyjgorm8hfSZw _6xHOUI6FEeyjgorm8hfSZw _6xHOUY6FEeyjgorm8hfSZw _6xH1YI6FEeyjgorm8hfSZw _6xH1YY6FEeyjgorm8hfSZw _6xJqkI6FEeyjgorm8hfSZw">
+    <modelElement href="eKewangan%20system.uml#_uP_QEI6FEeyjgorm8hfSZw"/>
+    <visualProperties xmi:id="_6x54gY6FEeyjgorm8hfSZw" position="1175.0,365.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_6x54go6FEeyjgorm8hfSZw" label="+"/>
+    <attributes xmi:id="_6x54g46FEeyjgorm8hfSZw" name="pane" staticAttribute="true">
+      <modelElement href="eKewangan%20system.uml#_umQbAI6FEeyjgorm8hfSZw"/>
+      <stereotypes xmi:id="_6x54hI6FEeyjgorm8hfSZw" name="LegacyStyledElement">
+        <modelElement href="eKewangan%20system.uml#_umRpII6FEeyjgorm8hfSZw"/>
+      </stereotypes>
+      <visibility xmi:id="_6x54hY6FEeyjgorm8hfSZw" label="-"/>
+      <cardinality xmi:id="_6x54ho6FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+      <type xmi:id="_6x54h46FEeyjgorm8hfSZw" name="Container">
+        <modelElement href="eKewangan%20system.uml#_uiA0MI6FEeyjgorm8hfSZw"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_6x54iI6FEeyjgorm8hfSZw" name="pnl_titleReceipt" staticAttribute="true">
+      <modelElement href="eKewangan%20system.uml#_umRpIY6FEeyjgorm8hfSZw"/>
+      <stereotypes xmi:id="_6x54iY6FEeyjgorm8hfSZw" name="LegacyStyledElement">
+        <modelElement href="eKewangan%20system.uml#_umS3QI6FEeyjgorm8hfSZw"/>
+      </stereotypes>
+      <visibility xmi:id="_6x54io6FEeyjgorm8hfSZw" label="+"/>
+      <cardinality xmi:id="_6x54i46FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+      <type xmi:id="_6x54jI6FEeyjgorm8hfSZw" name="JPanel">
+        <modelElement href="eKewangan%20system.uml#_uiFFoI6FEeyjgorm8hfSZw"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_6x54jY6FEeyjgorm8hfSZw" name="lbl_titleReceipt" staticAttribute="true">
+      <modelElement href="eKewangan%20system.uml#_umTeUI6FEeyjgorm8hfSZw"/>
+      <stereotypes xmi:id="_6x54jo6FEeyjgorm8hfSZw" name="LegacyStyledElement">
+        <modelElement href="eKewangan%20system.uml#_umUscI6FEeyjgorm8hfSZw"/>
+      </stereotypes>
+      <visibility xmi:id="_6x54j46FEeyjgorm8hfSZw" label="-"/>
+      <cardinality xmi:id="_6x54kI6FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+      <type xmi:id="_6x54kY6FEeyjgorm8hfSZw" name="JLabel">
+        <modelElement href="eKewangan%20system.uml#_uiHh4I6FEeyjgorm8hfSZw"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_6x54ko6FEeyjgorm8hfSZw" name="pnl_2021" staticAttribute="true">
+      <modelElement href="eKewangan%20system.uml#_umUscY6FEeyjgorm8hfSZw"/>
+      <stereotypes xmi:id="_6x54k46FEeyjgorm8hfSZw" name="LegacyStyledElement">
+        <modelElement href="eKewangan%20system.uml#_umV6kI6FEeyjgorm8hfSZw"/>
+      </stereotypes>
+      <visibility xmi:id="_6x54lI6FEeyjgorm8hfSZw" label="-"/>
+      <cardinality xmi:id="_6x54lY6FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+      <type xmi:id="_6x6fkI6FEeyjgorm8hfSZw" name="JPanel">
+        <modelElement href="eKewangan%20system.uml#_uiFFoI6FEeyjgorm8hfSZw"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_6x6fkY6FEeyjgorm8hfSZw" name="lbl_2021" staticAttribute="true">
+      <modelElement href="eKewangan%20system.uml#_umV6kY6FEeyjgorm8hfSZw"/>
+      <stereotypes xmi:id="_6x6fko6FEeyjgorm8hfSZw" name="LegacyStyledElement">
+        <modelElement href="eKewangan%20system.uml#_umXvwI6FEeyjgorm8hfSZw"/>
+      </stereotypes>
+      <visibility xmi:id="_6x6fk46FEeyjgorm8hfSZw" label="-"/>
+      <cardinality xmi:id="_6x6flI6FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+      <type xmi:id="_6x6flY6FEeyjgorm8hfSZw" name="JLabel">
+        <modelElement href="eKewangan%20system.uml#_uiHh4I6FEeyjgorm8hfSZw"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_6x6flo6FEeyjgorm8hfSZw" name="sp_2021" staticAttribute="true">
+      <modelElement href="eKewangan%20system.uml#_umY94I6FEeyjgorm8hfSZw"/>
+      <stereotypes xmi:id="_6x6fl46FEeyjgorm8hfSZw" name="LegacyStyledElement">
+        <modelElement href="eKewangan%20system.uml#_umY94Y6FEeyjgorm8hfSZw"/>
+      </stereotypes>
+      <visibility xmi:id="_6x6fmI6FEeyjgorm8hfSZw" label="+"/>
+      <cardinality xmi:id="_6x6fmY6FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+      <type xmi:id="_6x6fmo6FEeyjgorm8hfSZw" name="JScrollPane">
+        <modelElement href="eKewangan%20system.uml#_uiUWMI6FEeyjgorm8hfSZw"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_6x6fm46FEeyjgorm8hfSZw" name="tbl_2021" staticAttribute="true">
+      <modelElement href="eKewangan%20system.uml#_umaMAI6FEeyjgorm8hfSZw"/>
+      <stereotypes xmi:id="_6x6fnI6FEeyjgorm8hfSZw" name="LegacyStyledElement">
+        <modelElement href="eKewangan%20system.uml#_umazEI6FEeyjgorm8hfSZw"/>
+      </stereotypes>
+      <visibility xmi:id="_6x6fnY6FEeyjgorm8hfSZw" label="-"/>
+      <cardinality xmi:id="_6x6fno6FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+      <type xmi:id="_6x6fn46FEeyjgorm8hfSZw" name="JTable">
+        <modelElement href="eKewangan%20system.uml#_uidgII6FEeyjgorm8hfSZw"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_6x6foI6FEeyjgorm8hfSZw" name="pnl_2020" staticAttribute="true">
+      <modelElement href="eKewangan%20system.uml#_umbaII6FEeyjgorm8hfSZw"/>
+      <stereotypes xmi:id="_6x6foY6FEeyjgorm8hfSZw" name="LegacyStyledElement">
+        <modelElement href="eKewangan%20system.uml#_umbaIY6FEeyjgorm8hfSZw"/>
+      </stereotypes>
+      <visibility xmi:id="_6x6foo6FEeyjgorm8hfSZw" label="-"/>
+      <cardinality xmi:id="_6x6fo46FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+      <type xmi:id="_6x6fpI6FEeyjgorm8hfSZw" name="JPanel">
+        <modelElement href="eKewangan%20system.uml#_uiFFoI6FEeyjgorm8hfSZw"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_6x6fpY6FEeyjgorm8hfSZw" name="lbl_2020" staticAttribute="true">
+      <modelElement href="eKewangan%20system.uml#_umcBMI6FEeyjgorm8hfSZw"/>
+      <stereotypes xmi:id="_6x6fpo6FEeyjgorm8hfSZw" name="LegacyStyledElement">
+        <modelElement href="eKewangan%20system.uml#_umcoQI6FEeyjgorm8hfSZw"/>
+      </stereotypes>
+      <visibility xmi:id="_6x6fp46FEeyjgorm8hfSZw" label="-"/>
+      <cardinality xmi:id="_6x6fqI6FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+      <type xmi:id="_6x6fqY6FEeyjgorm8hfSZw" name="JLabel">
+        <modelElement href="eKewangan%20system.uml#_uiHh4I6FEeyjgorm8hfSZw"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_6x6fqo6FEeyjgorm8hfSZw" name="sp_2020" staticAttribute="true">
+      <modelElement href="eKewangan%20system.uml#_umdPUI6FEeyjgorm8hfSZw"/>
+      <stereotypes xmi:id="_6x6fq46FEeyjgorm8hfSZw" name="LegacyStyledElement">
+        <modelElement href="eKewangan%20system.uml#_umd2YI6FEeyjgorm8hfSZw"/>
+      </stereotypes>
+      <visibility xmi:id="_6x6frI6FEeyjgorm8hfSZw" label="-"/>
+      <cardinality xmi:id="_6x6frY6FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+      <type xmi:id="_6x6fro6FEeyjgorm8hfSZw" name="JScrollPane">
+        <modelElement href="eKewangan%20system.uml#_uiUWMI6FEeyjgorm8hfSZw"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_6x6fr46FEeyjgorm8hfSZw" name="tbl_2020" staticAttribute="true">
+      <modelElement href="eKewangan%20system.uml#_umfEgI6FEeyjgorm8hfSZw"/>
+      <stereotypes xmi:id="_6x6fsI6FEeyjgorm8hfSZw" name="LegacyStyledElement">
+        <modelElement href="eKewangan%20system.uml#_umfrkI6FEeyjgorm8hfSZw"/>
+      </stereotypes>
+      <visibility xmi:id="_6x6fsY6FEeyjgorm8hfSZw" label="-"/>
+      <cardinality xmi:id="_6x6fso6FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+      <type xmi:id="_6x6fs46FEeyjgorm8hfSZw" name="JTable">
+        <modelElement href="eKewangan%20system.uml#_uidgII6FEeyjgorm8hfSZw"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_6x6ftI6FEeyjgorm8hfSZw" name="pnl_backReceipt" staticAttribute="true">
+      <modelElement href="eKewangan%20system.uml#_umfrkY6FEeyjgorm8hfSZw"/>
+      <stereotypes xmi:id="_6x6ftY6FEeyjgorm8hfSZw" name="LegacyStyledElement">
+        <modelElement href="eKewangan%20system.uml#_umhgwI6FEeyjgorm8hfSZw"/>
+      </stereotypes>
+      <visibility xmi:id="_6x6fto6FEeyjgorm8hfSZw" label="-"/>
+      <cardinality xmi:id="_6x6ft46FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+      <type xmi:id="_6x6fuI6FEeyjgorm8hfSZw" name="JPanel">
+        <modelElement href="eKewangan%20system.uml#_uiFFoI6FEeyjgorm8hfSZw"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_6x6fuY6FEeyjgorm8hfSZw" name="frame" staticAttribute="true">
+      <modelElement href="eKewangan%20system.uml#_umhgwY6FEeyjgorm8hfSZw"/>
+      <stereotypes xmi:id="_6x6fuo6FEeyjgorm8hfSZw" name="LegacyStyledElement">
+        <modelElement href="eKewangan%20system.uml#_umiH0I6FEeyjgorm8hfSZw"/>
+      </stereotypes>
+      <visibility xmi:id="_6x6fu46FEeyjgorm8hfSZw" label="-"/>
+      <cardinality xmi:id="_6x6fvI6FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+      <type xmi:id="_6x6fvY6FEeyjgorm8hfSZw" name="receipt">
+        <modelElement href="eKewangan%20system.uml#_uP_QEI6FEeyjgorm8hfSZw"/>
+      </type>
+    </attributes>
+    <operations xmi:id="_6x6fvo6FEeyjgorm8hfSZw" name="receipt">
+      <modelElement href="eKewangan%20system.uml#_uQC6cI6FEeyjgorm8hfSZw"/>
+      <keywords xmi:id="_6x6fv46FEeyjgorm8hfSZw" keyword="create"/>
+      <visibility xmi:id="_6x6fwI6FEeyjgorm8hfSZw" label="+"/>
+      <cardinality xmi:id="_6x6fwY6FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_6x6fwo6FEeyjgorm8hfSZw">
+        <modelElement href="eKewangan%20system.uml#_uQDhgY6FEeyjgorm8hfSZw"/>
+        <type xmi:id="_6x6fw46FEeyjgorm8hfSZw" name="receipt">
+          <modelElement href="eKewangan%20system.uml#_uP_QEI6FEeyjgorm8hfSZw"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_6x6fxI6FEeyjgorm8hfSZw" name="main" staticOperation="true">
+      <modelElement href="eKewangan%20system.uml#_uQEIkI6FEeyjgorm8hfSZw"/>
+      <visibility xmi:id="_6x6fxY6FEeyjgorm8hfSZw" label="+"/>
+      <cardinality xmi:id="_6x6fxo6FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+      <parameters xmi:id="_6x6fx46FEeyjgorm8hfSZw" name="args">
+        <modelElement href="eKewangan%20system.uml#_uQEIkY6FEeyjgorm8hfSZw"/>
+        <cardinality xmi:id="_6x6fyI6FEeyjgorm8hfSZw" label="1..*" max="-1" min="1"/>
+        <type xmi:id="_6x6fyY6FEeyjgorm8hfSZw" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_6zDIAI6FEeyjgorm8hfSZw" name="login" associationsIn="_6ynqMI6FEeyjgorm8hfSZw _6sB6AI6FEeyjgorm8hfSZw" associationsOut="_6ynqMI6FEeyjgorm8hfSZw _6wgxYI6FEeyjgorm8hfSZw _6ypfYI6FEeyjgorm8hfSZw _6yqtgI6FEeyjgorm8hfSZw _6yqtgY6FEeyjgorm8hfSZw _6yqtgo6FEeyjgorm8hfSZw _6yrUkI6FEeyjgorm8hfSZw _6yrUkY6FEeyjgorm8hfSZw _6zBS0I6FEeyjgorm8hfSZw">
+    <modelElement href="eKewangan%20system.uml#_uOOVgI6FEeyjgorm8hfSZw"/>
+    <visualProperties xmi:id="_6zDIAY6FEeyjgorm8hfSZw" position="1440.0,26.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_6zDIAo6FEeyjgorm8hfSZw" label="+"/>
+    <attributes xmi:id="_6zDIA46FEeyjgorm8hfSZw" name="userLabel" staticAttribute="true">
+      <modelElement href="eKewangan%20system.uml#_uk8zcI6FEeyjgorm8hfSZw"/>
+      <stereotypes xmi:id="_6zDIBI6FEeyjgorm8hfSZw" name="LegacyStyledElement">
+        <modelElement href="eKewangan%20system.uml#_uk9agI6FEeyjgorm8hfSZw"/>
+      </stereotypes>
+      <visibility xmi:id="_6zDIBY6FEeyjgorm8hfSZw" label="-"/>
+      <cardinality xmi:id="_6zDIBo6FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+      <type xmi:id="_6zDIB46FEeyjgorm8hfSZw" name="JLabel">
+        <modelElement href="eKewangan%20system.uml#_uiHh4I6FEeyjgorm8hfSZw"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_6zDICI6FEeyjgorm8hfSZw" name="userText" staticAttribute="true">
+      <modelElement href="eKewangan%20system.uml#_uk9agY6FEeyjgorm8hfSZw"/>
+      <stereotypes xmi:id="_6zDICY6FEeyjgorm8hfSZw" name="LegacyStyledElement">
+        <modelElement href="eKewangan%20system.uml#_uk-BkI6FEeyjgorm8hfSZw"/>
+      </stereotypes>
+      <visibility xmi:id="_6zDICo6FEeyjgorm8hfSZw" label="~"/>
+      <cardinality xmi:id="_6zDIC46FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+      <type xmi:id="_6zDIDI6FEeyjgorm8hfSZw" name="JTextField">
+        <modelElement href="eKewangan%20system.uml#_ui4W4I6FEeyjgorm8hfSZw"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_6zDIDY6FEeyjgorm8hfSZw" name="passwordLabel" staticAttribute="true">
+      <modelElement href="eKewangan%20system.uml#_uk-ooI6FEeyjgorm8hfSZw"/>
+      <stereotypes xmi:id="_6zDIDo6FEeyjgorm8hfSZw" name="LegacyStyledElement">
+        <modelElement href="eKewangan%20system.uml#_uk-ooY6FEeyjgorm8hfSZw"/>
+      </stereotypes>
+      <visibility xmi:id="_6zDID46FEeyjgorm8hfSZw" label="-"/>
+      <cardinality xmi:id="_6zDIEI6FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+      <type xmi:id="_6zDIEY6FEeyjgorm8hfSZw" name="JLabel">
+        <modelElement href="eKewangan%20system.uml#_uiHh4I6FEeyjgorm8hfSZw"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_6zDIEo6FEeyjgorm8hfSZw" name="passwordText" staticAttribute="true">
+      <modelElement href="eKewangan%20system.uml#_uk_PsI6FEeyjgorm8hfSZw"/>
+      <stereotypes xmi:id="_6zDIE46FEeyjgorm8hfSZw" name="LegacyStyledElement">
+        <modelElement href="eKewangan%20system.uml#_uk_2wI6FEeyjgorm8hfSZw"/>
+      </stereotypes>
+      <visibility xmi:id="_6zDIFI6FEeyjgorm8hfSZw" label="~"/>
+      <cardinality xmi:id="_6zDIFY6FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+      <type xmi:id="_6zDIFo6FEeyjgorm8hfSZw" name="JPasswordField">
+        <modelElement href="eKewangan%20system.uml#_ui8BQI6FEeyjgorm8hfSZw"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_6zDIF46FEeyjgorm8hfSZw" name="success" staticAttribute="true">
+      <modelElement href="eKewangan%20system.uml#_uk_2wY6FEeyjgorm8hfSZw"/>
+      <stereotypes xmi:id="_6zDIGI6FEeyjgorm8hfSZw" name="LegacyStyledElement">
+        <modelElement href="eKewangan%20system.uml#_ulAd0I6FEeyjgorm8hfSZw"/>
+      </stereotypes>
+      <visibility xmi:id="_6zDIGY6FEeyjgorm8hfSZw" label="~"/>
+      <cardinality xmi:id="_6zDIGo6FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+      <type xmi:id="_6zDIG46FEeyjgorm8hfSZw" name="JLabel">
+        <modelElement href="eKewangan%20system.uml#_uiHh4I6FEeyjgorm8hfSZw"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_6zDIHI6FEeyjgorm8hfSZw" name="panel" staticAttribute="true">
+      <modelElement href="eKewangan%20system.uml#_ulAd0Y6FEeyjgorm8hfSZw"/>
+      <stereotypes xmi:id="_6zDIHY6FEeyjgorm8hfSZw" name="LegacyStyledElement">
+        <modelElement href="eKewangan%20system.uml#_ulBr8I6FEeyjgorm8hfSZw"/>
+      </stereotypes>
+      <visibility xmi:id="_6zDIHo6FEeyjgorm8hfSZw" label="-"/>
+      <cardinality xmi:id="_6zDIH46FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+      <type xmi:id="_6zDIII6FEeyjgorm8hfSZw" name="Container">
+        <modelElement href="eKewangan%20system.uml#_uiA0MI6FEeyjgorm8hfSZw"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_6zDIIY6FEeyjgorm8hfSZw" name="pic_ukmpics" staticAttribute="true">
+      <modelElement href="eKewangan%20system.uml#_ulCTAI6FEeyjgorm8hfSZw"/>
+      <stereotypes xmi:id="_6zDIIo6FEeyjgorm8hfSZw" name="LegacyStyledElement">
+        <modelElement href="eKewangan%20system.uml#_ulC6EI6FEeyjgorm8hfSZw"/>
+      </stereotypes>
+      <visibility xmi:id="_6zDII46FEeyjgorm8hfSZw" label="+"/>
+      <cardinality xmi:id="_6zDIJI6FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+      <type xmi:id="_6zDIJY6FEeyjgorm8hfSZw" name="JLabel">
+        <modelElement href="eKewangan%20system.uml#_uiHh4I6FEeyjgorm8hfSZw"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_6zDIJo6FEeyjgorm8hfSZw" name="frame" staticAttribute="true">
+      <modelElement href="eKewangan%20system.uml#_ulPuYI6FEeyjgorm8hfSZw"/>
+      <stereotypes xmi:id="_6zDIJ46FEeyjgorm8hfSZw" name="LegacyStyledElement">
+        <modelElement href="eKewangan%20system.uml#_ulQVcI6FEeyjgorm8hfSZw"/>
+      </stereotypes>
+      <visibility xmi:id="_6zDIKI6FEeyjgorm8hfSZw" label="-"/>
+      <cardinality xmi:id="_6zDIKY6FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+      <type xmi:id="_6zDIKo6FEeyjgorm8hfSZw" name="login">
+        <modelElement href="eKewangan%20system.uml#_uOOVgI6FEeyjgorm8hfSZw"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_6zDIK46FEeyjgorm8hfSZw" defaultValue="new controller()" name="controller" staticAttribute="true">
+      <modelElement href="eKewangan%20system.uml#_ulQ8gI6FEeyjgorm8hfSZw"/>
+      <visibility xmi:id="_6zDILI6FEeyjgorm8hfSZw" label="-"/>
+      <cardinality xmi:id="_6zDILY6FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+      <type xmi:id="_6zDILo6FEeyjgorm8hfSZw" name="controller">
+        <modelElement href="eKewangan%20system.uml#_uMugsI6FEeyjgorm8hfSZw"/>
+      </type>
+    </attributes>
+    <operations xmi:id="_6zDIL46FEeyjgorm8hfSZw" name="login">
+      <modelElement href="eKewangan%20system.uml#_uOhQcI6FEeyjgorm8hfSZw"/>
+      <keywords xmi:id="_6zDIMI6FEeyjgorm8hfSZw" keyword="create"/>
+      <visibility xmi:id="_6zDIMY6FEeyjgorm8hfSZw" label="+"/>
+      <cardinality xmi:id="_6zDIMo6FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_6zDIM46FEeyjgorm8hfSZw">
+        <modelElement href="eKewangan%20system.uml#_uOh3go6FEeyjgorm8hfSZw"/>
+        <type xmi:id="_6zDINI6FEeyjgorm8hfSZw" name="login">
+          <modelElement href="eKewangan%20system.uml#_uOOVgI6FEeyjgorm8hfSZw"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_6zDINY6FEeyjgorm8hfSZw" name="main" staticOperation="true">
+      <modelElement href="eKewangan%20system.uml#_uOmI8I6FEeyjgorm8hfSZw"/>
+      <visibility xmi:id="_6zDINo6FEeyjgorm8hfSZw" label="+"/>
+      <cardinality xmi:id="_6zDIN46FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+      <parameters xmi:id="_6zDIOI6FEeyjgorm8hfSZw" name="args">
+        <modelElement href="eKewangan%20system.uml#_uOmwAI6FEeyjgorm8hfSZw"/>
+        <cardinality xmi:id="_6zDIOY6FEeyjgorm8hfSZw" label="1..*" max="-1" min="1"/>
+        <type xmi:id="_6zDIOo6FEeyjgorm8hfSZw" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_6zDIO46FEeyjgorm8hfSZw" name="actionPerformed">
+      <modelElement href="eKewangan%20system.uml#_ui_EkI6FEeyjgorm8hfSZw"/>
+      <visibility xmi:id="_6zDvEI6FEeyjgorm8hfSZw" label="+"/>
+      <cardinality xmi:id="_6zDvEY6FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+      <parameters xmi:id="_6zDvEo6FEeyjgorm8hfSZw" name="e">
+        <modelElement href="eKewangan%20system.uml#_ui_EkY6FEeyjgorm8hfSZw"/>
+        <cardinality xmi:id="_6zDvE46FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+        <type xmi:id="_6zDvFI6FEeyjgorm8hfSZw" name="ActionEvent">
+          <modelElement href="eKewangan%20system.uml#_ugH90I6FEeyjgorm8hfSZw"/>
+        </type>
+      </parameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_60ItII6FEeyjgorm8hfSZw" name="voucher" associationsIn="_6zvrkI6FEeyjgorm8hfSZw" associationsOut="_6zvrkI6FEeyjgorm8hfSZw _6zw5sI6FEeyjgorm8hfSZw _6zw5sY6FEeyjgorm8hfSZw _6zw5so6FEeyjgorm8hfSZw _6zxgwI6FEeyjgorm8hfSZw _6zxgwY6FEeyjgorm8hfSZw _6zxgwo6FEeyjgorm8hfSZw _6zxgw46FEeyjgorm8hfSZw">
+    <modelElement href="eKewangan%20system.uml#_uQlF8I6FEeyjgorm8hfSZw"/>
+    <visualProperties xmi:id="_60ItIY6FEeyjgorm8hfSZw" position="773.0,115.0" size="-1.0,-1.0"/>
+    <visibility xmi:id="_60ItIo6FEeyjgorm8hfSZw" label="+"/>
+    <attributes xmi:id="_60ItI46FEeyjgorm8hfSZw" name="pane" staticAttribute="true">
+      <modelElement href="eKewangan%20system.uml#_umj9AI6FEeyjgorm8hfSZw"/>
+      <stereotypes xmi:id="_60ItJI6FEeyjgorm8hfSZw" name="LegacyStyledElement">
+        <modelElement href="eKewangan%20system.uml#_umkkEI6FEeyjgorm8hfSZw"/>
+      </stereotypes>
+      <visibility xmi:id="_60ItJY6FEeyjgorm8hfSZw" label="-"/>
+      <cardinality xmi:id="_60ItJo6FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+      <type xmi:id="_60ItJ46FEeyjgorm8hfSZw" name="Container">
+        <modelElement href="eKewangan%20system.uml#_uiA0MI6FEeyjgorm8hfSZw"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_60ItKI6FEeyjgorm8hfSZw" name="pnl_titleVoucher" staticAttribute="true">
+      <modelElement href="eKewangan%20system.uml#_umlLII6FEeyjgorm8hfSZw"/>
+      <stereotypes xmi:id="_60ItKY6FEeyjgorm8hfSZw" name="LegacyStyledElement">
+        <modelElement href="eKewangan%20system.uml#_umlLIY6FEeyjgorm8hfSZw"/>
+      </stereotypes>
+      <visibility xmi:id="_60ItKo6FEeyjgorm8hfSZw" label="+"/>
+      <cardinality xmi:id="_60ItK46FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+      <type xmi:id="_60ItLI6FEeyjgorm8hfSZw" name="JPanel">
+        <modelElement href="eKewangan%20system.uml#_uiFFoI6FEeyjgorm8hfSZw"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_60ItLY6FEeyjgorm8hfSZw" name="lbl_titleVoucher" staticAttribute="true">
+      <modelElement href="eKewangan%20system.uml#_umlyMI6FEeyjgorm8hfSZw"/>
+      <stereotypes xmi:id="_60ItLo6FEeyjgorm8hfSZw" name="LegacyStyledElement">
+        <modelElement href="eKewangan%20system.uml#_umnAUI6FEeyjgorm8hfSZw"/>
+      </stereotypes>
+      <visibility xmi:id="_60ItL46FEeyjgorm8hfSZw" label="-"/>
+      <cardinality xmi:id="_60ItMI6FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+      <type xmi:id="_60ItMY6FEeyjgorm8hfSZw" name="JLabel">
+        <modelElement href="eKewangan%20system.uml#_uiHh4I6FEeyjgorm8hfSZw"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_60ItMo6FEeyjgorm8hfSZw" name="pnl_allvoucher" staticAttribute="true">
+      <modelElement href="eKewangan%20system.uml#_umnnYI6FEeyjgorm8hfSZw"/>
+      <stereotypes xmi:id="_60ItM46FEeyjgorm8hfSZw" name="LegacyStyledElement">
+        <modelElement href="eKewangan%20system.uml#_umoOcI6FEeyjgorm8hfSZw"/>
+      </stereotypes>
+      <visibility xmi:id="_60ItNI6FEeyjgorm8hfSZw" label="-"/>
+      <cardinality xmi:id="_60ItNY6FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+      <type xmi:id="_60ItNo6FEeyjgorm8hfSZw" name="JPanel">
+        <modelElement href="eKewangan%20system.uml#_uiFFoI6FEeyjgorm8hfSZw"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_60ItN46FEeyjgorm8hfSZw" name="sp_allvoucher" staticAttribute="true">
+      <modelElement href="eKewangan%20system.uml#_umoOcY6FEeyjgorm8hfSZw"/>
+      <stereotypes xmi:id="_60ItOI6FEeyjgorm8hfSZw" name="LegacyStyledElement">
+        <modelElement href="eKewangan%20system.uml#_umo1gI6FEeyjgorm8hfSZw"/>
+      </stereotypes>
+      <visibility xmi:id="_60ItOY6FEeyjgorm8hfSZw" label="-"/>
+      <cardinality xmi:id="_60ItOo6FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+      <type xmi:id="_60ItO46FEeyjgorm8hfSZw" name="JScrollPane">
+        <modelElement href="eKewangan%20system.uml#_uiUWMI6FEeyjgorm8hfSZw"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_60ItPI6FEeyjgorm8hfSZw" name="tbl_allvoucher" staticAttribute="true">
+      <modelElement href="eKewangan%20system.uml#_umo1gY6FEeyjgorm8hfSZw"/>
+      <stereotypes xmi:id="_60ItPY6FEeyjgorm8hfSZw" name="LegacyStyledElement">
+        <modelElement href="eKewangan%20system.uml#_umpckI6FEeyjgorm8hfSZw"/>
+      </stereotypes>
+      <visibility xmi:id="_60ItPo6FEeyjgorm8hfSZw" label="+"/>
+      <cardinality xmi:id="_60ItP46FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+      <type xmi:id="_60ItQI6FEeyjgorm8hfSZw" name="JTable">
+        <modelElement href="eKewangan%20system.uml#_uidgII6FEeyjgorm8hfSZw"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_60ItQY6FEeyjgorm8hfSZw" name="pnl_backVoucher" staticAttribute="true">
+      <modelElement href="eKewangan%20system.uml#_umqDoI6FEeyjgorm8hfSZw"/>
+      <stereotypes xmi:id="_60ItQo6FEeyjgorm8hfSZw" name="LegacyStyledElement">
+        <modelElement href="eKewangan%20system.uml#_umqqsI6FEeyjgorm8hfSZw"/>
+      </stereotypes>
+      <visibility xmi:id="_60ItQ46FEeyjgorm8hfSZw" label="-"/>
+      <cardinality xmi:id="_60ItRI6FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+      <type xmi:id="_60ItRY6FEeyjgorm8hfSZw" name="JPanel">
+        <modelElement href="eKewangan%20system.uml#_uiFFoI6FEeyjgorm8hfSZw"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_60ItRo6FEeyjgorm8hfSZw" name="frame" staticAttribute="true">
+      <modelElement href="eKewangan%20system.uml#_umqqsY6FEeyjgorm8hfSZw"/>
+      <stereotypes xmi:id="_60ItR46FEeyjgorm8hfSZw" name="LegacyStyledElement">
+        <modelElement href="eKewangan%20system.uml#_umrRwI6FEeyjgorm8hfSZw"/>
+      </stereotypes>
+      <visibility xmi:id="_60ItSI6FEeyjgorm8hfSZw" label="-"/>
+      <cardinality xmi:id="_60ItSY6FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+      <type xmi:id="_60ItSo6FEeyjgorm8hfSZw" name="voucher">
+        <modelElement href="eKewangan%20system.uml#_uQlF8I6FEeyjgorm8hfSZw"/>
+      </type>
+    </attributes>
+    <operations xmi:id="_60ItS46FEeyjgorm8hfSZw" name="voucher">
+      <modelElement href="eKewangan%20system.uml#_uQowUI6FEeyjgorm8hfSZw"/>
+      <keywords xmi:id="_60ItTI6FEeyjgorm8hfSZw" keyword="create"/>
+      <visibility xmi:id="_60ItTY6FEeyjgorm8hfSZw" label="+"/>
+      <cardinality xmi:id="_60ItTo6FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_60ItT46FEeyjgorm8hfSZw">
+        <modelElement href="eKewangan%20system.uml#_uQpXYo6FEeyjgorm8hfSZw"/>
+        <type xmi:id="_60ItUI6FEeyjgorm8hfSZw" name="voucher">
+          <modelElement href="eKewangan%20system.uml#_uQlF8I6FEeyjgorm8hfSZw"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_60ItUY6FEeyjgorm8hfSZw" name="main" staticOperation="true">
+      <modelElement href="eKewangan%20system.uml#_uQp-cI6FEeyjgorm8hfSZw"/>
+      <visibility xmi:id="_60ItUo6FEeyjgorm8hfSZw" label="+"/>
+      <cardinality xmi:id="_60ItU46FEeyjgorm8hfSZw" label="1" max="1" min="1"/>
+      <parameters xmi:id="_60ItVI6FEeyjgorm8hfSZw" name="args">
+        <modelElement href="eKewangan%20system.uml#_uQqlgI6FEeyjgorm8hfSZw"/>
+        <cardinality xmi:id="_60ItVY6FEeyjgorm8hfSZw" label="1..*" max="-1" min="1"/>
+        <type xmi:id="_60ItVo6FEeyjgorm8hfSZw" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+    </operations>
+  </nodes>
+</com.yattasolutions.uml.diagrams.classifier:ClassDiagram>
